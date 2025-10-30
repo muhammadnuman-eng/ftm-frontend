@@ -159,6 +159,14 @@ export default buildConfig({
     db: postgresAdapter({
         pool: {
             connectionString: getPostgresUri(),
+            // Optional SSL support for managed Postgres / PgBouncer
+            ...(process.env.PGSSL === "true"
+                ? { ssl: { rejectUnauthorized: false } }
+                : {}),
+            // Optional connection timeout override
+            ...(process.env.PG_CONNECTION_TIMEOUT_MS
+                ? { connectionTimeoutMillis: Number(process.env.PG_CONNECTION_TIMEOUT_MS) }
+                : {}),
         },
     }),
     admin: {

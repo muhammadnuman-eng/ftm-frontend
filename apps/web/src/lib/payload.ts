@@ -48,6 +48,34 @@ async function withRetry<T>(
 
 // Initialize Payload client once per process to avoid repeated bootstrap cost
 export const getPayloadClient = async () => {
+    // Allow skipping DB connection during static builds or CI by returning a mock client
+    if (process.env.SKIP_DB_ON_BUILD === "true") {
+        if (!cachedPayloadClient) {
+            const mockFind = (async (_options: any) => ({
+                docs: [],
+                hasPrevPage: false,
+                hasNextPage: false,
+                nextPage: null,
+                prevPage: null,
+                limit: _options?.limit ?? 0,
+                page: _options?.page ?? 1,
+                totalDocs: 0,
+                totalPages: 0,
+                pagingCounter: 0,
+            })) as unknown as Payload["find"];
+
+            const mockFindGlobal = (async (_options: any) => ({} as any)) as unknown as Payload["findGlobal"];
+
+            const mock: Partial<Payload> = {
+                // Collections
+                find: mockFind,
+                findGlobal: mockFindGlobal,
+            };
+            cachedPayloadClient = mock as Payload;
+        }
+        return cachedPayloadClient;
+    }
+
     if (!cachedPayloadClient) {
         cachedPayloadClient = await withRetry(() => getPayload({ config }));
     }

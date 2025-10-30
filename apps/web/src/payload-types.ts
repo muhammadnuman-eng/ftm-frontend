@@ -323,10 +323,6 @@ export interface Post {
      * Maximum upload file size: 12MB. Recommended file size for images is <500KB.
      */
     image?: (number | null) | Media;
-      /**
-     * Organization JSON-LD schema for this post (application/ld+json). Overrides global setting.
-     */
-    organizationSchema: string;
   };
   updatedAt: string;
   createdAt: string;
