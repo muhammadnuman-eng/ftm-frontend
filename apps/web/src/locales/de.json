@@ -1,0 +1,515 @@
+{
+    "metadata": {
+        "titleDefault": "Funded Trader Markets",
+        "titleTemplate": "%s | Funded Trader Markets",
+        "description": "Funded Trader Markets: Schnellere Auszahlungen, bessere Prop-Trading-Bedingungen, transparente Regeln.",
+        "ogSiteName": "Funded Trader Markets",
+        "ogType": "website"
+    },
+    "header": {
+        "register": "Registrieren",
+        "login": "Anmelden"
+    },
+    "navigation": {
+        "programs": {
+            "label": "Programme",
+            "links": {
+                "oneStep": {
+                    "title": "1 Step Challenge",
+                    "description": "Ihre Strategie, Ihre Auszahlung."
+                },
+                "twoStep": {
+                    "title": "2-Step Challenge",
+                    "description": "Ohne Zeitlimit, statischer Drawdown, geringe Gebühren."
+                },
+                "instant": {
+                    "title": "Sofortfinanzierung",
+                    "description": "Zugang zu simuliertem Kapital ohne Evaluierung"
+                }
+            },
+            "cta": {
+                "label": "Alle Programme vergleichen",
+                "description": "Finden Sie den idealen Funding-Plan für Ihren Trading-Stil"
+            }
+        },
+        "howItWorks": "So funktioniert's",
+        "affiliates": "Partner",
+        "faq": "FAQ",
+        "resources": "Ressourcen",
+        "blog": {
+            "title": "Blog",
+            "description": "Aktuelle Insights für Forex & Prop Trading"
+        },
+        "tools": {
+            "title": "Tools",
+            "description": "Trading-Tools und Rechner"
+        },
+        "instrumentsSpec": {
+            "title": "Instrumente & Spezifikationen",
+            "description": "Symbole, Kontraktgrößen, Kommissionen und mehr"
+        }
+    },
+    "mobileNavigation": {
+        "menu": "Menü",
+        "close": "Schließen",
+        "brand": "Funded Trader Markets",
+        "programs": {
+            "oneStep": "Funding in nur einem Schritt",
+            "twoStep": "Klassische Zwei-Phasen-Challenge",
+            "instant": "Sofortige Funding-Option"
+        }
+    },
+    "footer": {
+        "tagline": "Wir unterstützen Trader weltweit mit schnellen Auszahlungen, klaren Regeln und professionellen Funding-Programmen.",
+        "links": {
+            "programs": "Programme",
+            "howItWorks": "So funktioniert's",
+            "faq": "FAQ",
+            "blog": "Blog",
+            "tools": "Tools",
+            "affiliates": "Partner",
+            "support": "Support",
+            "helpCenter": "Helpcenter",
+            "legal": "Rechtliches",
+            "privacy": "Datenschutz",
+            "terms": "Nutzungsbedingungen",
+            "cookies": "Cookie-Richtlinie",
+            "refund": "Rückerstattungsrichtlinie",
+            "aml": "AML-Richtlinie",
+            "discord": "Discord beitreten",
+            "x": "X beitreten",
+            "contact": "Kontakt"
+        },
+        "newsletter": {
+            "title": "Immer informiert bleiben",
+            "description": "Erhalten Sie Markt-Updates, Strategien und Payout-News direkt ins Postfach.",
+            "emailPlaceholder": "E-Mail eingeben",
+            "submit": "Abonnieren"
+        },
+        "groups": {
+            "resources": "Ressourcen",
+            "important": "Wichtige Links",
+            "policies": "Richtlinien",
+            "community": "Community"
+        },
+        "callouts": {
+            "newsletter": {
+                "title": "Vorsprung im Trading sichern",
+                "subtitle": "Newsletter abonnieren",
+                "description": "Erhalten Sie Prop-Trading-Tipps, Marktkommentare und Payout-Termine automatisch.",
+                "imageAlt": "Newsletter"
+            },
+            "community": {
+                "title": "Community beitreten",
+                "description": "Profitieren Sie von Live-Marktanalysen, Austausch mit Tradern und exklusiven Experten-Sessions.",
+                "button": "Discord beitreten",
+                "imageAlt": "Discord"
+            }
+        },
+        "social": {
+            "title": "Folgen Sie uns",
+            "facebook": "Facebook",
+            "instagram": "Instagram",
+            "tiktok": "TikTok",
+            "youtube": "YouTube",
+            "linkedin": "LinkedIn"
+        },
+        "legal": {
+            "heading": "Wichtige Hinweise",
+            "body": "Alle Inhalte von FTM Funded Trader Markets LTD (\"FTM\") dienen ausschließlich Informationszwecken und stellen keine Finanz-, Investment- oder Tradingberatung dar. Vergangene Performance garantiert keine zukünftigen Ergebnisse. FTM ist keine Bank, kein Broker und kein Anlageberater."
+        },
+        "copyright": "© {year} Funded Trader Markets. Alle Rechte vorbehalten."
+    },
+    "newsletterForm": {
+        "emailPlaceholder": "E-Mail eingeben",
+        "submit": "Abonnieren",
+        "sending": "Wird gesendet...",
+        "success": "Newsletter erfolgreich abonniert!",
+        "error": "Abonnement fehlgeschlagen. Bitte erneut versuchen.",
+        "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+    },
+    "languageSwitcher": {
+        "label": "Sprache",
+        "loading": "Wechsel wird durchgeführt..."
+    },
+    "faqPage": {
+        "dividerTitle": "FAQs",
+        "title": "Antworten zu Funding & Trading",
+        "titleHighlight": "Antworten",
+        "description": "Alles rund um unsere Forex-Funding-Accounts, Prop-Trading-Regeln und Affiliate-Programme.",
+        "searchPlaceholder": "FAQs durchsuchen...",
+        "categoriesHeading": "Kategorien",
+        "featuredHeading": "Top-Fragen",
+        "featuredDescription": "Meistgestellte Fragen",
+        "noFaqs": "Für diese Kategorie liegen noch keine Fragen vor.",
+        "viewAll": "Alle FAQs ansehen",
+        "readMore": "Weiterlesen",
+        "answerUnavailable": "Inhalt nicht verfügbar",
+        "emptyState": "Noch keine FAQs verfügbar. Bitte später erneut prüfen!"
+    },
+    "howItWorksPage": {
+        "header": {
+            "title": "So funktioniert's",
+            "highlight": "funktioniert",
+            "description": "Vom Onboarding zum funded Account: der FTM Prop-Trading-Prozess"
+        },
+        "propTrading": {
+            "title": "Was bedeutet Prop Trading?",
+            "description": "Funded Trader Markets (FTM) stellt Tradern simulierte Konten mit realen Auszahlungen bereit. Performance wird anhand definierter Risiko-Parameter geprüft. Wer Regeln einhält, kann echte Profite erzielen; Regelverstöße schließen das Konto. Disziplin zahlt sich aus."
+        },
+        "steps": {
+            "cta": "Jetzt durchstarten"
+        },
+        "cta": {
+            "title": "Bereit für den Start?",
+            "description": "Wählen Sie das Programm, das zu Ihrer Strategie passt, und sichern Sie sich noch heute ein funded Account.",
+            "primary": "Programme vergleichen",
+            "secondary": "FAQs ansehen",
+            "highlight": "Start?",
+            "button": "Funding-Pläne ansehen"
+        },
+        "meta": {
+            "title": "So funktioniert's",
+            "description": "Erfahren Sie, wie der Bewertungsprozess von FTM strukturiert ist.",
+            "keywords": "prop trading, forex funding, funded account, trading challenge, FTM"
+        },
+        "roadmap": {
+            "title": "Schritt-für-Schritt-Roadmap",
+            "highlight": "Roadmap"
+        },
+        "evaluation": {
+            "title": "Evaluierungsmodelle",
+            "description": "Auf unserer Programmseite wählen Sie den Pfad, der Ihre Trading-Strategie optimal unterstützt:"
+        }
+    },
+    "programsPage": {
+        "header": {
+            "title": "Ihr Funding-Plan startet hier",
+            "highlight": "Funding-Plan",
+            "description": "Erhalten Sie einen funded Trading-Account über Ein-Schritt-, Zwei-Schritt- oder Instant-Programme – flexibel, ohne Zeitdruck."
+        },
+        "categories": {
+            "count": "{count, plural, one {# Programm verfügbar} other {# Programme verfügbar}}",
+            "oneStep": {
+                "title": "1-Step-Programme",
+                "description": "Funding in nur einem Schritt ohne Zeitlimit. Perfekt für Trader mit klarer Strategie und hohem Profit-Anspruch.",
+                "badge": "Top-Pick"
+            },
+            "twoStep": {
+                "title": "2-Step-Programme",
+                "description": "Klassischer Zwei-Phasen-Prozess mit niedrigen Gebühren, mehr Zeit und klarer Progression.",
+                "badge": "Klassiker"
+            },
+            "instant": {
+                "title": "Instant-Programme",
+                "description": "Überspringen Sie die Evaluierung und handeln Sie sofort mit realem Payout – kein Warten, keine mehrstufige Challenge.",
+                "badge": "Schnellste Finanzierung"
+            }
+        },
+        "learnMore": "Mehr erfahren",
+        "comparison": {
+            "title": "Vergleichen & das beste\nFunding-Programm sichern",
+            "highlight": "Funding-Programm",
+            "description": "Prüfen Sie Features, Regeln und Auszahlungsraten aller FTM-Programme und wählen Sie die optimale Forex-Funding-Lösung."
+        }
+    },
+    "pricingSection": {
+        "categories": {
+            "instant": {
+                "title": "Instant Funding Account",
+                "description": "Sofortige Finanzierung mit realen Marktbedingungen. Ideal für erfahrene Trader, die Evaluierungen überspringen möchten.",
+                "benefits": {
+                    "0": "Ohne Wartezeit – sofort handeln",
+                    "1": "Niedrige Drawdown-Limits für präzises Risikomanagement",
+                    "2": "Gewinnbeteiligung bis zu 80 %"
+                }
+            },
+            "1-step": {
+                "title": "1-Step Evaluierungsprogramm",
+                "description": "Nur eine Evaluierungsphase bis zum funded Account. Schneller Zugang mit ambitionierten Profitzielen.",
+                "benefits": {
+                    "0": "Single-Phase Challenge",
+                    "1": "Profitziele & Splits bis zu 100 %",
+                    "2": "Consistency-Score Tracking"
+                }
+            },
+            "2-step": {
+                "title": "2-Step Trading Challenge",
+                "description": "Traditionelle Zwei-Phasen-Struktur, um Konsistenz und Risikokontrolle vor dem Funding zu prüfen.",
+                "benefits": {
+                    "0": "Umfassender Evaluierungsprozess",
+                    "1": "Höhere Drawdown-Limits für Flexibilität",
+                    "2": "Profit-Splits bis zu 100 %"
+                }
+            }
+        }
+    },
+    "comparisonTable": {
+        "filters": {
+            "type": {
+                "label": "Typ",
+                "options": {
+                    "all": "Alle Typen",
+                    "oneStep": "1-Step",
+                    "twoStep": "2-Step",
+                    "instant": "Instant"
+                }
+            },
+            "program": {
+                "label": "Programm",
+                "options": {
+                    "all": "Alle Programme"
+                }
+            },
+            "size": {
+                "label": "Kontogröße",
+                "option": "{size}"
+            },
+            "drawdown": {
+                "label": "Drawdown",
+                "options": {
+                    "all": "Alle Varianten",
+                    "balanceBased": "Kontostandsbasiert",
+                    "trailing": "Trailing",
+                    "trailingLock": "Trailing Lock"
+                }
+            },
+            "info": {
+                "label": "Info",
+                "options": {
+                    "all": "Alle"
+                }
+            }
+        },
+        "rows": {
+            "shared": {
+                "none": "Kein",
+                "eval": "Eval",
+                "sim": "Sim"
+            },
+            "dailyDd": {
+                "label": "Daily DD"
+            },
+            "overallDd": {
+                "label": "Overall DD"
+            },
+            "profitTarget": {
+                "label": "Profit-Ziel"
+            },
+            "secondProfitTarget": {
+                "label": "2. Profit-Ziel"
+            },
+            "minTradingDays": {
+                "label": "Min. Trading-Tage"
+            },
+            "consistency": {
+                "label": "Consistency"
+            },
+            "fee": {
+                "label": "Fee"
+            },
+            "activationFee": {
+                "label": "Aktivierungsfee"
+            }
+        },
+        "table": {
+            "infoProgram": "Infos / Programm",
+            "activationSuffix": "Aktivierung",
+            "cta": "Jetzt starten",
+            "empty": "Keine Programme erfüllen die gewählten Filter."
+        }
+    },
+    "oneStepPage": {
+        "header": {
+            "title": "1-Step Nitro: Ein Ziel,\n null Verzögerung.",
+            "highlight": "null Verzögerung.",
+            "description": "Nur ein Ziel trennt Sie vom funded Account. Kein Zeitdruck, 100 % Ihres ersten Gewinns bleiben bei Ihnen – Trading zu Ihren Konditionen."
+        },
+        "cards": {
+            "nitro": {
+                "title": "1 Step Nitro",
+                "description": "Unser One-Phase Nitro Programm bringt erfahrene Trader mit einer einzigen Challenge direkt zum simulierten Funding-Konto.",
+                "cta": "Plan auswählen"
+            },
+            "nitroPro": {
+                "title": "1 Step Nitro Pro",
+                "description": "Das günstigste One-Time-Fee-Konto mit nur einer Evaluierung. Ideal für Trader, die engere Drawdowns präzise handeln.",
+                "cta": "Plan auswählen"
+            },
+            "nitroX": {
+                "title": "1 Step Nitro X",
+                "description": "Minimales Profitziel in der Challenge-Phase – perfekt für Trader mit sauberem Risikomanagement und Bedarf an schneller Finanzierung.",
+                "cta": "Plan auswählen"
+            }
+        },
+        "comparison": {
+            "title": "1 Step Programme im Vergleich",
+            "highlight": "Vergleich",
+            "description": "Analysieren Sie Features, Regeln und Payouts aller 1 Step Nitro Programme und sichern Sie sich das passende Funding."
+        },
+        "benefits": {
+            "title": "1-Step Vorteile",
+            "highlight": "Vorteile",
+            "description": "Warum erfahrene Trader auf unsere 1-Step Nitro Programme setzen.",
+            "items": {
+                "capital": {
+                    "title": "Bis zu 800.000 $ Handelsvolumen",
+                    "description": "Skalieren Sie Ihr Kapital über mehrere Konten und kombinieren Sie bis zu 800.000 $."
+                },
+                "profit": {
+                    "title": "Profit-Split bis 100 %",
+                    "description": "Behalten Sie Ihre Gewinne nahezu vollständig dank eines der besten Payout-Modelle am Markt."
+                },
+                "oneStep": {
+                    "title": "Funding in einem Schritt",
+                    "description": "Nur eine Phase trennt Sie vom Trading mit simuliertem Kapital."
+                }
+            }
+        }
+    },
+    "twoStepPage": {
+        "header": {
+            "title": "2-Step Challenge für bewährte Trader",
+            "highlight": "Prop-Firm-Modell",
+            "description": "Zwei Evaluierungsphasen, kein Zeitdruck, statischer Drawdown und niedrige Gebühren. Erzielen Sie Funding und bis zu 100 % Gewinnbeteiligung."
+        },
+        "cards": {
+            "standard": {
+                "title": "Der klassische Weg",
+                "description": "Erreichen Sie 10 % und 5 % Profit Targets mit 10 % Overall Drawdown und 3 % Daily Limit. Behalten Sie 80 % Ihrer Gewinne.",
+                "cta": "Plan auswählen"
+            },
+            "speed": {
+                "title": "Schnelleres Funding, gleiche Regeln",
+                "description": "Profit Targets von 8 % und 5 %, 8 % Overall Drawdown und 3 % Daily Limit – schnellere Evaluierungen mit 80 % Profit-Split.",
+                "cta": "Plan auswählen"
+            },
+            "plus": {
+                "title": "2‑Step Plus",
+                "description": "Beschleunigen Sie Ihren Weg zum Funding mit dem 2‑Step Plus Plan, der günstigsten 2‑Step Option, und behalten Sie 80 % aller Gewinne mit Auszahlungen auf Abruf. Klare Risikogrenzen wie 3 % Daily und 8 % Overall Drawdown schützen Ihr Kapital auf dem Weg zum Ziel.",
+                "cta": "Plan auswählen"
+            }
+        },
+        "comparison": {
+            "title": "2 Step Programme vergleichen",
+            "highlight": "Vergleich",
+            "description": "Bewerten Sie alle 2 Step Programme, Regeln und Auszahlungen, um das passende Forex-Funding zu finden."
+        },
+        "benefits": {
+            "title": "2-Step Vorteile",
+            "highlight": "Vorteile",
+            "description": "Die Vorteile eines strukturierten Evaluierungswegs auf einen Blick.",
+            "items": {
+                "capital": {
+                    "title": "Bis zu 300.000 $ Kapital",
+                    "description": "Managen Sie mit Ihrem FTM 2 Step Account bis zu 300.000 $ und erweitern Sie Ihr Handelsvolumen."
+                },
+                "scaling": {
+                    "title": "Exklusive Scaling-Angebote",
+                    "description": "Skalieren Sie bis 3 Mio. $, verdienen Sie bis 5.000 $ monatlich und sichern Sie sich VIP-Vorteile wie 100 % Profit-Split und kostenlose Challenge-Retrys."
+                },
+                "risk": {
+                    "title": "Durchdachtes Risikomanagement",
+                    "description": "4 % Daily Loss Limit und 10 % statischer Drawdown geben Sicherheit bei gleichzeitigem Handlungsspielraum."
+                }
+            }
+        }
+    },
+    "instantPage": {
+        "header": {
+            "title": "Instant Funding",
+            "highlight": "Funding",
+            "description": "Sofortige Finanzierung ohne Evaluierung. Nutzen Sie simuliertes Kapital, handeln Sie in Top-Marktbedingungen und verdienen Sie bis zu 80 % Profit-Split!"
+        },
+        "cards": {
+            "standard": {
+                "title": "Instant Standard",
+                "description": "Direkter Zugang zu einem simulierten funded Account ohne Evaluierung. Realistische Marktbedingungen, 5 % Max-Drawdown, bis zu 80 % Profit-Split mit einmaliger Gebühr.",
+                "cta": "Plan auswählen"
+            },
+            "pro": {
+                "title": "Instant Pro",
+                "description": "Für professionelle Trader: kein Daily Drawdown Limit, 3 % Overall Drawdown. Maximale Flexibilität und bis zu 80 % Profit-Split.",
+                "cta": "Plan auswählen"
+            },
+            "plus": {
+                "title": "Instant Plus",
+                "description": "Die perfekte Balance aus hohem Profitpotenzial und Risk‑Management‑Layer: Starten Sie sofort mit 80 % Profit‑Split und Auszahlungen auf Abruf. Klare Risikogrenzen wie 3 % Daily und 6 % Overall Drawdown geben Sicherheit vom ersten Tag an.",
+                "cta": "Plan auswählen"
+            }
+        },
+        "comparison": {
+            "title": "Instant Programme vergleichen",
+            "highlight": "Vergleich",
+            "description": "Analysieren Sie Features, Regeln und Auszahlungen aller Instant Programme und wählen Sie das passende Modell."
+        },
+        "benefits": {
+            "title": "Instant Vorteile",
+            "highlight": "Vorteile",
+            "description": "Warum Trader sich für Instant Funding bei FTM entscheiden.",
+            "items": {
+                "profitSplit": {
+                    "title": "Profit-Split bis 80 %",
+                    "description": "Maximieren Sie Ihre Auszahlungen mit einem der fairsten Profit-Splits der Branche."
+                },
+                "withdraw": {
+                    "title": "Payout on Demand",
+                    "description": "Fordern Sie Auszahlungen nach nur fünf Handelstagen jederzeit an – ohne fixe Termine."
+                },
+                "noFreeze": {
+                    "title": "Kein Buffer-Freeze",
+                    "description": "Erhalten Sie Ihren Split auf jeden realisierten Profit ohne Einfrieren des Kontos."
+                },
+                "drawdownReset": {
+                    "title": "Drawdown Reset",
+                    "description": "Nach jeder Auszahlung steht der volle Drawdown wieder zur Verfügung."
+                },
+                "drawdownType": {
+                    "title": "Kontostandsbasierter Trailing Drawdown",
+                    "description": "Limits bewegen sich erst nach geschlossenen Positionen – keine Fallen durch schweigende Equity."
+                }
+            }
+        }
+    },
+    "advantages": {
+        "dividerTitle": "Der FTM Vorteil",
+        "title": "Warum Trader FTM wählen",
+        "titleHighlight": "FTM",
+        "description": "FTM ist einer der führenden Provider für Forex Funding, schnelle Payouts und professionelle Prop-Trading-Programme.",
+        "cards": {
+            "support": {
+                "title": "Support rund um die Uhr",
+                "description": "Unser Team steht 24/7 bereit, um Fragen zu Funding, Plattform und Auszahlung zu beantworten."
+            },
+            "profit": {
+                "title": "Gewinnbeteiligung bis 100 %",
+                "description": "Unsere Scaling-Pläne ermöglichen maximale Profit-Share-Modelle in der Branche."
+            },
+            "payouts": {
+                "title": "Auszahlungen auf Abruf",
+                "description": "Payouts nach Bedarf – kein starres Auszahlungsfenster."
+            },
+            "conditions": {
+                "title": "Top Handelsbedingungen",
+                "description": "Enge Spreads, keine Swaps, schnelle Execution für präzises Trading."
+            }
+        }
+    },
+    "checkout": {
+        "categories": {
+            "oneStep": "1-Step Evaluierung",
+            "twoStep": "2-Step Evaluierung",
+            "instant": "Instant Funding"
+        },
+        "orderSummary": "Order Overview",
+        "selectionIncomplete": "Auswahl unvollständig.",
+        "goBackToChoose": "Konfiguration erneut wählen"
+    },
+    "cookieConsent": {
+        "message": "Wir verwenden Cookies und ähnliche Technologien, um Ihre Erfahrung durch die Verarbeitung von Daten wie dem Browsing-Verhalten zu optimieren. Das Widerrufen oder Verweigern der Zustimmung kann die Funktionalität der Website beeinträchtigen.",
+        "acceptButton": "Akzeptieren",
+        "denyButton": "Ablehnen",
+        "cookiePolicyLink": "Cookie-Richtlinie",
+        "privacyPolicyLink": "Datenschutzerklärung"
+    }
+}

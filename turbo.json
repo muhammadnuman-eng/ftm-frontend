@@ -1,0 +1,57 @@
+{
+    "$schema": "https://turbo.build/schema.json",
+    "ui": "tui",
+    "tasks": {
+        "build": {
+            "dependsOn": ["^build"],
+            "inputs": ["$TURBO_DEFAULT$", ".env*"],
+            "outputs": ["dist/**"],
+            "env": [
+                "DATABASE_URL",
+                "POSTGRES_URI",
+                "PAYLOAD_SECRET",
+                "S3_BUCKET",
+                "S3_ACCESS_KEY_ID",
+                "S3_SECRET_ACCESS_KEY",
+                "S3_REGION",
+                "S3_ENDPOINT",
+                "CONFIRMO_API_KEY",
+                "CONFIRMO_CALLBACK_PASSWORD",
+                "INAPP_ORDERS_SECRET_KEY",
+                "PAYTIKO_CORE_URL",
+                "PAYTIKO_MERCHANT_SECRET",
+                "PAYTIKO_ENV",
+                "PAYTIKO_MERCHANT_ID",
+                "PAYTIKO_LOWERCASE_EMAIL_FOR_SIGNATURE",
+                "PAYTIKO_SIGNATURE_ENCODING",
+                "PAYTIKO_DEBUG",
+                "BRIDGERPAY_API_URL",
+                "BRIDGERPAY_EMBED_URL",
+                "BRIDGERPAY_API_KEY",
+                "BRIDGERPAY_CASHIER_KEY",
+                "BRIDGERPAY_USERNAME",
+                "BRIDGERPAY_PASSWORD",
+                "BRIDGERPAY_ENV",
+                "HYROS_API_KEY",
+                "HYROS_ENABLE_TEST",
+                "AFFILIATE_JWT_SECRET",
+                "AFFILIATEWP_API_URL",
+                "AFFILIATEWP_API_PUBLIC_KEY",
+                "AFFILIATEWP_API_TOKEN",
+                "NEXT_PUBLIC_KLAVIYO_PUBLIC_KEY",
+                "KLAVIYO_API_KEY",
+                "KLAVIYO_NEWSLETTER_LIST_ID"
+            ]
+        },
+        "lint": {
+            "dependsOn": ["^lint"]
+        },
+        "check-types": {
+            "dependsOn": ["^check-types"]
+        },
+        "dev": {
+            "cache": false,
+            "persistent": true
+        }
+    }
+}

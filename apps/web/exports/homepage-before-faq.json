@@ -1,0 +1,213 @@
+{
+    "id": 7,
+    "hero": {
+        "tagline": "Get Your Funded Trading Account. Trade Without Limits.",
+        "headline": "No Excuses. No Delays.",
+        "highlightedText": "24 Hours",
+        "secondaryHighlight": "We Pay Double",
+        "primaryButtonText": "Get Funded",
+        "primaryButtonUrl": "/variations",
+        "secondaryButtonText": "Join Discord",
+        "secondaryButtonUrl": "https://discord.com/invite/ftmarkets"
+    },
+    "features": [
+        {
+            "id": "68bbfa11fa9029104aa6af7b",
+            "text": "150+ Countries Covered",
+            "icon": "globe",
+            "iconColor": "blue"
+        },
+        {
+            "id": "68bbfa11fa9029104aa6af7c",
+            "text": "Up to $2 million Max Allocation",
+            "icon": "wallet",
+            "iconColor": "yellow"
+        },
+        {
+            "id": "68bbfa11fa9029104aa6af7d",
+            "text": "24Hrs Payout Guaranteed",
+            "icon": "dollar-badge",
+            "iconColor": "green"
+        },
+        {
+            "id": "68bbfa11fa9029104aa6af7e",
+            "text": "On-Demand Payout",
+            "icon": "hand-coins",
+            "iconColor": "rose"
+        }
+    ],
+    "featuredIn": {
+        "heading": "As Featured In",
+        "logos": [
+            {
+                "id": "68bbfaaadcccd12cbfd5c010",
+                "name": "Benzinga",
+                "logo": {
+                    "id": 1,
+                    "alt": "benzinga",
+                    "updatedAt": "2025-09-05T13:11:32.059Z",
+                    "createdAt": "2025-09-05T13:11:32.058Z",
+                    "url": "/api/media/file/benzinga.png",
+                    "thumbnailURL": null,
+                    "filename": "benzinga.png",
+                    "mimeType": "image/png",
+                    "filesize": 7202,
+                    "width": 300,
+                    "height": 42,
+                    "focalX": 50,
+                    "focalY": 50,
+                    "sizes": {
+                        "thumbnail": {
+                            "url": null,
+                            "width": null,
+                            "height": null,
+                            "mimeType": null,
+                            "filesize": null,
+                            "filename": null
+                        },
+                        "card": {
+                            "url": null,
+                            "width": null,
+                            "height": null,
+                            "mimeType": null,
+                            "filesize": null,
+                            "filename": null
+                        },
+                        "tablet": {
+                            "url": null,
+                            "width": null,
+                            "height": null,
+                            "mimeType": null,
+                            "filesize": null,
+                            "filename": null
+                        }
+                    }
+                },
+                "url": "https://www.benzinga.com/pressreleases/25/06/ab45909536/funded-trader-markets-sets-new-benchmark-in-prop-trading-with-instant-payouts"
+            }
+        ]
+    },
+    "advantages": {
+        "dividerTitle": "The FTM Advantage",
+        "title": "Why Traders Choose FTM?",
+        "titleHighlight": "FTM?",
+        "description": "Discover why FTM is a leading prop firm for instant funding, fast payouts, and funded trading accounts.",
+        "cards": [
+            {
+                "id": "68bbfa11fa9029104aa6af7f",
+                "title": "24/7 Support",
+                "description": "We are here to answer to all your questions. ALL day & night",
+                "icon": "phone",
+                "iconColor": "blue",
+                "gradientPosition": "top-right"
+            },
+            {
+                "id": "68bbfa11fa9029104aa6af80",
+                "title": "Up to 100% Profit Split",
+                "description": "An easy method to get paid within 24 hours guaranteed",
+                "icon": "circle-dollar-sign",
+                "iconColor": "yellow",
+                "gradientPosition": "top-center"
+            },
+            {
+                "id": "68bbfa11fa9029104aa6af81",
+                "title": "On Demand Payouts",
+                "description": "Need to get your payout instantly? No problem! Get It when you want.",
+                "icon": "hand-coins",
+                "iconColor": "green",
+                "gradientPosition": "top-center"
+            },
+            {
+                "id": "68bbfa11fa9029104aa6af82",
+                "title": "Best Conditions",
+                "description": "Tight Spreads, No Swaps, and Fast Execution",
+                "icon": "ribbon",
+                "iconColor": "rose",
+                "gradientPosition": "top-left"
+            }
+        ]
+    },
+    "payoutsFeatures": {
+        "dividerTitle": "Get Paid Fast",
+        "title": "Reliable, On-Time\n Payouts Guaranteed",
+        "titleHighlight": "Guaranteed",
+        "description": "Enjoy fast payouts with our trusted forex prop firm built for funded traders.",
+        "features": [
+            {
+                "id": "68bbfcc5ae116eaa724464ab",
+                "title": "Generous Profit Split",
+                "description": "With us, keep up to 100% of your rewards on our evaluation programs. And up to 80% on our instant funding challenges.",
+                "position": "left-tall"
+            },
+            {
+                "id": "68bbfcc5ae116eaa724464ac",
+                "title": "On-Demand Payout",
+                "description": "Criteria met? Withdraw instantly. No more 30-day, 14-day or 7-day cycles. Hundreds of proof reviews on discord and payout junction!",
+                "position": "top-right"
+            },
+            {
+                "id": "68bbfcc5ae116eaa724464ad",
+                "title": "24 Hours or Double Payout",
+                "description": "We guarantee payouts in 24 hours or less. If we're late, we double your payout and give you a free account. No excuses. Full confidence.",
+                "position": "bottom-middle"
+            },
+            {
+                "id": "68bbfcc5ae116eaa724464ae",
+                "title": "Average Processing Time",
+                "description": "Most payouts are completed in under 2 hours. We move faster than the industry standard, backed by a 24-hour guarantee.",
+                "position": "right-tall"
+            }
+        ]
+    },
+    "highestPayouts": {
+        "title": "Milestone Rewards for Trading Champions",
+        "titleHighlight": "Trading Champions",
+        "description": "Celebrating our biggest single payouts from successful traders"
+    },
+    "tradingFeatures": {
+        "dividerTitle": "Best Prop Trading Solutions",
+        "title": "Fast Execution on\nLeading Trading Platforms",
+        "titleHighlight": "Leading",
+        "description": "Trade forex, commodities, and indices in liquid markets with advanced charts and fast execution.",
+        "features": [
+            {
+                "id": "68bc002529f462604335f15e",
+                "title": "Multiple Trading Platforms",
+                "description": "We equip our traders with world-class platforms that provide the best trading experience",
+                "layout": "large-left"
+            },
+            {
+                "id": "68bc002529f462604335f15f",
+                "title": "Swap Free",
+                "description": "Trade without overnight fees with swap-free accounts. Applicable on All accounts without additional charge.",
+                "layout": "top-right"
+            },
+            {
+                "id": "68bc002529f462604335f160",
+                "title": "Up to 1:100 Leverage",
+                "description": "We equip our traders with world-class platforms that provide the best trading experience",
+                "layout": "bottom-left"
+            },
+            {
+                "id": "68bc002529f462604335f161",
+                "title": "Trade Different Markets",
+                "description": "Forex, Commodities, Indices & more, trade your favorite markets across multiple platforms, your way!",
+                "layout": "large-bottom-right"
+            }
+        ]
+    },
+    "videoTestimonials": {
+        "dividerTitle": "Success Reviews",
+        "title": "What Our Traders Are Saying",
+        "titleHighlight": "Traders",
+        "description": "Real feedback from real traders who've leveled up their game with us."
+    },
+    "testimonials": {
+        "title": "100+ Satisfied Traders",
+        "titleHighlight": "Satisfied",
+        "description": "Don't take our word for it, see what our traders have to say"
+    },
+    "updatedAt": "2025-09-06T09:41:01.110Z",
+    "createdAt": "2025-09-06T09:41:01.110Z",
+    "globalType": "homepage"
+}

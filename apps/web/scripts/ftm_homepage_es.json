@@ -1,0 +1,503 @@
+{
+  "translations": {
+    "id": 1,
+    "hero": {
+      "tagline": "Obtenga su cuenta financiada de trading. Opere sin límites.",
+      "headline": "Sin excusas. Sin demoras.",
+      "highlightedText": "24 Hours",
+      "secondaryHighlight": "We Pay Double",
+      "primaryButtonText": "Obtenga financiación",
+      "primaryButtonUrl": "/variations",
+      "secondaryButtonText": "Unirse a Discord",
+      "secondaryButtonUrl": "https://discord.com/invite/ftmarkets"
+    },
+    "features": [
+      {
+        "text": "Cobertura en más de 150 países",
+        "icon": "globe",
+        "iconColor": "blue",
+        "id": "68dc65fdcb943fa3c259212d"
+      },
+      {
+        "text": "Asignación máxima de hasta $2 millones",
+        "icon": "wallet",
+        "iconColor": "yellow",
+        "id": "68dc65fdcb943fa3c259212e"
+      },
+      {
+        "text": "Pago garantizado en 24 horas",
+        "icon": "dollar-badge",
+        "iconColor": "green",
+        "id": "68dc65fdcb943fa3c259212f"
+      },
+      {
+        "text": "Pago bajo demanda",
+        "icon": "hand-coins",
+        "iconColor": "rose",
+        "id": "68dc65fdcb943fa3c2592130"
+      }
+    ],
+    "featuredIn": {
+      "heading": "Como aparece en",
+      "logos": [
+        {
+          "id": "68dc6617f3f8321c4131ccb2",
+          "name": "Benzinga",
+          "logo": {
+            "id": 27,
+            "alt": null,
+            "updatedAt": "2025-09-30T23:22:15.826Z",
+            "createdAt": "2025-09-30T23:22:15.826Z",
+            "url": "/api/media/file/benzinga-1.png",
+            "thumbnailURL": "/api/media/file/benzinga-1-400x300.png",
+            "filename": "benzinga-1.png",
+            "mimeType": "image/png",
+            "filesize": 3870,
+            "width": 512,
+            "height": 71,
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": {
+                "url": "/api/media/file/benzinga-1-400x300.png",
+                "width": 400,
+                "height": 300,
+                "mimeType": "image/png",
+                "filesize": 25926,
+                "filename": "benzinga-1-400x300.png"
+              },
+              "card": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              },
+              "tablet": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              }
+            }
+          },
+          "url": "https://www.benzinga.com/pressreleases/25/06/ab45909536/funded-trader-markets-sets-new-benchmark-in-prop-trading-with-instant-payouts"
+        },
+        {
+          "id": "68dc6641f3f8321c4131ccb4",
+          "name": "Street Insider",
+          "logo": {
+            "id": 28,
+            "alt": null,
+            "updatedAt": "2025-09-30T23:22:52.656Z",
+            "createdAt": "2025-09-30T23:22:52.656Z",
+            "url": "/api/media/file/street-insider.png",
+            "thumbnailURL": "/api/media/file/street-insider-400x300.png",
+            "filename": "street-insider.png",
+            "mimeType": "image/png",
+            "filesize": 95974,
+            "width": 1326,
+            "height": 228,
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": {
+                "url": "/api/media/file/street-insider-400x300.png",
+                "width": 400,
+                "height": 300,
+                "mimeType": "image/png",
+                "filesize": 40125,
+                "filename": "street-insider-400x300.png"
+              },
+              "card": {
+                "url": "/api/media/file/street-insider-768x1024.png",
+                "width": 768,
+                "height": 1024,
+                "mimeType": "image/png",
+                "filesize": 172240,
+                "filename": "street-insider-768x1024.png"
+              },
+              "tablet": {
+                "url": "/api/media/file/street-insider-1024x176.png",
+                "width": 1024,
+                "height": 176,
+                "mimeType": "image/png",
+                "filesize": 61550,
+                "filename": "street-insider-1024x176.png"
+              }
+            }
+          },
+          "url": "https://www.streetinsider.com/Globe+PR+Wire/Transforming+the+Prop+Trading+Landscape%3A+Funded+Trader+Markets+Ensures+Rapid+Payouts/24964431.html"
+        },
+        {
+          "id": "68dc6666f3f8321c4131ccb6",
+          "name": "Binance",
+          "logo": {
+            "id": 29,
+            "alt": null,
+            "updatedAt": "2025-09-30T23:23:27.100Z",
+            "createdAt": "2025-09-30T23:23:27.100Z",
+            "url": "/api/media/file/binance.png",
+            "thumbnailURL": "/api/media/file/binance-400x300.png",
+            "filename": "binance.png",
+            "mimeType": "image/png",
+            "filesize": 41339,
+            "width": 979,
+            "height": 208,
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": {
+                "url": "/api/media/file/binance-400x300.png",
+                "width": 400,
+                "height": 300,
+                "mimeType": "image/png",
+                "filesize": 17434,
+                "filename": "binance-400x300.png"
+              },
+              "card": {
+                "url": "/api/media/file/binance-768x1024.png",
+                "width": 768,
+                "height": 1024,
+                "mimeType": "image/png",
+                "filesize": 84377,
+                "filename": "binance-768x1024.png"
+              },
+              "tablet": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              }
+            }
+          },
+          "url": "https://www.binance.com/en/square/post/26014980655161"
+        },
+        {
+          "id": "68dc6685f3f8321c4131ccb8",
+          "name": "MSN",
+          "logo": {
+            "id": 30,
+            "alt": null,
+            "updatedAt": "2025-09-30T23:23:57.040Z",
+            "createdAt": "2025-09-30T23:23:57.040Z",
+            "url": "/api/media/file/msn-logo.png",
+            "thumbnailURL": "/api/media/file/msn-logo-400x300.png",
+            "filename": "msn-logo.png",
+            "mimeType": "image/png",
+            "filesize": 6413,
+            "width": 462,
+            "height": 200,
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": {
+                "url": "/api/media/file/msn-logo-400x300.png",
+                "width": 400,
+                "height": 300,
+                "mimeType": "image/png",
+                "filesize": 9632,
+                "filename": "msn-logo-400x300.png"
+              },
+              "card": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              },
+              "tablet": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              }
+            }
+          },
+          "url": "https://www.msn.com/en-us/money/smallbusiness/funded-trader-markets-introduces-nitrox-affordable-and-fast-funding-access/ar-AA1KKmGl"
+        },
+        {
+          "id": "68dc66acf3f8321c4131ccba",
+          "name": "Digital Journal",
+          "logo": {
+            "id": 31,
+            "alt": null,
+            "updatedAt": "2025-09-30T23:24:38.506Z",
+            "createdAt": "2025-09-30T23:24:38.506Z",
+            "url": "/api/media/file/digital-journal.png",
+            "thumbnailURL": "/api/media/file/digital-journal-400x300.png",
+            "filename": "digital-journal.png",
+            "mimeType": "image/png",
+            "filesize": 3812,
+            "width": 512,
+            "height": 77,
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": {
+                "url": "/api/media/file/digital-journal-400x300.png",
+                "width": 400,
+                "height": 300,
+                "mimeType": "image/png",
+                "filesize": 30299,
+                "filename": "digital-journal-400x300.png"
+              },
+              "card": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              },
+              "tablet": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              }
+            }
+          },
+          "url": "https://www.digitaljournal.com/pr/news/insights-news-wire/funded-trader-markets-sets-new-1457400942.html"
+        },
+        {
+          "id": "68dc66d4f3f8321c4131ccbc",
+          "name": "Finance Magnets",
+          "logo": {
+            "id": 32,
+            "alt": null,
+            "updatedAt": "2025-09-30T23:25:16.553Z",
+            "createdAt": "2025-09-30T23:25:16.552Z",
+            "url": "/api/media/file/finance-magnets.png",
+            "thumbnailURL": null,
+            "filename": "finance-magnets.png",
+            "mimeType": "image/png",
+            "filesize": 1349,
+            "width": 141,
+            "height": 56,
+            "focalX": 50,
+            "focalY": 50,
+            "sizes": {
+              "thumbnail": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              },
+              "card": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              },
+              "tablet": {
+                "url": null,
+                "width": null,
+                "height": null,
+                "mimeType": null,
+                "filesize": null,
+                "filename": null
+              }
+            }
+          },
+          "url": "https://www.financemagnates.com/thought-leadership/ftm-launches-mt5-and-proprietary-brokerage-built-for-serious-traders/"
+        }
+      ]
+    },
+    "advantages": {
+      "dividerTitle": "La ventaja de FTM",
+      "title": "Por qué los traders eligen FTM?",
+      "titleHighlight": "FTM?",
+      "description": "Descubra por qué FTM es una firma líder por su financiación instantánea, pagos rápidos y cuentas financiadas.",
+      "cards": [
+        {
+          "id": "68dc65fdcb943fa3c2592131",
+          "title": "Soporte 24/7",
+          "description": "Estamos aquí para responder todas sus preguntas, todo el día y toda la noche.",
+          "icon": "phone",
+          "iconColor": "blue",
+          "gradientPosition": "top-right"
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592132",
+          "title": "Reparto de beneficios de hasta el 100%",
+          "description": "Un método sencillo para cobrar en un máximo de 24 horas, con garantía.",
+          "icon": "circle-dollar-sign",
+          "iconColor": "yellow",
+          "gradientPosition": "top-center"
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592133",
+          "title": "Pagos bajo demanda",
+          "description": "¿Necesita su pago al instante? No hay problema, recíbalo cuando lo desee.",
+          "icon": "hand-coins",
+          "iconColor": "green",
+          "gradientPosition": "top-center"
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592134",
+          "title": "Mejores condiciones",
+          "description": "Spreads ajustados, sin swaps y ejecución rápida.",
+          "icon": "ribbon",
+          "iconColor": "rose",
+          "gradientPosition": "top-left"
+        }
+      ]
+    },
+    "payoutsFeatures": {
+      "dividerTitle": "Cobre rápido",
+      "title": "Pagos confiables y puntuales\nGarantizados",
+      "titleHighlight": "Garantizados",
+      "description": "Disfrute de pagos rápidos con nuestra firma de prop trading, diseñada para traders con cuentas financiadas.",
+      "features": [
+        {
+          "id": "68dc65fdcb943fa3c2592135",
+          "title": "Reparto de beneficios generoso",
+          "description": "Con nosotros, conserve hasta el 100% de sus ganancias en nuestros programas de evaluación. Y hasta el 80% en nuestros desafíos de financiación instantánea.",
+          "position": "left-tall"
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592136",
+          "title": "Pago bajo demanda",
+          "description": "¿Cumple los criterios? Retire de inmediato. No más ciclos de 30, 14 o 7 días. Cientos de pruebas en Discord y Payout Junction.",
+          "position": "top-right"
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592137",
+          "title": "24 horas o pago doble",
+          "description": "Garantizamos los pagos en 24 horas o menos. Si nos retrasamos, duplicamos su pago y le damos una cuenta gratis. Sin excusas. Máxima confianza.",
+          "position": "bottom-middle"
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592138",
+          "title": "Tiempo de procesamiento promedio",
+          "description": "La mayoría de los pagos se completan en menos de 2 horas. Avanzamos más rápido que el estándar del sector, respaldado por una garantía de 24 horas.",
+          "position": "right-tall"
+        }
+      ]
+    },
+    "highestPayouts": {
+      "title": "Campeones del trading",
+      "titleHighlight": "Campeones",
+      "description": "Celebramos a nuestros traders con mayores pagos"
+    },
+    "tradingFeatures": {
+      "dividerTitle": "Las mejores soluciones de prop trading",
+      "title": "Ejecución rápida en\nplataformas líderes de trading",
+      "titleHighlight": "Líderes",
+      "description": "Opere divisas, materias primas e índices en mercados líquidos con gráficos avanzados y ejecución rápida.",
+      "features": [
+        {
+          "id": "68dc65fdcb943fa3c2592139",
+          "title": "Múltiples plataformas de trading",
+          "description": "Proveemos a nuestros traders de plataformas de clase mundial que ofrecen la mejor experiencia de trading.",
+          "layout": "large-left"
+        },
+        {
+          "id": "68dc65fdcb943fa3c259213a",
+          "title": "Sin swaps",
+          "description": "Opere sin comisiones nocturnas con cuentas sin swaps. Aplicable a todas las cuentas sin coste adicional.",
+          "layout": "top-right"
+        },
+        {
+          "id": "68dc65fdcb943fa3c259213b",
+          "title": "Hasta 1:100 de apalancamiento",
+          "description": "Proveemos a nuestros traders de plataformas de clase mundial que ofrecen la mejor experiencia de trading.",
+          "layout": "bottom-left"
+        },
+        {
+          "id": "68dc65fdcb943fa3c259213c",
+          "title": "Opere diferentes mercados",
+          "description": "Forex, materias primas, índices y más, opere sus mercados favoritos en múltiples plataformas, a su modo.",
+          "layout": "large-bottom-right"
+        }
+      ]
+    },
+    "videoTestimonials": {
+      "dividerTitle": "Opiniones de éxito",
+      "title": "Lo que dicen nuestros traders",
+      "titleHighlight": "Traders",
+      "description": "Opiniones reales de traders reales que han elevado su nivel con nosotros."
+    },
+    "testimonials": {
+      "title": "Más de 100 traders satisfechos",
+      "titleHighlight": "Satisfechos",
+      "description": "No se quede solo con nuestras palabras, vea lo que opinan nuestros traders"
+    },
+    "faq": {
+      "dividerTitle": "Preguntas frecuentes sobre prop trading",
+      "title": "Sus preguntas, nuestras respuestas",
+      "titleHighlight": "Nuestras respuestas",
+      "description": "Encuentre respuestas a preguntas comunes sobre nuestros programas de prop trading, el proceso de evaluación y los requisitos de financiación.",
+      "faqs": [
+        {
+          "id": "68dc65fdcb943fa3c259213d",
+          "question": "¿Qué es una firma de Forex Prop Trading?",
+          "answer": "Una firma de Forex Prop Trading permite a los traders operar con un capital simulado más alto, mientras ganan dinero real en función de sus habilidades de trading consistentemente rentables. Les permite operar sin arriesgar su propio dinero. En Funded Trader Markets (FTM), los traders pueden demostrar sus habilidades mediante un proceso de evaluación o a través de Cuentas Financiadas Instantáneas simuladas y quedarse con una parte significativa de los beneficios que generen."
+        },
+        {
+          "id": "68dc65fdcb943fa3c259213e",
+          "question": "¿Qué es una cuenta financiada de Forex?",
+          "answer": "Una cuenta financiada de Forex es una cuenta de trading proporcionada por una firma de prop trading, que permite a los traders operar con un capital simulado grande en lugar de su propio dinero. Permite a los traders con habilidades obtener beneficios sin asumir un riesgo financiero elevado."
+        },
+        {
+          "id": "68dc65fdcb943fa3c259213f",
+          "question": "¿Cómo se califica para una cuenta financiada simulada?",
+          "answer": "Para calificar a una cuenta financiada simulada con FTM, normalmente tiene dos opciones:\nCon evaluación, deberá cumplir objetivos de beneficio, seguir reglas de gestión de riesgo y demostrar trading consistente.\nSin evaluación, puede acceder directamente a Cuentas Financiadas Instantáneas, sujeto a tarifas y elegibilidad.\nEsto garantiza que solo avancen los traders responsables y consistentes."
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592140",
+          "question": "¿Cuáles son los riesgos de operar con una firma de prop trading?",
+          "answer": "Aunque operar con una firma de prop trading ofrece excelentes oportunidades, existen riesgos que considerar. Si supera los límites de drawdown o no cumple las reglas de gestión de riesgo, su cuenta puede suspenderse. Algunas firmas también pueden restringir ciertas estrategias o instrumentos. Comprender y gestionar estos riesgos es clave para el éxito a largo plazo."
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592141",
+          "question": "¿Cuáles son los beneficios de unirse a una firma de Forex Prop Trading?",
+          "answer": "Unirse a una firma de prop trading como Funded Trader Markets ofrece múltiples beneficios:\nAcceso a capital, opere hasta $600,000 en capital simulado sin arriesgar su propio dinero (solo una tarifa de evaluación).\nApoyo en gestión de riesgo, los objetivos de beneficio y límites de pérdida le ayudan a mantener la disciplina.\nMentoría y herramientas, acceso a recursos que mejoran sus habilidades y le mantienen actualizado sobre las tendencias del mercado.\nReparto de beneficios, gane hasta el 100% de sus beneficios.\nEscalabilidad, si tiene un buen desempeño, acceda a cuentas mayores y a un mayor potencial de pago."
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592142",
+          "question": "¿Cuánto puede ganar con una cuenta financiada simulada?",
+          "answer": "Las ganancias dependen de su desempeño. En FTM, los traders pueden ganar hasta el 100% de los beneficios que generen. No hay un límite máximo para los beneficios que un trader puede generar. Cuanto más consistente y rentable sea, más podrá ganar."
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592143",
+          "question": "¿Cuáles son las tarifas de evaluación en Funded Trader Markets?",
+          "answer": "Las tarifas de evaluación varían según el tipo de programa y el tamaño de la cuenta:\n• 1-Step Evaluation: $15 (para $5k) a $649 (para $300k)\n• 2-Step Evaluation: $29 (para $5k) a $679 (para $200k)\n• Instant Programs: $47 (para $5k) a $769 (para $100k)"
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592144",
+          "question": "¿Cuáles son las reglas para operar con una cuenta financiada de Forex?",
+          "answer": "Para operar con una cuenta financiada de FTM, debe:\nCumplir los objetivos de beneficio\nRespetar los límites de drawdown\nCumplir el puntaje de consistencia\nPara conocer las reglas detalladas de cada programa, consulte nuestras Reglas generales de trading."
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592145",
+          "question": "¿Puede retirar beneficios de una cuenta financiada simulada?",
+          "answer": "Sí. Puede retirar beneficios de su cuenta financiada simulada de FTM cuando cumpla los criterios de trading. Envíe una solicitud de pago desde su Panel del Trader, elija su método de pago preferido y especifique el importe.\n• Pago mínimo: 1% de su saldo inicial\n• Frecuencia de pago: Bajo demanda\n• Plazo de procesamiento: normalmente dentro de 24 horas hábiles\n• Métodos de pago: Crypto y Rise"
+        },
+        {
+          "id": "68dc65fdcb943fa3c2592146",
+          "question": "¿Qué funciones ofrece su plataforma?",
+          "answer": "Funded Trader Markets ofrece una plataforma fácil de usar donde los traders acceden a capital virtual y operan hasta $600,000. Funcionalidades clave:\n• Cuentas asequibles frente a otras firmas\n• Sistema de pagos sencillo con solicitudes bajo demanda\n• Múltiples métodos de retiro, incluidos Crypto y Rise\n• Programas de escalado para traders consistentes\n• Reparto de beneficios de hasta el 100%\n• Opciones de evaluación y financiación instantánea"
+        }
+      ]
+    },
+    "updatedAt": "2025-10-03T20:47:34.175Z",
+    "createdAt": "2025-09-27T10:08:23.071Z",
+    "globalType": "homepage"
+  }
+}

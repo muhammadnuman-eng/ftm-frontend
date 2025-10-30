@@ -1,0 +1,269 @@
+// Schedule Matrix Field Styles - Using PayloadCMS Design System
+
+.schedule-matrix-field {
+  margin-bottom: var(--base);
+  
+  &__header {
+    margin-bottom: var(--base);
+    padding: var(--base);
+    background: var(--theme-elevation-50);
+    border: 1px solid var(--theme-elevation-150);
+    border-radius: var(--style-radius-s);
+  }
+
+  &__title {
+    font-size: var(--font-size-large);
+    font-weight: var(--font-weight-bold);
+    color: var(--theme-text);
+    margin: 0 0 calc(var(--base) / 2) 0;
+  }
+
+  &__description {
+    font-size: var(--font-size-small);
+    color: var(--theme-elevation-800);
+    margin: 0;
+    line-height: var(--line-height-relaxed);
+  }
+
+  &__section {
+    margin-bottom: var(--base);
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &__section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: calc(var(--base) * 0.75);
+    gap: var(--base);
+  }
+
+  &__section-title {
+    font-size: var(--font-size-medium);
+    font-weight: var(--font-weight-semibold);
+    color: var(--theme-text);
+    margin: 0 0 calc(var(--base) / 4) 0;
+  }
+
+  &__section-description {
+    font-size: var(--font-size-small);
+    color: var(--theme-elevation-800);
+    margin: 0;
+    line-height: var(--line-height-relaxed);
+  }
+
+  &__date-columns {
+    display: flex;
+    flex-direction: column;
+    gap: calc(var(--base) * 0.5);
+    margin-top: calc(var(--base) * 0.5);
+  }
+
+  &__date-column {
+    display: flex;
+    align-items: center;
+    gap: calc(var(--base) * 0.5);
+    padding: calc(var(--base) * 0.75);
+    background: var(--theme-bg);
+    border: 1px solid var(--theme-elevation-300);
+    border-radius: var(--style-radius-s);
+    transition: border-color 0.15s ease;
+    
+    &:hover {
+      border-color: var(--theme-elevation-400);
+    }
+    
+    // Remove custom styling - let PayloadCMS input classes take over
+    .input {
+      flex: 1;
+      min-width: 140px;
+    }
+
+    // Make Payload DatePickerField span full width
+    .date-time-picker {
+      flex: 1;
+      width: 100%;
+
+      .react-datepicker-wrapper,
+      .react-datepicker__input-container {
+        width: 100%;
+      }
+    }
+  }
+
+  &__column-badge {
+    background: var(--theme-elevation-200);
+    color: var(--theme-text);
+    padding: calc(var(--base) * 0.25) calc(var(--base) * 0.5);
+    border-radius: var(--style-radius-s);
+    font-size: var(--font-size-small);
+    font-weight: var(--font-weight-medium);
+    white-space: nowrap;
+    min-width: 50px;
+    text-align: center;
+    border: 1px solid var(--theme-elevation-300);
+  }
+
+  &__empty-state {
+    padding: calc(var(--base) * 2);
+    text-align: center;
+    background: var(--theme-elevation-50);
+    border: 2px dashed var(--theme-elevation-150);
+    border-radius: var(--style-radius-s);
+    color: var(--theme-elevation-800);
+    
+    p {
+      margin: 0;
+      
+      &:first-child {
+        font-size: var(--font-size-small);
+        margin-bottom: calc(var(--base) / 4);
+      }
+    }
+    
+    &-hint {
+      font-size: var(--font-size-x-small);
+      color: var(--theme-elevation-600);
+    }
+  }
+
+  &__table-container {
+    background: var(--theme-elevation-0);
+    border: 1px solid var(--theme-elevation-150);
+    border-radius: var(--style-radius-s);
+    overflow: hidden;
+    overflow-x: auto;
+  }
+
+  &__table {
+    width: 100%;
+    border-collapse: collapse;
+    
+    thead {
+      background: var(--theme-elevation-100);
+    }
+  }
+
+  &__table-header {
+    padding: calc(var(--base) / 2) var(--base);
+    text-align: left;
+    font-weight: var(--font-weight-semibold);
+    color: var(--theme-text);
+    border-bottom: 1px solid var(--theme-elevation-150);
+    border-right: 1px solid var(--theme-elevation-150);
+    
+    &:last-child {
+      border-right: none;
+    }
+    
+    &--center {
+      text-align: center;
+    }
+  }
+
+  &__column-header {
+    display: flex;
+    flex-direction: column;
+    gap: calc(var(--base) / 4);
+  }
+
+  &__column-number {
+    font-size: var(--font-size-x-small);
+    color: var(--theme-success-500);
+    font-weight: var(--font-weight-medium);
+  }
+
+  &__column-date {
+    font-size: var(--font-size-small);
+    color: var(--theme-text);
+  }
+
+  &__table-row {
+    &:hover {
+      background: var(--theme-elevation-50);
+    }
+    
+    &--even {
+      background: var(--theme-elevation-25);
+      
+      &:hover {
+        background: var(--theme-elevation-75);
+      }
+    }
+  }
+
+  &__table-cell {
+    padding: calc(var(--base) / 2);
+    border-bottom: 1px solid var(--theme-elevation-150);
+    border-right: 1px solid var(--theme-elevation-150);
+    vertical-align: middle;
+    
+    &:last-child {
+      border-right: none;
+    }
+    
+    &--instrument {
+      font-weight: var(--font-weight-medium);
+      color: var(--theme-text);
+      background: var(--theme-elevation-25);
+      white-space: nowrap;
+      padding: calc(var(--base) / 2) var(--base);
+    }
+  }
+
+  &__input {
+    width: 100%;
+    border: none;
+    background: transparent;
+    padding: calc(var(--base) / 4);
+    border-radius: calc(var(--style-radius-s) / 2);
+    
+    &:focus {
+      background: var(--theme-elevation-0);
+      box-shadow: 0 0 0 1px var(--theme-success-500);
+    }
+  }
+
+  &__legend {
+    margin-top: calc(var(--base) / 2);
+    padding: calc(var(--base) / 2);
+    background: var(--theme-elevation-50);
+    border-radius: var(--style-radius-s);
+  }
+
+  &__legend-item {
+    font-size: var(--font-size-x-small);
+    color: var(--theme-elevation-700);
+    font-style: italic;
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .schedule-matrix-field {
+    &__section-header {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    
+    &__date-column {
+      flex-wrap: wrap;
+      gap: calc(var(--base) / 4);
+    }
+    
+    &__column-badge {
+      min-width: auto;
+    }
+    
+    &__table-container {
+      font-size: var(--font-size-small);
+    }
+    
+    &__table-cell {
+      padding: calc(var(--base) / 4);
+    }
+  }
+}

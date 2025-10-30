@@ -1,0 +1,542 @@
+{
+    "metadata": {
+        "titleDefault": "Funded Trader Markets",
+        "titleTemplate": "%s | Funded Trader Markets",
+        "description": "Funded Trader Markets: Faster payouts, better conditions, transparent rules.",
+        "ogSiteName": "Funded Trader Markets",
+        "ogType": "website"
+    },
+    "header": {
+        "register": "Register",
+        "login": "Login"
+    },
+    "navigation": {
+        "programs": {
+            "label": "Programs",
+            "links": {
+                "oneStep": {
+                    "title": "1 Step Challenge",
+                    "description": "Your strategy, your reward."
+                },
+                "twoStep": {
+                    "title": "2-Step Challenge",
+                    "description": "No time limits, static drawdown, and low costs."
+                },
+                "instant": {
+                    "title": "Instant Funding",
+                    "description": "Access simulated capital with no evaluation"
+                }
+            },
+            "cta": {
+                "label": "Compare All Programs",
+                "description": "Find the perfect program for your trading style"
+            }
+        },
+        "howItWorks": "How It Works",
+        "affiliates": "Affiliates",
+        "faq": "FAQ",
+        "resources": "Resources",
+        "blog": {
+            "title": "Blog",
+            "description": "Latest trading insights"
+        },
+        "tools": {
+            "title": "Tools",
+            "description": "Trading tools and calculators"
+        },
+        "instrumentsSpec": {
+            "title": "Instruments & Specification",
+            "description": "Symbols, market updates and more"
+        }
+    },
+    "mobileNavigation": {
+        "menu": "Menu",
+        "close": "Close",
+        "brand": "Funded Trader Markets",
+        "programs": {
+            "oneStep": "Get funded in just one step",
+            "twoStep": "Traditional two-step evaluation",
+            "instant": "Instant funding available"
+        }
+    },
+    "footer": {
+        "tagline": "Empowering traders worldwide with fast payouts and transparent rules.",
+        "copyright": "\u00a9 {year} Funded Trader Markets. All rights reserved.",
+        "links": {
+            "programs": "Programs",
+            "howItWorks": "How It Works",
+            "faq": "FAQ",
+            "blog": "Blog",
+            "tools": "Tools",
+            "affiliates": "Affiliates Policy",
+            "support": "Support",
+            "helpCenter": "Help Center",
+            "legal": "Legal",
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service",
+            "cookies": "Cookie Policy",
+            "refund": "Refund Policy",
+            "aml": "AML Policy",
+            "discord": "Join Discord",
+            "x": "Join X",
+            "contact": "Contact Us"
+        },
+        "newsletter": {
+            "title": "Stay in the loop",
+            "description": "Subscribe to get the latest updates, trading insights, and payouts announcements.",
+            "emailPlaceholder": "Enter your email",
+            "submit": "Subscribe"
+        },
+        "groups": {
+            "resources": "Resources",
+            "important": "Important Links",
+            "policies": "Policies",
+            "community": "Community"
+        },
+        "callouts": {
+            "newsletter": {
+                "title": "Stay Ahead in the Trading World",
+                "subtitle": "Subscribe to our Newsletter",
+                "description": "Get the latest updates, trading insights, and payout announcements straight to your inbox.",
+                "imageAlt": "Newsletter"
+            },
+            "community": {
+                "title": "Join Community",
+                "description": "Unlock real-time market insights, engage with fellow traders, and gain exclusive access to expert analysis.",
+                "button": "Join Discord",
+                "imageAlt": "Discord"
+            }
+        },
+        "social": {
+            "title": "Follow us",
+            "facebook": "Facebook",
+            "instagram": "Instagram",
+            "tiktok": "TikTok",
+            "youtube": "YouTube",
+            "linkedin": "LinkedIn"
+        },
+        "legal": {
+            "heading": "Important Information",
+            "body": "All content provided by FTM Funded Trader Markets LTD (\"FTM\") and its affiliates is for general informational purposes only and should not be construed as investment, financial, or trading advice. Past performance is not indicative of future results. FTM is not a broker, investment advisor, or financial institution."
+        }
+    },
+    "newsletterForm": {
+        "emailPlaceholder": "Enter your email",
+        "submit": "Subscribe",
+        "sending": "Sending...",
+        "success": "Successfully subscribed to newsletter!",
+        "error": "Failed to subscribe. Please try again.",
+        "invalidEmail": "Please enter your email address"
+    },
+    "languageSwitcher": {
+        "label": "Language",
+        "loading": "Switching..."
+    },
+    "faqPage": {
+        "dividerTitle": "FAQ's",
+        "title": "Answers to All Your Questions",
+        "titleHighlight": "Questions",
+        "description": "Everything you need to know about our forex funding accounts, prop trading rules, and affiliate programs.",
+        "searchPlaceholder": "Search FAQs...",
+        "categoriesHeading": "Categories",
+        "featuredHeading": "Featured Questions",
+        "featuredDescription": "Most commonly asked questions",
+        "noFaqs": "No questions found for this category yet.",
+        "viewAll": "View All FAQs",
+        "readMore": "Read more",
+        "answerUnavailable": "Content not available",
+        "emptyState": "No FAQs available yet. Check back soon!"
+    },
+    "howItWorksPage": {
+        "header": {
+            "title": "How It Works",
+            "highlight": "Works",
+            "description": "From Zero to Funded: The FTM Forex Prop Trading Path"
+        },
+        "propTrading": {
+            "title": "What is Prop Trading?",
+            "description": "Funded Trader Markets (FTM), one of the best prop firms, provides traders with simulated funded accounts and real payouts. Traders are evaluated on performance and must follow strict risk rules. If successful, they can earn real profits while following strict risk parameters. Go beyond the limits, and the account is deactivated. Trade smart, and your capital grows."
+        },
+        "steps": {
+            "cta": "Get Started"
+        },
+        "cta": {
+            "title": "Ready to Begin?",
+            "description": "Choose the program that fits your style and start your funded trading journey today.",
+            "primary": "Compare Programs",
+            "secondary": "View FAQs",
+            "highlight": "Start?",
+            "button": "View Funding Plans"
+        },
+        "meta": {
+            "title": "How It Works",
+            "description": "Learn how FTM's prop trading evaluation process works.",
+            "keywords": "prop trading, forex evaluation, funded trading account, trading challenge, FTM"
+        },
+        "roadmap": {
+            "title": "Step By Step Roadmap",
+            "highlight": "Roadmap"
+        },
+        "evaluation": {
+            "title": "Evaluation Types",
+            "description": "Choose the path that best suits your style on our Programs page:"
+        }
+    },
+    "programsPage": {
+        "header": {
+            "title": "Your Funding Plan Starts Here",
+            "highlight": "Funding Plan",
+            "description": "Get a funded trading account in a simulated environment through one-step, two-step, or instant programs, all with flexible rules and no time limits."
+        },
+        "categories": {
+            "count": "{count, plural, one {# program available} other {# programs available}}",
+            "oneStep": {
+                "title": "1 Step Programs",
+                "description": "Get funded in a single step with no time limits. Perfect for traders who want results fast and maximum profit share.",
+                "badge": "Most Popular"
+            },
+            "twoStep": {
+                "title": "2 Step Programs",
+                "description": "Classic two-phase evaluation for those who want lower fees, more time, and a steady path to funding.",
+                "badge": "Classic"
+            },
+            "instant": {
+                "title": "Instant Programs",
+                "description": "Skip the evaluation and start trading with real capital instantly. No waiting, no challenges, just pure trading.",
+                "badge": "Fastest Funding"
+            }
+        },
+        "learnMore": "Learn More",
+        "comparison": {
+            "title": "Compare And Find\nYour Best Funding Program",
+            "highlight": "Funding Program",
+            "description": "Review features, rules, and payouts for all Funded Trader Markets programs and find the ideal forex funding solution for you."
+        }
+    },
+    "pricingSection": {
+        "categories": {
+            "instant": {
+                "title": "Instant Funding Account",
+                "description": "Get funded instantly and start trading real money immediately. Perfect for experienced traders who want to skip the evaluation process.",
+                "benefits": {
+                    "0": "No waiting period - trade immediately",
+                    "1": "Lower drawdown limits for safer trading",
+                    "2": "Competitive profit splits up to 80%"
+                }
+            },
+            "1-step": {
+                "title": "1-Step Evaluation Program",
+                "description": "Complete just one evaluation phase to prove your trading skills. A streamlined path to funded trading with competitive profit targets.",
+                "benefits": {
+                    "0": "Single evaluation phase",
+                    "1": "Higher profit targets and splits up to 100%",
+                    "2": "Consistency score tracking"
+                }
+            },
+            "2-step": {
+                "title": "2-Step Trading Challenge",
+                "description": "Traditional two-phase evaluation process that thoroughly tests your consistency and risk management before funding.",
+                "benefits": {
+                    "0": "Comprehensive evaluation process",
+                    "1": "Higher drawdown limits for flexibility",
+                    "2": "Profit splits up to 100%"
+                }
+            }
+        }
+    },
+    "comparisonTable": {
+        "filters": {
+            "type": {
+                "label": "Type",
+                "options": {
+                    "all": "All Types",
+                    "oneStep": "1-Step",
+                    "twoStep": "2-Step",
+                    "instant": "Instant"
+                }
+            },
+            "program": {
+                "label": "Program",
+                "options": {
+                    "all": "All Programs"
+                }
+            },
+            "size": {
+                "label": "Size",
+                "option": "{size}"
+            },
+            "drawdown": {
+                "label": "Drawdown",
+                "options": {
+                    "all": "All Drawdown Types",
+                    "balanceBased": "Balance Based",
+                    "trailing": "Trailing",
+                    "trailingLock": "Trailing Lock"
+                }
+            },
+            "info": {
+                "label": "Info",
+                "options": {
+                    "all": "All"
+                }
+            }
+        },
+        "rows": {
+            "shared": {
+                "none": "None",
+                "eval": "Eval",
+                "sim": "Sim"
+            },
+            "dailyDd": {
+                "label": "Daily DD"
+            },
+            "overallDd": {
+                "label": "Overall DD"
+            },
+            "profitTarget": {
+                "label": "Profit Target"
+            },
+            "secondProfitTarget": {
+                "label": "2nd Profit Target"
+            },
+            "minTradingDays": {
+                "label": "Min Trading Days"
+            },
+            "consistency": {
+                "label": "Consistency"
+            },
+            "profitSplit": {
+                "label": "Profit Split"
+            },
+            "fee": {
+                "label": "Fee"
+            },
+            "activationFee": {
+                "label": "Activation Fee"
+            }
+        },
+        "table": {
+            "infoProgram": "Info / Program",
+            "activationSuffix": "activation",
+            "cta": "Get Started",
+            "empty": "No programs match the selected filters."
+        }
+    },
+    "oneStepPage": {
+        "header": {
+            "title": "1-Step Nitro: One Target,\n Zero Delays.",
+            "highlight": "Zero Delays.",
+            "description": "Pass one target with no time limits to unlock your funded account. You keep 100% of your first $10,000 in profits. This is trading on your terms. Your strategy, your reward."
+        },
+        "cards": {
+            "nitro": {
+                "title": "1 Step Nitro",
+                "description": "Our One Phase Nitro Program offers traders a fast track to a simulated funded account with a single evaluation phase. Designed for experienced traders.",
+                "cta": "Select Plan"
+            },
+            "nitroPro": {
+                "title": "1 Step Nitro Pro",
+                "description": "The 1 step Nitro Pro is the least priced one-time fee account type and it has only one evaluation phase. Suitable for traders who can successfully manage tighter drawdowns.",
+                "cta": "Select Plan"
+            },
+            "nitroX": {
+                "title": "1 Step Nitro X",
+                "description": "The Nitro X account type has the least profit target in the challenge phase. Made for traders with good risk management prowess that want a minimal evaluation target.",
+                "cta": "Select Plan"
+            }
+        },
+        "comparison": {
+            "title": "1 Step Program Comparison",
+            "highlight": "Comparison",
+            "description": "Review features, rules, and payouts for all 1 Step Nitro programs and find the ideal forex funding solution for you."
+        },
+        "benefits": {
+            "title": "1-Step Benefits",
+            "highlight": "Benefits",
+            "description": "Discover the advantages of our 1-Step Nitro programs and why they're the perfect choice for experienced traders.",
+            "items": {
+                "capital": {
+                    "title": "Trade Up to $800,000",
+                    "description": "Access scalable capital across all 1 Step programs and trade with up to $800K combined."
+                },
+                "profit": {
+                    "title": "Up to 100% Profit",
+                    "description": "Earn up to 100% of your profits with one of the most generous payout structures in the industry."
+                },
+                "oneStep": {
+                    "title": "Get Funded in Just 1 Step",
+                    "description": "Take on a single-phase challenge and move directly into trading with simulated capital."
+                }
+            }
+        }
+    },
+    "twoStepPage": {
+        "header": {
+            "title": "2-Step Challenge: Built for Proven Traders",
+            "highlight": "Prop Firm Model",
+            "description": "Join a two-phase evaluation with no time limits, static drawdown, and low costs. Get a funded trading account and earn up to 100% profit share."
+        },
+        "cards": {
+            "standard": {
+                "title": "2-Step Standard",
+                "description": "Reach 10% and 5% profit targets in two phases with a 10% overall drawdown and 3% daily drawdown limit. Keep 80% of all profits you generate.",
+                "cta": "Select Plan"
+            },
+            "speed": {
+                "title": "2-Step Speed",
+                "description": "Hit 8% and 5% profit targets with a fast two-phase challenge, featuring an 8% overall drawdown and 3% daily drawdown limit. Benefit from quick evaluations and keep 80% of all profits you earn.",
+                "cta": "Select Plan"
+            },
+            "plus": {
+                "title": "2‑Step Plus",
+                "description": "Accelerate your journey to funding with the 2‑Step Plus plan, the most affordable 2 Step option, and retain 80% of all profits with on-demand payouts. Trade confidently within 3% daily and 8% overall drawdown limits, while the Risk Management Layer ensures your capital is safeguarded as you reach your profit goals.",
+                "cta": "Select Plan"
+            }
+        },
+        "comparison": {
+            "title": "2 Step Program Comparison",
+            "highlight": "Comparison",
+            "description": "Review features, rules, and payouts for all 2 Step programs and find the ideal forex funding solution for you."
+        },
+        "benefits": {
+            "title": "2-Step Benefits",
+            "highlight": "Benefits",
+            "description": "Discover the advantages of our 2-Step programs and why they're the perfect choice for traders who prefer a structured approach.",
+            "items": {
+                "capital": {
+                    "title": "Trade up to $300,000",
+                    "description": "Manage up to $300K with your FTM 2 Step account and maximize your trading potential."
+                },
+                "scaling": {
+                    "title": "Exclusive Scaling Offers",
+                    "description": "Scale up to $3M, earn up to $5K/month, and enjoy VIP perks like 100% profit split and free challenge retries."
+                },
+                "risk": {
+                    "title": "Smart Risk Management",
+                    "description": "Trade confidently with a 4% daily loss limit and a 10% static drawdown."
+                }
+            }
+        }
+    },
+    "instantPage": {
+        "header": {
+            "title": "Instant Funding",
+            "highlight": "Funding",
+            "description": "Get instant funding with no evaluation. Access simulated capital, trade in best market conditions, and earn up to 80% profit split!"
+        },
+        "cards": {
+            "standard": {
+                "title": "Instant Standard",
+                "description": "The Instant Standard plan gives you immediate access to a simulated funded trading account with no evaluation process. Trade with real-time market conditions, manage a 5% maximum drawdown, and earn up to 80% profit through a simple one-time fee with no recurring charges.",
+                "cta": "Select Plan"
+            },
+            "pro": {
+                "title": "Instant Pro",
+                "description": "Designed for professional traders, the Instant Pro plan offers no daily drawdown limits and a 3% overall drawdown cap. Trade on a simulated funded account with full flexibility and earn up to 80% profit split with a one-time payment.",
+                "cta": "Select Plan"
+            },
+            "plus": {
+                "title": "Instant Plus",
+                "description": "Experience the perfect balance of high profit potential and Risk Management Layer with the Instant Plus plan. Start trading right away with an 80% profit split and on-demand payouts. Clear risk parameters such as a 3% daily and 6% overall limit are designed to safeguard your journey and help you trade with confidence from day one.",
+                "cta": "Select Plan"
+            }
+        },
+        "comparison": {
+            "title": "Instant Program Comparison",
+            "highlight": "Comparison",
+            "description": "Review features, rules, and payouts for all Instant programs and find the ideal forex funding solution for you."
+        },
+        "benefits": {
+            "title": "Instant Benefits",
+            "highlight": "Benefits",
+            "description": "See why traders choose FTM's instant funding plans.",
+            "items": {
+                "profitSplit": {
+                    "title": "Up to 80% Profit Split",
+                    "description": "Keep up to 80% of your profits with FTM's instant funding model."
+                },
+                "withdraw": {
+                    "title": "Withdraw On-Demand",
+                    "description": "Request your payout anytime after the minimum 5 trading days\u2014no fixed payout dates, no restrictions."
+                },
+                "noFreeze": {
+                    "title": "No Buffer Freeze",
+                    "description": "Get your split on all profits generated without any freeze."
+                },
+                "drawdownReset": {
+                    "title": "Drawdown Reset",
+                    "description": "After every payout, get full drawdown room to continue trading."
+                },
+                "drawdownType": {
+                    "title": "Balance Based Trailing Drawdown",
+                    "description": "Limits trail only after booked positions\u2014no floating equity traps."
+                }
+            }
+        }
+    },
+    "advantages": {
+        "dividerTitle": "The FTM Advantage",
+        "title": "Why Traders Choose FTM?",
+        "titleHighlight": "FTM?",
+        "description": "Discover why FTM is a leading prop firm for instant funding, fast payouts, and funded trading accounts.",
+        "cards": {
+            "support": {
+                "title": "24/7 Support",
+                "description": "We are here to answer to all your questions. ALL day & night"
+            },
+            "profit": {
+                "title": "Up to 100% Profit Split",
+                "description": "An easy method to get paid within 24 hours guaranteed"
+            },
+            "payouts": {
+                "title": "On Demand Payouts",
+                "description": "Need to get your payout instantly? No problem! Get It when you want."
+            },
+            "conditions": {
+                "title": "Best Conditions",
+                "description": "Tight Spreads, No Swaps, and Fast Execution"
+            }
+        }
+    },
+    "checkout": {
+        "categories": {
+            "oneStep": "1 Step Evaluation",
+            "twoStep": "2 Step Evaluation",
+            "instant": "Instant Funding"
+        },
+        "orderSummary": "Order Summary",
+        "selectionIncomplete": "Selection incomplete.",
+        "goBackToChoose": "Go back to choose your configuration"
+    },
+    "cookieConsent": {
+        "message": "We use cookies and similar technologies to optimize your experience by processing data like browsing behavior, and withdrawing or withholding consent may affect site functionality.",
+        "acceptButton": "Accept",
+        "denyButton": "Deny",
+        "cookiePolicyLink": "Cookie Policy",
+        "privacyPolicyLink": "Privacy Statement"
+    },
+    "contactPage": {
+        "badge": "We're Here For You",
+        "title": "We're Ready To Listen And Respond",
+        "description": "Your voice is important to us, and we look forward to connecting with you.",
+        "form": {
+            "namePlaceholder": "Jane Smith",
+            "phonePlaceholder": "Phone",
+            "emailPlaceholder": "Email",
+            "messagePlaceholder": "Message",
+            "submit": "Submit",
+            "sending": "Sending...",
+            "success": "Message sent successfully! We'll get back to you within 24 business hours.",
+            "error": "Failed to send message. Please try again.",
+            "responseTime": "We will contact you within 24 business hours."
+        },
+        "info": {
+            "title": "Contact Information",
+            "description": "Contact us. Your feedback matters.",
+            "office": "Office",
+            "address": "56 Alekou Konstantinou, Strovolos, 2024, Nicosia, Cyprus.",
+            "email": "Email",
+            "emailAddress": "support@fundedtradermarkets.com"
+        }
+    }
+}

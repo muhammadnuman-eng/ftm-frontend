@@ -1,0 +1,1818 @@
+{
+    "v": "4.8.0",
+    "meta": {
+        "g": "LottieFiles AE 3.5.3",
+        "a": "",
+        "k": "",
+        "d": "",
+        "tc": ""
+    },
+    "fr": 60,
+    "ip": 0,
+    "op": 90,
+    "w": 512,
+    "h": 512,
+    "nm": "01 cup 2",
+    "assets": [],
+    "layers": [
+        {
+            "ind": 1,
+            "ty": 4,
+            "nm": "Layer 7",
+            "parent": 8,
+            "sr": 1,
+            "ks": {
+                "o": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": { "x": [0.667], "y": [1] },
+                            "o": { "x": [0.333], "y": [0] },
+                            "t": 0,
+                            "s": [40]
+                        },
+                        {
+                            "i": { "x": [0.667], "y": [1] },
+                            "o": { "x": [0.333], "y": [0] },
+                            "t": 14,
+                            "s": [13]
+                        },
+                        {
+                            "i": { "x": [0.667], "y": [1] },
+                            "o": { "x": [0.333], "y": [0] },
+                            "t": 33,
+                            "s": [13]
+                        },
+                        { "t": 47, "s": [40] }
+                    ],
+                    "ix": 11
+                },
+                "r": { "a": 0, "k": 0, "ix": 10 },
+                "p": { "a": 0, "k": [-153.046, -72.191, 0], "ix": 2 },
+                "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ty": "gr",
+                                    "it": [
+                                        {
+                                            "ind": 0,
+                                            "ty": "sh",
+                                            "ix": 1,
+                                            "ks": {
+                                                "a": 0,
+                                                "k": {
+                                                    "i": [
+                                                        [0, 0],
+                                                        [-10.4, -17.3]
+                                                    ],
+                                                    "o": [[4.3, 19.6], [0, 0]],
+                                                    "v": [
+                                                        [91.05, -11.9],
+                                                        [112.45, 45.8]
+                                                    ],
+                                                    "c": false
+                                                },
+                                                "ix": 2
+                                            },
+                                            "nm": "Path 1"
+                                        },
+                                        {
+                                            "ty": "tr",
+                                            "p": {
+                                                "a": 0,
+                                                "k": [153.031, 0.188],
+                                                "ix": 2
+                                            },
+                                            "a": {
+                                                "a": 0,
+                                                "k": [153.031, 0.188],
+                                                "ix": 1
+                                            },
+                                            "s": {
+                                                "a": 0,
+                                                "k": [100, 100],
+                                                "ix": 3
+                                            },
+                                            "r": { "a": 0, "k": 0, "ix": 6 },
+                                            "o": { "a": 0, "k": 100, "ix": 7 },
+                                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                                            "nm": "Transform"
+                                        }
+                                    ],
+                                    "nm": "Group 1",
+                                    "cix": 2,
+                                    "ix": 1
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [156.875, 241],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [156.875, 241],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [100, 100],
+                                        "ix": 3,
+                                        "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').content('Group 1').transform.scale;"
+                                    },
+                                    "r": { "a": 0, "k": 0, "ix": 6 },
+                                    "o": { "a": 0, "k": 100, "ix": 7 },
+                                    "sk": { "a": 0, "k": 0, "ix": 4 },
+                                    "sa": { "a": 0, "k": 0, "ix": 5 },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "cix": 2,
+                            "ix": 1
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [160, 237], "ix": 2 },
+                            "a": { "a": 0, "k": [160, 237], "ix": 1 },
+                            "s": {
+                                "a": 0,
+                                "k": [100, 100],
+                                "ix": 3,
+                                "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').transform.scale;"
+                            },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 100, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Group 1",
+                    "cix": 2,
+                    "ix": 1
+                },
+                {
+                    "ty": "st",
+                    "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 3 },
+                    "o": { "a": 0, "k": 100, "ix": 4 },
+                    "w": { "a": 0, "k": 30.72, "ix": 5 },
+                    "lc": 2,
+                    "lj": 2,
+                    "nm": "Stroke 1"
+                }
+            ],
+            "ip": 0,
+            "op": 91,
+            "st": 0
+        },
+        {
+            "ind": 2,
+            "ty": 4,
+            "nm": "Mask 2",
+            "td": 1,
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 100, "ix": 11 },
+                "r": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": { "x": [0.14], "y": [1] },
+                            "o": { "x": [0.333], "y": [0] },
+                            "t": 0,
+                            "s": [0]
+                        },
+                        {
+                            "i": { "x": [0.833], "y": [0.833] },
+                            "o": { "x": [0.86], "y": [0] },
+                            "t": 20,
+                            "s": [-16.3]
+                        },
+                        { "t": 37, "s": [0] }
+                    ],
+                    "ix": 10,
+                    "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                },
+                "p": {
+                    "s": true,
+                    "x": { "a": 0, "k": 255, "ix": 3 },
+                    "y": {
+                        "a": 1,
+                        "k": [
+                            {
+                                "i": { "x": [0.14], "y": [1] },
+                                "o": { "x": [0.333], "y": [0] },
+                                "t": 0,
+                                "s": [341]
+                            },
+                            {
+                                "i": { "x": [0.833], "y": [0.833] },
+                                "o": { "x": [0.86], "y": [0] },
+                                "t": 20,
+                                "s": [299]
+                            },
+                            { "t": 37, "s": [341] }
+                        ],
+                        "ix": 4,
+                        "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                    }
+                },
+                "a": { "a": 0, "k": [-1, 85, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "ef": [
+                {
+                    "ty": 5,
+                    "nm": "Elastic Controller",
+                    "np": 5,
+                    "ix": 1,
+                    "en": 1,
+                    "ef": [
+                        {
+                            "ty": 0,
+                            "nm": "Amplitude",
+                            "ix": 1,
+                            "v": { "a": 0, "k": 20, "ix": 1 }
+                        },
+                        {
+                            "ty": 0,
+                            "nm": "Frequency",
+                            "ix": 2,
+                            "v": { "a": 0, "k": 40, "ix": 2 }
+                        },
+                        {
+                            "ty": 0,
+                            "nm": "Decay",
+                            "ix": 3,
+                            "v": { "a": 0, "k": 60, "ix": 3 }
+                        }
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 2,
+                                    "ty": "sh",
+                                    "ix": 3,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [[0, 0], [0, 0], [-123.83, 0]],
+                                            "o": [[0, 0], [0, 0], [123.849, 0]],
+                                            "v": [
+                                                [123.898, -166.08],
+                                                [-123.92, -166.08],
+                                                [0.049, 53.998]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 2"
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": { "a": 0, "k": [0.5, 166], "ix": 2 },
+                                    "a": { "a": 0, "k": [0.5, 166], "ix": 1 },
+                                    "s": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [0.14, 0.14],
+                                                    "y": [1, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.333, 0.333],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 0,
+                                                "s": [100, 100]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [0.14, 0.14],
+                                                    "y": [1, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.86, 0.86],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 24,
+                                                "s": [75, 100]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [0.833, 0.833],
+                                                    "y": [0.833, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.86, 0.86],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 31,
+                                                "s": [75, 100]
+                                            },
+                                            { "t": 37, "s": [100, 100] }
+                                        ],
+                                        "ix": 3,
+                                        "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                                    },
+                                    "r": { "a": 0, "k": 0, "ix": 6 },
+                                    "o": { "a": 0, "k": 100, "ix": 7 },
+                                    "sk": { "a": 0, "k": 0, "ix": 4 },
+                                    "sa": { "a": 0, "k": 0, "ix": 5 },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "cix": 2,
+                            "ix": 1
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [-0.011, 166.477], "ix": 2 },
+                            "a": { "a": 0, "k": [-0.011, 166.477], "ix": 1 },
+                            "s": {
+                                "a": 1,
+                                "k": [
+                                    {
+                                        "i": { "x": [0.14, 0.14], "y": [1, 1] },
+                                        "o": {
+                                            "x": [0.333, 0.333],
+                                            "y": [0, 0]
+                                        },
+                                        "t": 0,
+                                        "s": [100, 100]
+                                    },
+                                    {
+                                        "i": { "x": [0.14, 0.14], "y": [1, 1] },
+                                        "o": { "x": [0.86, 0.86], "y": [0, 0] },
+                                        "t": 24,
+                                        "s": [100, 75]
+                                    },
+                                    {
+                                        "i": {
+                                            "x": [0.833, 0.833],
+                                            "y": [1, 0.833]
+                                        },
+                                        "o": { "x": [0.86, 0.86], "y": [0, 0] },
+                                        "t": 34,
+                                        "s": [100, 75]
+                                    },
+                                    { "t": 40, "s": [100, 100] }
+                                ],
+                                "ix": 3,
+                                "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                            },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 100, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Group 1",
+                    "cix": 2,
+                    "ix": 1
+                },
+                {
+                    "ty": "fl",
+                    "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 4 },
+                    "o": { "a": 0, "k": 100, "ix": 5 },
+                    "r": 1,
+                    "nm": "Fill 1"
+                }
+            ],
+            "ip": 0,
+            "op": 21,
+            "st": 0
+        },
+        {
+            "ind": 3,
+            "ty": 4,
+            "nm": "Layer 3",
+            "parent": 8,
+            "tt": 2,
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 40, "ix": 11 },
+                "r": { "a": 0, "k": 0, "ix": 10 },
+                "p": { "a": 0, "k": [-153.046, -72.191, 0], "ix": 2 },
+                "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ty": "gr",
+                                    "it": [
+                                        {
+                                            "ind": 0,
+                                            "ty": "sh",
+                                            "ix": 1,
+                                            "ks": {
+                                                "a": 0,
+                                                "k": {
+                                                    "i": [
+                                                        [0, 0],
+                                                        [0, 0],
+                                                        [-57.451, -37.822]
+                                                    ],
+                                                    "o": [
+                                                        [0, 0],
+                                                        [0, 0],
+                                                        [0, 0]
+                                                    ],
+                                                    "v": [
+                                                        [31.274, -57.81],
+                                                        [-30.8, -57.81],
+                                                        [17.922, 57.81]
+                                                    ],
+                                                    "c": false
+                                                },
+                                                "ix": 2
+                                            },
+                                            "nm": "Path 1"
+                                        },
+                                        {
+                                            "ty": "tr",
+                                            "p": {
+                                                "a": 0,
+                                                "k": [153.031, 0.188],
+                                                "ix": 2
+                                            },
+                                            "a": {
+                                                "a": 0,
+                                                "k": [153.031, 0.188],
+                                                "ix": 1
+                                            },
+                                            "s": {
+                                                "a": 1,
+                                                "k": [
+                                                    {
+                                                        "i": {
+                                                            "x": [0.13, 0.13],
+                                                            "y": [1, 1]
+                                                        },
+                                                        "o": {
+                                                            "x": [0.333, 0.333],
+                                                            "y": [0, 0]
+                                                        },
+                                                        "t": 0,
+                                                        "s": [100, 100]
+                                                    },
+                                                    {
+                                                        "i": {
+                                                            "x": [0.833, 0.833],
+                                                            "y": [0.833, 1]
+                                                        },
+                                                        "o": {
+                                                            "x": [0.87, 0.87],
+                                                            "y": [0, 0]
+                                                        },
+                                                        "t": 22,
+                                                        "s": [-100, 100]
+                                                    },
+                                                    { "t": 39, "s": [100, 100] }
+                                                ],
+                                                "ix": 3
+                                            },
+                                            "r": { "a": 0, "k": 0, "ix": 6 },
+                                            "o": { "a": 0, "k": 100, "ix": 7 },
+                                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                                            "nm": "Transform"
+                                        }
+                                    ],
+                                    "nm": "Group 1",
+                                    "cix": 2,
+                                    "ix": 1
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [156.875, 241],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [156.875, 241],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [100, 100],
+                                        "ix": 3,
+                                        "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').content('Group 1').transform.scale;"
+                                    },
+                                    "r": { "a": 0, "k": 0, "ix": 6 },
+                                    "o": { "a": 0, "k": 100, "ix": 7 },
+                                    "sk": { "a": 0, "k": 0, "ix": 4 },
+                                    "sa": { "a": 0, "k": 0, "ix": 5 },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "cix": 2,
+                            "ix": 1
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [160, 237], "ix": 2 },
+                            "a": { "a": 0, "k": [160, 237], "ix": 1 },
+                            "s": {
+                                "a": 0,
+                                "k": [100, 100],
+                                "ix": 3,
+                                "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').transform.scale;"
+                            },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 100, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Group 1",
+                    "cix": 2,
+                    "ix": 1
+                },
+                {
+                    "ty": "st",
+                    "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 3 },
+                    "o": { "a": 0, "k": 100, "ix": 4 },
+                    "w": { "a": 0, "k": 30.72, "ix": 5 },
+                    "lc": 2,
+                    "lj": 2,
+                    "nm": "Stroke 1"
+                },
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "rc",
+                            "d": 1,
+                            "s": { "a": 0, "k": [613, 330], "ix": 2 },
+                            "p": { "a": 0, "k": [0, 0], "ix": 3 },
+                            "r": { "a": 0, "k": 0, "ix": 4 },
+                            "nm": "Rectangle Path 1"
+                        },
+                        {
+                            "ty": "st",
+                            "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 3 },
+                            "o": { "a": 0, "k": 100, "ix": 4 },
+                            "w": { "a": 0, "k": 30.72, "ix": 5 },
+                            "lc": 1,
+                            "lj": 1,
+                            "ml": 4,
+                            "nm": "Stroke 1"
+                        },
+                        {
+                            "ty": "fl",
+                            "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 4 },
+                            "o": { "a": 0, "k": 100, "ix": 5 },
+                            "r": 1,
+                            "nm": "Fill 1"
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [170.546, 18.191], "ix": 2 },
+                            "a": { "a": 0, "k": [0, 0], "ix": 1 },
+                            "s": { "a": 0, "k": [100, 100], "ix": 3 },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 0, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Rectangle 1",
+                    "cix": 2,
+                    "ix": 3
+                }
+            ],
+            "ip": 0,
+            "op": 21,
+            "st": 0
+        },
+        {
+            "ind": 4,
+            "ty": 4,
+            "nm": "Layer 5",
+            "parent": 8,
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 40, "ix": 11 },
+                "r": { "a": 0, "k": 0, "ix": 10 },
+                "p": { "a": 0, "k": [-153.046, -72.191, 0], "ix": 2 },
+                "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ty": "gr",
+                                    "it": [
+                                        {
+                                            "ind": 0,
+                                            "ty": "sh",
+                                            "ix": 1,
+                                            "ks": {
+                                                "a": 0,
+                                                "k": {
+                                                    "i": [
+                                                        [0, 0],
+                                                        [0, 0],
+                                                        [-57.451, -37.822]
+                                                    ],
+                                                    "o": [
+                                                        [0, 0],
+                                                        [0, 0],
+                                                        [0, 0]
+                                                    ],
+                                                    "v": [
+                                                        [31.274, -57.81],
+                                                        [-30.8, -57.81],
+                                                        [17.922, 57.81]
+                                                    ],
+                                                    "c": false
+                                                },
+                                                "ix": 2
+                                            },
+                                            "nm": "Path 1"
+                                        },
+                                        {
+                                            "ty": "tr",
+                                            "p": {
+                                                "a": 0,
+                                                "k": [153.031, 0.188],
+                                                "ix": 2
+                                            },
+                                            "a": {
+                                                "a": 0,
+                                                "k": [153.031, 0.188],
+                                                "ix": 1
+                                            },
+                                            "s": {
+                                                "a": 1,
+                                                "k": [
+                                                    {
+                                                        "i": {
+                                                            "x": [0.13, 0.13],
+                                                            "y": [1, 1]
+                                                        },
+                                                        "o": {
+                                                            "x": [0.333, 0.333],
+                                                            "y": [0, 0]
+                                                        },
+                                                        "t": 0,
+                                                        "s": [100, 100]
+                                                    },
+                                                    {
+                                                        "i": {
+                                                            "x": [0.833, 0.833],
+                                                            "y": [0.833, 1]
+                                                        },
+                                                        "o": {
+                                                            "x": [0.87, 0.87],
+                                                            "y": [0, 0]
+                                                        },
+                                                        "t": 22,
+                                                        "s": [-100, 100]
+                                                    },
+                                                    { "t": 39, "s": [100, 100] }
+                                                ],
+                                                "ix": 3
+                                            },
+                                            "r": { "a": 0, "k": 0, "ix": 6 },
+                                            "o": { "a": 0, "k": 100, "ix": 7 },
+                                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                                            "nm": "Transform"
+                                        }
+                                    ],
+                                    "nm": "Group 1",
+                                    "cix": 2,
+                                    "ix": 1
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": {
+                                        "a": 0,
+                                        "k": [156.875, 241],
+                                        "ix": 2
+                                    },
+                                    "a": {
+                                        "a": 0,
+                                        "k": [156.875, 241],
+                                        "ix": 1
+                                    },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [100, 100],
+                                        "ix": 3,
+                                        "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').content('Group 1').transform.scale;"
+                                    },
+                                    "r": { "a": 0, "k": 0, "ix": 6 },
+                                    "o": { "a": 0, "k": 100, "ix": 7 },
+                                    "sk": { "a": 0, "k": 0, "ix": 4 },
+                                    "sa": { "a": 0, "k": 0, "ix": 5 },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "cix": 2,
+                            "ix": 1
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [160, 237], "ix": 2 },
+                            "a": { "a": 0, "k": [160, 237], "ix": 1 },
+                            "s": {
+                                "a": 0,
+                                "k": [100, 100],
+                                "ix": 3,
+                                "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').transform.scale;"
+                            },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 100, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Group 1",
+                    "cix": 2,
+                    "ix": 1
+                },
+                {
+                    "ty": "st",
+                    "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 3 },
+                    "o": { "a": 0, "k": 100, "ix": 4 },
+                    "w": { "a": 0, "k": 30.72, "ix": 5 },
+                    "lc": 2,
+                    "lj": 2,
+                    "nm": "Stroke 1"
+                }
+            ],
+            "ip": 21,
+            "op": 90,
+            "st": 0
+        },
+        {
+            "ind": 5,
+            "ty": 4,
+            "nm": "Mask",
+            "td": 1,
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 100, "ix": 11 },
+                "r": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": { "x": [0.14], "y": [1] },
+                            "o": { "x": [0.333], "y": [0] },
+                            "t": 0,
+                            "s": [0]
+                        },
+                        {
+                            "i": { "x": [0.833], "y": [0.833] },
+                            "o": { "x": [0.86], "y": [0] },
+                            "t": 20,
+                            "s": [-16.3]
+                        },
+                        { "t": 37, "s": [0] }
+                    ],
+                    "ix": 10,
+                    "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                },
+                "p": {
+                    "s": true,
+                    "x": { "a": 0, "k": 255, "ix": 3 },
+                    "y": {
+                        "a": 1,
+                        "k": [
+                            {
+                                "i": { "x": [0.14], "y": [1] },
+                                "o": { "x": [0.333], "y": [0] },
+                                "t": 0,
+                                "s": [341]
+                            },
+                            {
+                                "i": { "x": [0.833], "y": [0.833] },
+                                "o": { "x": [0.86], "y": [0] },
+                                "t": 20,
+                                "s": [299]
+                            },
+                            { "t": 37, "s": [341] }
+                        ],
+                        "ix": 4,
+                        "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                    }
+                },
+                "a": { "a": 0, "k": [-1, 85, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "ef": [
+                {
+                    "ty": 5,
+                    "nm": "Elastic Controller",
+                    "np": 5,
+                    "ix": 1,
+                    "en": 1,
+                    "ef": [
+                        {
+                            "ty": 0,
+                            "nm": "Amplitude",
+                            "ix": 1,
+                            "v": { "a": 0, "k": 20, "ix": 1 }
+                        },
+                        {
+                            "ty": 0,
+                            "nm": "Frequency",
+                            "ix": 2,
+                            "v": { "a": 0, "k": 60, "ix": 2 }
+                        },
+                        {
+                            "ty": 0,
+                            "nm": "Decay",
+                            "ix": 3,
+                            "v": { "a": 0, "k": 90, "ix": 3 }
+                        }
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 2,
+                                    "ty": "sh",
+                                    "ix": 3,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [[0, 0], [0, 0], [-123.83, 0]],
+                                            "o": [[0, 0], [0, 0], [123.849, 0]],
+                                            "v": [
+                                                [123.898, -166.08],
+                                                [-123.92, -166.08],
+                                                [0.049, 53.998]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 2"
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": { "a": 0, "k": [0.5, 166], "ix": 2 },
+                                    "a": { "a": 0, "k": [0.5, 166], "ix": 1 },
+                                    "s": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [0.14, 0.14],
+                                                    "y": [1, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.333, 0.333],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 0,
+                                                "s": [100, 100]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [0.14, 0.14],
+                                                    "y": [1, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.86, 0.86],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 24,
+                                                "s": [75, 100]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [0.833, 0.833],
+                                                    "y": [0.833, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.86, 0.86],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 31,
+                                                "s": [75, 100]
+                                            },
+                                            { "t": 37, "s": [100, 100] }
+                                        ],
+                                        "ix": 3,
+                                        "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                                    },
+                                    "r": { "a": 0, "k": 0, "ix": 6 },
+                                    "o": { "a": 0, "k": 100, "ix": 7 },
+                                    "sk": { "a": 0, "k": 0, "ix": 4 },
+                                    "sa": { "a": 0, "k": 0, "ix": 5 },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "cix": 2,
+                            "ix": 1
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [-0.011, 166.477], "ix": 2 },
+                            "a": { "a": 0, "k": [-0.011, 166.477], "ix": 1 },
+                            "s": {
+                                "a": 1,
+                                "k": [
+                                    {
+                                        "i": { "x": [0.14, 0.14], "y": [1, 1] },
+                                        "o": {
+                                            "x": [0.333, 0.333],
+                                            "y": [0, 0]
+                                        },
+                                        "t": 0,
+                                        "s": [100, 100]
+                                    },
+                                    {
+                                        "i": { "x": [0.14, 0.14], "y": [1, 1] },
+                                        "o": { "x": [0.86, 0.86], "y": [0, 0] },
+                                        "t": 24,
+                                        "s": [100, 75]
+                                    },
+                                    {
+                                        "i": {
+                                            "x": [0.833, 0.833],
+                                            "y": [1, 0.833]
+                                        },
+                                        "o": { "x": [0.86, 0.86], "y": [0, 0] },
+                                        "t": 34,
+                                        "s": [100, 75]
+                                    },
+                                    { "t": 40, "s": [100, 100] }
+                                ],
+                                "ix": 3,
+                                "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                            },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 100, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Group 1",
+                    "cix": 2,
+                    "ix": 1
+                },
+                {
+                    "ty": "fl",
+                    "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 4 },
+                    "o": { "a": 0, "k": 100, "ix": 5 },
+                    "r": 1,
+                    "nm": "Fill 1"
+                }
+            ],
+            "ip": 0,
+            "op": 90,
+            "st": 0
+        },
+        {
+            "ind": 6,
+            "ty": 4,
+            "nm": "Layer 4",
+            "parent": 8,
+            "tt": 2,
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 40, "ix": 11 },
+                "r": { "a": 0, "k": 0, "ix": 10 },
+                "p": { "a": 0, "k": [153.034, -72.191, 0], "ix": 2 },
+                "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ty": "gr",
+                                    "it": [
+                                        {
+                                            "ind": 0,
+                                            "ty": "sh",
+                                            "ix": 1,
+                                            "ks": {
+                                                "a": 0,
+                                                "k": {
+                                                    "i": [
+                                                        [0, 0],
+                                                        [0, 0],
+                                                        [57.45, -37.822]
+                                                    ],
+                                                    "o": [
+                                                        [0, 0],
+                                                        [0, 0],
+                                                        [0, 0]
+                                                    ],
+                                                    "v": [
+                                                        [-31.274, -57.81],
+                                                        [30.801, -57.81],
+                                                        [-17.923, 57.81]
+                                                    ],
+                                                    "c": false
+                                                },
+                                                "ix": 2
+                                            },
+                                            "nm": "Path 1"
+                                        },
+                                        {
+                                            "ty": "tr",
+                                            "p": {
+                                                "a": 0,
+                                                "k": [-153.031, 0.188],
+                                                "ix": 2
+                                            },
+                                            "a": {
+                                                "a": 0,
+                                                "k": [-153.031, 0.188],
+                                                "ix": 1
+                                            },
+                                            "s": {
+                                                "a": 1,
+                                                "k": [
+                                                    {
+                                                        "i": {
+                                                            "x": [0.13, 0.13],
+                                                            "y": [1, 1]
+                                                        },
+                                                        "o": {
+                                                            "x": [0.333, 0.333],
+                                                            "y": [0, 0]
+                                                        },
+                                                        "t": 0,
+                                                        "s": [100, 100]
+                                                    },
+                                                    {
+                                                        "i": {
+                                                            "x": [0.833, 0.833],
+                                                            "y": [0.833, 1]
+                                                        },
+                                                        "o": {
+                                                            "x": [0.87, 0.87],
+                                                            "y": [0, 0]
+                                                        },
+                                                        "t": 22,
+                                                        "s": [-100, 100]
+                                                    },
+                                                    { "t": 39, "s": [100, 100] }
+                                                ],
+                                                "ix": 3
+                                            },
+                                            "r": { "a": 0, "k": 0, "ix": 6 },
+                                            "o": { "a": 0, "k": 100, "ix": 7 },
+                                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                                            "nm": "Transform"
+                                        }
+                                    ],
+                                    "nm": "Group 1",
+                                    "cix": 2,
+                                    "ix": 1
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": { "a": 0, "k": [-153, 238], "ix": 2 },
+                                    "a": { "a": 0, "k": [-153, 238], "ix": 1 },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [100, 100],
+                                        "ix": 3,
+                                        "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').content('Group 1').transform.scale;"
+                                    },
+                                    "r": { "a": 0, "k": 0, "ix": 6 },
+                                    "o": { "a": 0, "k": 100, "ix": 7 },
+                                    "sk": { "a": 0, "k": 0, "ix": 4 },
+                                    "sa": { "a": 0, "k": 0, "ix": 5 },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "cix": 2,
+                            "ix": 1
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [-153, 238], "ix": 2 },
+                            "a": { "a": 0, "k": [-153, 238], "ix": 1 },
+                            "s": {
+                                "a": 0,
+                                "k": [100, 100],
+                                "ix": 3,
+                                "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').transform.scale;"
+                            },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 100, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Group 1",
+                    "cix": 2,
+                    "ix": 1
+                },
+                {
+                    "ty": "st",
+                    "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 3 },
+                    "o": { "a": 0, "k": 100, "ix": 4 },
+                    "w": { "a": 0, "k": 30.72, "ix": 5 },
+                    "lc": 2,
+                    "lj": 2,
+                    "nm": "Stroke 1"
+                },
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "rc",
+                            "d": 1,
+                            "s": { "a": 0, "k": [532.013, 289.976], "ix": 2 },
+                            "p": { "a": 0, "k": [0, 0], "ix": 3 },
+                            "r": { "a": 0, "k": 0, "ix": 4 },
+                            "nm": "Rectangle Path 1"
+                        },
+                        {
+                            "ty": "st",
+                            "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 3 },
+                            "o": { "a": 0, "k": 100, "ix": 4 },
+                            "w": { "a": 0, "k": 30.72, "ix": 5 },
+                            "lc": 1,
+                            "lj": 1,
+                            "ml": 4,
+                            "nm": "Stroke 1"
+                        },
+                        {
+                            "ty": "fl",
+                            "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 4 },
+                            "o": { "a": 0, "k": 100, "ix": 5 },
+                            "r": 1,
+                            "nm": "Fill 1"
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [-168.028, 15.197], "ix": 2 },
+                            "a": { "a": 0, "k": [0, 0], "ix": 1 },
+                            "s": { "a": 0, "k": [100, 100], "ix": 3 },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 0, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Rectangle 1",
+                    "cix": 2,
+                    "ix": 3
+                }
+            ],
+            "ip": 21,
+            "op": 90,
+            "st": 0
+        },
+        {
+            "ind": 7,
+            "ty": 4,
+            "nm": "Layer 1",
+            "parent": 8,
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 40, "ix": 11 },
+                "r": { "a": 0, "k": 0, "ix": 10 },
+                "p": { "a": 0, "k": [153.034, -72.191, 0], "ix": 2 },
+                "a": { "a": 0, "k": [0, 0, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ty": "gr",
+                                    "it": [
+                                        {
+                                            "ind": 0,
+                                            "ty": "sh",
+                                            "ix": 1,
+                                            "ks": {
+                                                "a": 0,
+                                                "k": {
+                                                    "i": [
+                                                        [0, 0],
+                                                        [0, 0],
+                                                        [57.45, -37.822]
+                                                    ],
+                                                    "o": [
+                                                        [0, 0],
+                                                        [0, 0],
+                                                        [0, 0]
+                                                    ],
+                                                    "v": [
+                                                        [-31.274, -57.81],
+                                                        [30.801, -57.81],
+                                                        [-17.923, 57.81]
+                                                    ],
+                                                    "c": false
+                                                },
+                                                "ix": 2
+                                            },
+                                            "nm": "Path 1"
+                                        },
+                                        {
+                                            "ty": "tr",
+                                            "p": {
+                                                "a": 0,
+                                                "k": [-153.031, 0.188],
+                                                "ix": 2
+                                            },
+                                            "a": {
+                                                "a": 0,
+                                                "k": [-153.031, 0.188],
+                                                "ix": 1
+                                            },
+                                            "s": {
+                                                "a": 1,
+                                                "k": [
+                                                    {
+                                                        "i": {
+                                                            "x": [0.13, 0.13],
+                                                            "y": [1, 1]
+                                                        },
+                                                        "o": {
+                                                            "x": [0.333, 0.333],
+                                                            "y": [0, 0]
+                                                        },
+                                                        "t": 0,
+                                                        "s": [100, 100]
+                                                    },
+                                                    {
+                                                        "i": {
+                                                            "x": [0.833, 0.833],
+                                                            "y": [0.833, 1]
+                                                        },
+                                                        "o": {
+                                                            "x": [0.87, 0.87],
+                                                            "y": [0, 0]
+                                                        },
+                                                        "t": 22,
+                                                        "s": [-100, 100]
+                                                    },
+                                                    { "t": 39, "s": [100, 100] }
+                                                ],
+                                                "ix": 3
+                                            },
+                                            "r": { "a": 0, "k": 0, "ix": 6 },
+                                            "o": { "a": 0, "k": 100, "ix": 7 },
+                                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                                            "nm": "Transform"
+                                        }
+                                    ],
+                                    "nm": "Group 1",
+                                    "cix": 2,
+                                    "ix": 1
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": { "a": 0, "k": [-153, 238], "ix": 2 },
+                                    "a": { "a": 0, "k": [-153, 238], "ix": 1 },
+                                    "s": {
+                                        "a": 0,
+                                        "k": [100, 100],
+                                        "ix": 3,
+                                        "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').content('Group 1').transform.scale;"
+                                    },
+                                    "r": { "a": 0, "k": 0, "ix": 6 },
+                                    "o": { "a": 0, "k": 100, "ix": 7 },
+                                    "sk": { "a": 0, "k": 0, "ix": 4 },
+                                    "sa": { "a": 0, "k": 0, "ix": 5 },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "cix": 2,
+                            "ix": 1
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [-153, 238], "ix": 2 },
+                            "a": { "a": 0, "k": [-153, 238], "ix": 1 },
+                            "s": {
+                                "a": 0,
+                                "k": [100, 100],
+                                "ix": 3,
+                                "x": "var $bm_rt;\n$bm_rt = thisComp.layer('Layer 2').content('Group 1').transform.scale;"
+                            },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 100, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Group 1",
+                    "cix": 2,
+                    "ix": 1
+                },
+                {
+                    "ty": "st",
+                    "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 3 },
+                    "o": { "a": 0, "k": 100, "ix": 4 },
+                    "w": { "a": 0, "k": 30.72, "ix": 5 },
+                    "lc": 2,
+                    "lj": 2,
+                    "nm": "Stroke 1"
+                }
+            ],
+            "ip": 0,
+            "op": 21,
+            "st": 0
+        },
+        {
+            "ind": 8,
+            "ty": 4,
+            "nm": "Layer 2",
+            "sr": 1,
+            "ks": {
+                "o": { "a": 0, "k": 100, "ix": 11 },
+                "r": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "i": { "x": [0.14], "y": [1] },
+                            "o": { "x": [0.333], "y": [0] },
+                            "t": 0,
+                            "s": [0]
+                        },
+                        {
+                            "i": { "x": [0.833], "y": [0.833] },
+                            "o": { "x": [0.86], "y": [0] },
+                            "t": 20,
+                            "s": [-16.3]
+                        },
+                        { "t": 37, "s": [0] }
+                    ],
+                    "ix": 10,
+                    "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                },
+                "p": {
+                    "s": true,
+                    "x": { "a": 0, "k": 255, "ix": 3 },
+                    "y": {
+                        "a": 1,
+                        "k": [
+                            {
+                                "i": { "x": [0.14], "y": [1] },
+                                "o": { "x": [0.333], "y": [0] },
+                                "t": 0,
+                                "s": [341]
+                            },
+                            {
+                                "i": { "x": [0.833], "y": [0.833] },
+                                "o": { "x": [0.86], "y": [0] },
+                                "t": 20,
+                                "s": [299]
+                            },
+                            { "t": 37, "s": [341] }
+                        ],
+                        "ix": 4,
+                        "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                    }
+                },
+                "a": { "a": 0, "k": [-1, 85, 0], "ix": 1 },
+                "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+            },
+            "ao": 0,
+            "ef": [
+                {
+                    "ty": 5,
+                    "nm": "Elastic Controller",
+                    "np": 5,
+                    "ix": 1,
+                    "en": 1,
+                    "ef": [
+                        {
+                            "ty": 0,
+                            "nm": "Amplitude",
+                            "ix": 1,
+                            "v": { "a": 0, "k": 20, "ix": 1 }
+                        },
+                        {
+                            "ty": 0,
+                            "nm": "Frequency",
+                            "ix": 2,
+                            "v": { "a": 0, "k": 60, "ix": 2 }
+                        },
+                        {
+                            "ty": 0,
+                            "nm": "Decay",
+                            "ix": 3,
+                            "v": { "a": 0, "k": 90, "ix": 3 }
+                        }
+                    ]
+                }
+            ],
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "gr",
+                            "it": [
+                                {
+                                    "ind": 0,
+                                    "ty": "sh",
+                                    "ix": 1,
+                                    "ks": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": { "x": 0.13, "y": 1 },
+                                                "o": { "x": 0.333, "y": 0 },
+                                                "t": 0,
+                                                "s": [
+                                                    {
+                                                        "i": [
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0]
+                                                        ],
+                                                        "o": [
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0]
+                                                        ],
+                                                        "v": [
+                                                            [-81.594, 166.033],
+                                                            [-63.42, 109.24],
+                                                            [66.347, 109.24],
+                                                            [84.521, 166.033]
+                                                        ],
+                                                        "c": false
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "i": { "x": 0.13, "y": 1 },
+                                                "o": { "x": 0.87, "y": 0 },
+                                                "t": 19,
+                                                "s": [
+                                                    {
+                                                        "i": [
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0]
+                                                        ],
+                                                        "o": [
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0]
+                                                        ],
+                                                        "v": [
+                                                            [-81.594, 166.033],
+                                                            [-63.527, 109.231],
+                                                            [-63.816, 109.274],
+                                                            [-81.25, 165.817]
+                                                        ],
+                                                        "c": false
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "i": { "x": 0.833, "y": 0.833 },
+                                                "o": { "x": 0.87, "y": 0 },
+                                                "t": 20,
+                                                "s": [
+                                                    {
+                                                        "i": [
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0]
+                                                        ],
+                                                        "o": [
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0]
+                                                        ],
+                                                        "v": [
+                                                            [-81.594, 166.033],
+                                                            [-63.42, 109.24],
+                                                            [66.347, 109.24],
+                                                            [84.521, 166.033]
+                                                        ],
+                                                        "c": false
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "t": 37,
+                                                "s": [
+                                                    {
+                                                        "i": [
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0]
+                                                        ],
+                                                        "o": [
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0],
+                                                            [0, 0]
+                                                        ],
+                                                        "v": [
+                                                            [-81.594, 166.033],
+                                                            [-63.527, 109.231],
+                                                            [-63.816, 109.274],
+                                                            [-81.25, 165.817]
+                                                        ],
+                                                        "c": false
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 1"
+                                },
+                                {
+                                    "ind": 1,
+                                    "ty": "sh",
+                                    "ix": 2,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [
+                                                [0, 0],
+                                                [0, 0],
+                                                [0, 0],
+                                                [0, 0]
+                                            ],
+                                            "o": [
+                                                [0, 0],
+                                                [0, 0],
+                                                [0, 0],
+                                                [0, 0]
+                                            ],
+                                            "v": [
+                                                [-81.594, 166.033],
+                                                [-63.42, 109.24],
+                                                [66.347, 109.24],
+                                                [84.521, 166.033]
+                                            ],
+                                            "c": false
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 4"
+                                },
+                                {
+                                    "ind": 2,
+                                    "ty": "sh",
+                                    "ix": 3,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [[0, 0], [0, 0], [-123.83, 0]],
+                                            "o": [[0, 0], [0, 0], [123.849, 0]],
+                                            "v": [
+                                                [123.898, -166.08],
+                                                [-123.92, -166.08],
+                                                [0.049, 53.998]
+                                            ],
+                                            "c": true
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 2"
+                                },
+                                {
+                                    "ind": 3,
+                                    "ty": "sh",
+                                    "ix": 4,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [[0, 0], [0, 0]],
+                                            "o": [[0, 0], [0, 0]],
+                                            "v": [
+                                                [117.639, 166.031],
+                                                [-114.715, 166.031]
+                                            ],
+                                            "c": false
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 3"
+                                },
+                                {
+                                    "ind": 4,
+                                    "ty": "sh",
+                                    "ix": 5,
+                                    "ks": {
+                                        "a": 0,
+                                        "k": {
+                                            "i": [[0, 0], [0, 0]],
+                                            "o": [[0, 0], [0, 0]],
+                                            "v": [
+                                                [-0.074, 54.012],
+                                                [-0.074, 109.251]
+                                            ],
+                                            "c": false
+                                        },
+                                        "ix": 2
+                                    },
+                                    "nm": "Path 5"
+                                },
+                                {
+                                    "ty": "tr",
+                                    "p": { "a": 0, "k": [0.5, 166], "ix": 2 },
+                                    "a": { "a": 0, "k": [0.5, 166], "ix": 1 },
+                                    "s": {
+                                        "a": 1,
+                                        "k": [
+                                            {
+                                                "i": {
+                                                    "x": [0.14, 0.14],
+                                                    "y": [1, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.333, 0.333],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 0,
+                                                "s": [100, 100]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [0.14, 0.14],
+                                                    "y": [1, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.86, 0.86],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 24,
+                                                "s": [75, 100]
+                                            },
+                                            {
+                                                "i": {
+                                                    "x": [0.833, 0.833],
+                                                    "y": [0.833, 1]
+                                                },
+                                                "o": {
+                                                    "x": [0.86, 0.86],
+                                                    "y": [0, 0]
+                                                },
+                                                "t": 31,
+                                                "s": [75, 100]
+                                            },
+                                            { "t": 37, "s": [100, 100] }
+                                        ],
+                                        "ix": 3,
+                                        "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                                    },
+                                    "r": { "a": 0, "k": 0, "ix": 6 },
+                                    "o": { "a": 0, "k": 100, "ix": 7 },
+                                    "sk": { "a": 0, "k": 0, "ix": 4 },
+                                    "sa": { "a": 0, "k": 0, "ix": 5 },
+                                    "nm": "Transform"
+                                }
+                            ],
+                            "nm": "Group 1",
+                            "cix": 2,
+                            "ix": 1
+                        },
+                        {
+                            "ty": "tr",
+                            "p": { "a": 0, "k": [-0.011, 166.477], "ix": 2 },
+                            "a": { "a": 0, "k": [-0.011, 166.477], "ix": 1 },
+                            "s": {
+                                "a": 1,
+                                "k": [
+                                    {
+                                        "i": { "x": [0.14, 0.14], "y": [1, 1] },
+                                        "o": {
+                                            "x": [0.333, 0.333],
+                                            "y": [0, 0]
+                                        },
+                                        "t": 0,
+                                        "s": [100, 100]
+                                    },
+                                    {
+                                        "i": { "x": [0.14, 0.14], "y": [1, 1] },
+                                        "o": { "x": [0.86, 0.86], "y": [0, 0] },
+                                        "t": 24,
+                                        "s": [100, 75]
+                                    },
+                                    {
+                                        "i": {
+                                            "x": [0.833, 0.833],
+                                            "y": [1, 0.833]
+                                        },
+                                        "o": { "x": [0.86, 0.86], "y": [0, 0] },
+                                        "t": 34,
+                                        "s": [100, 75]
+                                    },
+                                    { "t": 40, "s": [100, 100] }
+                                ],
+                                "ix": 3,
+                                "x": "var $bm_rt;\nvar eff, amp, freq, decay, n, n, t, t, v;\ntry {\n    eff = effect('Elastic Controller');\n    amp = $bm_div(eff(1), 200);\n    freq = $bm_div(eff(2), 30);\n    decay = $bm_div(eff(3), 10);\n    $bm_rt = n = 0;\n    if (numKeys > 0) {\n        $bm_rt = n = nearestKey(time).index;\n        if (key(n).time > time) {\n            n--;\n        }\n    }\n    if (n == 0) {\n        $bm_rt = t = 0;\n    } else {\n        $bm_rt = t = $bm_sub(time, key(n).time);\n    }\n    if (n > 0) {\n        v = velocityAtTime($bm_sub(key(n).time, $bm_div(thisComp.frameDuration, 10)));\n        $bm_rt = $bm_sum(value, $bm_div($bm_mul($bm_mul(v, amp), Math.sin($bm_mul($bm_mul($bm_mul(freq, t), 2), Math.PI))), Math.exp($bm_mul(decay, t))));\n    } else {\n        $bm_rt = value;\n    }\n} catch (e) {\n    $bm_rt = value = value;\n}"
+                            },
+                            "r": { "a": 0, "k": 0, "ix": 6 },
+                            "o": { "a": 0, "k": 100, "ix": 7 },
+                            "sk": { "a": 0, "k": 0, "ix": 4 },
+                            "sa": { "a": 0, "k": 0, "ix": 5 },
+                            "nm": "Transform"
+                        }
+                    ],
+                    "nm": "Group 1",
+                    "cix": 2,
+                    "ix": 1
+                },
+                {
+                    "ty": "st",
+                    "c": { "a": 0, "k": [1, 1, 1, 1], "ix": 3 },
+                    "o": { "a": 0, "k": 100, "ix": 4 },
+                    "w": { "a": 0, "k": 30.72, "ix": 5 },
+                    "lc": 2,
+                    "lj": 2,
+                    "nm": "Stroke 1"
+                }
+            ],
+            "ip": 0,
+            "op": 90,
+            "st": 0
+        }
+    ],
+    "markers": []
+}

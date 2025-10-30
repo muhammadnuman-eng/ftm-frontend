@@ -1,0 +1,515 @@
+{
+    "metadata": {
+        "titleDefault": "Funded Trader Markets",
+        "titleTemplate": "%s | Funded Trader Markets",
+        "description": "Funded Trader Markets: Pembayaran lebih pantas, syarat lebih baik, peraturan yang telus.",
+        "ogSiteName": "Funded Trader Markets",
+        "ogType": "website"
+    },
+    "header": {
+        "register": "Daftar",
+        "login": "Log Masuk"
+    },
+    "navigation": {
+        "programs": {
+            "label": "Program",
+            "links": {
+                "oneStep": {
+                    "title": "1 Step Challenge",
+                    "description": "Strategi anda, ganjaran anda."
+                },
+                "twoStep": {
+                    "title": "Cabaran 2 Langkah",
+                    "description": "Tiada had masa, drawdown statik dan kos rendah."
+                },
+                "instant": {
+                    "title": "Pembiayaan Segera",
+                    "description": "Akses modal simulasi tanpa penilaian"
+                }
+            },
+            "cta": {
+                "label": "Bandingkan Semua Program",
+                "description": "Cari program terbaik untuk gaya dagangan anda"
+            }
+        },
+        "howItWorks": "Cara Ia Berfungsi",
+        "affiliates": "Afiliasi",
+        "faq": "FAQ",
+        "resources": "Sumber",
+        "blog": {
+            "title": "Blog",
+            "description": "Pandangan dagangan terkini"
+        },
+        "tools": {
+            "title": "Alat",
+            "description": "Alat dagangan dan kalkulator"
+        },
+        "instrumentsSpec": {
+            "title": "Instrumen & Spesifikasi",
+            "description": "Simbol, saiz kontrak, komisen dan banyak lagi"
+        }
+    },
+    "mobileNavigation": {
+        "menu": "Menu",
+        "close": "Tutup",
+        "brand": "Funded Trader Markets",
+        "programs": {
+            "oneStep": "Dapatkan pembiayaan dalam satu langkah",
+            "twoStep": "Penilaian dua langkah tradisional",
+            "instant": "Pembiayaan segera tersedia"
+        }
+    },
+    "footer": {
+        "tagline": "Memperkasa pedagang di seluruh dunia dengan pembayaran pantas dan peraturan telus.",
+        "copyright": "© {year} Funded Trader Markets. Semua hak terpelihara.",
+        "links": {
+            "programs": "Program",
+            "howItWorks": "Cara Ia Berfungsi",
+            "faq": "FAQ",
+            "blog": "Blog",
+            "tools": "Alat",
+            "affiliates": "Afiliasi",
+            "support": "Sokongan",
+            "helpCenter": "Pusat Bantuan",
+            "legal": "Perundangan",
+            "privacy": "Dasar Privasi",
+            "terms": "Terma Perkhidmatan",
+            "cookies": "Dasar Kuki",
+            "refund": "Dasar Bayaran Balik",
+            "aml": "Dasar AML",
+            "discord": "Sertai Discord",
+            "x": "Sertai X",
+            "contact": "Hubungi Kami"
+        },
+        "newsletter": {
+            "title": "Sentiasa dimaklumkan",
+            "description": "Langgan untuk menerima kemas kini terkini, pandangan dagangan dan pengumuman pembayaran.",
+            "emailPlaceholder": "Masukkan e-mel anda",
+            "submit": "Langgan"
+        },
+        "groups": {
+            "resources": "Sumber",
+            "important": "Pautan Penting",
+            "policies": "Polisi",
+            "community": "Komuniti"
+        },
+        "callouts": {
+            "newsletter": {
+                "title": "Kekal di hadapan dunia dagangan",
+                "subtitle": "Langgan buletin kami",
+                "description": "Terima kemas kini terkini, pandangan dagangan dan pengumuman pembayaran terus ke peti masuk anda.",
+                "imageAlt": "Buletin"
+            },
+            "community": {
+                "title": "Sertai komuniti",
+                "description": "Dapatkan pandangan pasaran masa nyata, berhubung dengan pedagang lain dan akses analisis eksklusif pakar.",
+                "button": "Sertai Discord",
+                "imageAlt": "Discord"
+            }
+        },
+        "social": {
+            "title": "Ikuti kami",
+            "facebook": "Facebook",
+            "instagram": "Instagram",
+            "tiktok": "TikTok",
+            "youtube": "YouTube",
+            "linkedin": "LinkedIn"
+        },
+        "legal": {
+            "heading": "Maklumat Penting",
+            "body": "Semua kandungan yang disediakan oleh FTM Funded Trader Markets LTD (\"FTM\") dan sekutunya adalah untuk tujuan maklumat umum sahaja dan tidak boleh dianggap sebagai nasihat pelaburan, kewangan atau dagangan. Prestasi masa lalu tidak menunjukkan hasil masa depan. FTM bukan broker, penasihat pelaburan atau institusi kewangan."
+        }
+    },
+    "newsletterForm": {
+        "emailPlaceholder": "Masukkan e-mel anda",
+        "submit": "Langgan",
+        "sending": "Menghantar...",
+        "success": "Berjaya melanggan buletin!",
+        "error": "Langganan gagal. Sila cuba lagi.",
+        "invalidEmail": "Sila masukkan alamat e-mel anda"
+    },
+    "languageSwitcher": {
+        "label": "Bahasa",
+        "loading": "Menukar..."
+    },
+    "faqPage": {
+        "dividerTitle": "FAQ",
+        "title": "Jawapan untuk semua soalan anda",
+        "titleHighlight": "Soalan",
+        "description": "Segala yang anda perlu tahu tentang akaun pembiayaan forex kami, peraturan dagangan prop dan program afiliasi.",
+        "searchPlaceholder": "Cari FAQ...",
+        "categoriesHeading": "Kategori",
+        "featuredHeading": "Soalan Popular",
+        "featuredDescription": "Soalan yang paling kerap ditanya",
+        "noFaqs": "Belum ada soalan untuk kategori ini.",
+        "viewAll": "Lihat semua FAQ",
+        "readMore": "Baca lagi",
+        "answerUnavailable": "Kandungan tidak tersedia",
+        "emptyState": "Belum ada FAQ. Datang lagi nanti!"
+    },
+    "howItWorksPage": {
+        "header": {
+            "title": "Cara Ia Berfungsi",
+            "highlight": "Berfungsi",
+            "description": "Daripada sifar ke pembiayaan: Laluan dagangan prop FTM"
+        },
+        "propTrading": {
+            "title": "Apa itu dagangan prop?",
+            "description": "Funded Trader Markets (FTM), salah satu firma prop terbaik, menyediakan pedagang dengan akaun pembiayaan simulasi dan pembayaran sebenar. Prestasi pedagang dinilai dan mereka mesti mematuhi peraturan risiko yang ketat. Jika berjaya, mereka boleh memperoleh keuntungan sebenar sambil mengikuti parameter risiko yang ditetapkan. Langgar had dan akaun akan dinyahaktifkan. Berdagang bijak dan modal anda berkembang."
+        },
+        "steps": {
+            "cta": "Mulakan sekarang"
+        },
+        "cta": {
+            "title": "Sedia untuk bermula?",
+            "description": "Pilih program yang sesuai dengan gaya anda dan mulakan perjalanan dagangan pembiayaan anda hari ini.",
+            "primary": "Bandingkan Program",
+            "secondary": "Lihat FAQ",
+            "highlight": "Mula?",
+            "button": "Lihat Pelan Pembiayaan"
+        },
+        "meta": {
+            "title": "Cara Ia Berfungsi",
+            "description": "Ketahui bagaimana proses penilaian dagangan prop FTM berfungsi.",
+            "keywords": "prop trading, penilaian forex, akaun dagangan dibiayai, cabaran dagangan, FTM"
+        },
+        "roadmap": {
+            "title": "Peta jalan langkah demi langkah",
+            "highlight": "Peta jalan"
+        },
+        "evaluation": {
+            "title": "Jenis penilaian",
+            "description": "Pilih laluan yang paling sesuai dengan gaya anda di halaman Program kami:"
+        }
+    },
+    "programsPage": {
+        "header": {
+            "title": "Pelan pembiayaan anda bermula di sini",
+            "highlight": "Pelan Pembiayaan",
+            "description": "Dapatkan akaun dagangan dibiayai dalam persekitaran simulasi melalui program satu langkah, dua langkah atau segera, semuanya dengan peraturan fleksibel dan tanpa had masa."
+        },
+        "categories": {
+            "count": "{count, plural, one {# program tersedia} other {# program tersedia}}",
+            "oneStep": {
+                "title": "Program Satu Langkah",
+                "description": "Dapatkan pembiayaan dalam satu langkah tanpa had masa. Sesuai untuk pedagang yang mahukan hasil pantas dan bahagian keuntungan maksimum.",
+                "badge": "Paling Popular"
+            },
+            "twoStep": {
+                "title": "Program Dua Langkah",
+                "description": "Penilaian dua fasa klasik untuk mereka yang mahukan yuran lebih rendah, lebih banyak masa dan laluan berstruktur ke pembiayaan.",
+                "badge": "Klasik"
+            },
+            "instant": {
+                "title": "Program Segera",
+                "description": "Langkau penilaian dan mula berdagang dengan modal sebenar serta-merta. Tiada menunggu, tiada cabaran, hanya dagangan sebenar.",
+                "badge": "Pembiayaan Terpantas"
+            }
+        },
+        "learnMore": "Ketahui lebih lanjut",
+        "comparison": {
+            "title": "Bandingkan dan temui\nProgram Pembiayaan Terbaik anda",
+            "highlight": "Program Pembiayaan",
+            "description": "Semak ciri, peraturan dan pembayaran untuk semua program Funded Trader Markets dan cari penyelesaian pembiayaan forex yang ideal untuk anda."
+        }
+    },
+    "pricingSection": {
+        "categories": {
+            "instant": {
+                "title": "Akaun Pembiayaan Segera",
+                "description": "Dapatkan pembiayaan serta merta dan mula berdagang dengan wang sebenar segera. Sesuai untuk pedagang berpengalaman yang mahu melangkau penilaian.",
+                "benefits": {
+                    "0": "Tiada tempoh menunggu - berdagang segera",
+                    "1": "Had drawdown lebih rendah untuk dagangan lebih selamat",
+                    "2": "Pembahagian keuntungan kompetitif sehingga 80%"
+                }
+            },
+            "1-step": {
+                "title": "Program Penilaian Satu Langkah",
+                "description": "Lengkapkan satu fasa penilaian untuk membuktikan kemahiran dagangan anda. Laluan pantas ke dagangan dibiayai dengan sasaran keuntungan yang kompetitif.",
+                "benefits": {
+                    "0": "Satu fasa penilaian",
+                    "1": "Sasaran keuntungan lebih tinggi dan pembahagian sehingga 100%",
+                    "2": "Penjejakan skor konsistensi"
+                }
+            },
+            "2-step": {
+                "title": "Cabaran Dagangan Dua Langkah",
+                "description": "Proses penilaian dua fasa tradisional yang menguji konsistensi dan pengurusan risiko sebelum pembiayaan.",
+                "benefits": {
+                    "0": "Proses penilaian menyeluruh",
+                    "1": "Had drawdown lebih tinggi untuk fleksibiliti",
+                    "2": "Pembahagian keuntungan sehingga 100%"
+                }
+            }
+        }
+    },
+    "comparisonTable": {
+        "filters": {
+            "type": {
+                "label": "Jenis",
+                "options": {
+                    "all": "Semua Jenis",
+                    "oneStep": "1-Step",
+                    "twoStep": "2-Step",
+                    "instant": "Segera"
+                }
+            },
+            "program": {
+                "label": "Program",
+                "options": {
+                    "all": "Semua Program"
+                }
+            },
+            "size": {
+                "label": "Saiz",
+                "option": "{size}"
+            },
+            "drawdown": {
+                "label": "Drawdown",
+                "options": {
+                    "all": "Semua jenis drawdown",
+                    "balanceBased": "Berasaskan baki",
+                    "trailing": "Trailing",
+                    "trailingLock": "Trailing Lock"
+                }
+            },
+            "info": {
+                "label": "Maklumat",
+                "options": {
+                    "all": "Semua"
+                }
+            }
+        },
+        "rows": {
+            "shared": {
+                "none": "Tiada",
+                "eval": "Penilaian",
+                "sim": "Sim"
+            },
+            "dailyDd": {
+                "label": "DD Harian"
+            },
+            "overallDd": {
+                "label": "DD Keseluruhan"
+            },
+            "profitTarget": {
+                "label": "Sasaran Keuntungan"
+            },
+            "secondProfitTarget": {
+                "label": "Sasaran Keuntungan Kedua"
+            },
+            "minTradingDays": {
+                "label": "Minimum Hari Dagangan"
+            },
+            "consistency": {
+                "label": "Konsistensi"
+            },
+            "fee": {
+                "label": "Yuran"
+            },
+            "activationFee": {
+                "label": "Yuran Pengaktifan"
+            }
+        },
+        "table": {
+            "infoProgram": "Maklumat / Program",
+            "activationSuffix": "pengaktifan",
+            "cta": "Mulakan Sekarang",
+            "empty": "Tiada program yang sepadan dengan penapis dipilih."
+        }
+    },
+    "oneStepPage": {
+        "header": {
+            "title": "1-Step Nitro: Satu sasaran,\n tiada kelewatan.",
+            "highlight": "tiada kelewatan.",
+            "description": "Capai satu sasaran tanpa had masa untuk membuka akaun dibiayai anda. Anda simpan 100% daripada $10,000 pertama keuntungan anda. Ini dagangan mengikut cara anda. Strategi anda, ganjaran anda."
+        },
+        "cards": {
+            "nitro": {
+                "title": "1 Step Nitro",
+                "description": "Program One Phase Nitro menawarkan laluan pantas ke akaun pembiayaan simulasi dengan hanya satu fasa penilaian. Direka untuk pedagang berpengalaman.",
+                "cta": "Pilih Pelan"
+            },
+            "nitroPro": {
+                "title": "1 Step Nitro Pro",
+                "description": "Nitro Pro ialah akaun yuran sekali paling rendah dengan hanya satu fasa penilaian. Sesuai untuk pedagang yang boleh mengurus drawdown ketat.",
+                "cta": "Pilih Pelan"
+            },
+            "nitroX": {
+                "title": "1 Step Nitro X",
+                "description": "Jenis akaun Nitro X mempunyai sasaran keuntungan paling rendah dalam fasa cabaran. Dibuat untuk pedagang yang mahu sasaran penilaian minimum dengan pengurusan risiko yang kukuh.",
+                "cta": "Pilih Pelan"
+            }
+        },
+        "comparison": {
+            "title": "Perbandingan Program 1 Step",
+            "highlight": "Perbandingan",
+            "description": "Semak ciri, peraturan dan pembayaran untuk semua program 1 Step Nitro dan temui penyelesaian pembiayaan forex terbaik."
+        },
+        "benefits": {
+            "title": "Kelebihan 1-Step",
+            "highlight": "Kelebihan",
+            "description": "Temui kelebihan program 1-Step Nitro kami dan mengapa ia pilihan terbaik untuk pedagang berpengalaman.",
+            "items": {
+                "capital": {
+                    "title": "Berdagang sehingga $800,000",
+                    "description": "Akses modal berskala merentasi semua program 1 Step dan berdagang sehingga gabungan $800K."
+                },
+                "profit": {
+                    "title": "Keuntungan sehingga 100%",
+                    "description": "Dapatkan sehingga 100% daripada keuntungan anda dengan struktur pembayaran paling lumayan dalam industri."
+                },
+                "oneStep": {
+                    "title": "Dapatkan pembiayaan dalam satu langkah",
+                    "description": "Hadapi cabaran satu fasa dan terus berdagang dengan modal simulasi."
+                }
+            }
+        }
+    },
+    "twoStepPage": {
+        "header": {
+            "title": "Cabaran 2 Langkah: Untuk pedagang berpengalaman",
+            "highlight": "Model firma prop",
+            "description": "Sertai penilaian dua fasa tanpa had masa, drawdown statik dan kos rendah. Dapatkan akaun dagangan dibiayai dan nikmati keuntungan sehingga 100%."
+        },
+        "cards": {
+            "standard": {
+                "title": "Laluan penilaian asal",
+                "description": "Capai sasaran keuntungan 10% dan 5% dalam dua fasa dengan 10% drawdown keseluruhan dan had drawdown harian 3%. Kekalkan 80% daripada semua keuntungan.",
+                "cta": "Pilih Pelan"
+            },
+            "speed": {
+                "title": "Pembiayaan lebih pantas, peraturan sama",
+                "description": "Capai sasaran keuntungan 8% dan 5% dengan cabaran dua fasa pantas, 8% drawdown keseluruhan dan had drawdown harian 3%. Nikmati penilaian pantas dan simpan 80% keuntungan.",
+                "cta": "Pilih Pelan"
+            },
+            "plus": {
+                "title": "2‑Step Plus",
+                "description": "Percepatkan laluan anda ke pembiayaan dengan pelan 2‑Step Plus, pilihan 2 Step paling berpatutan, dan kekalkan 80% keuntungan dengan pembayaran atas permintaan. Parameter risiko yang jelas seperti 3% kerugian harian dan 8% drawdown keseluruhan melindungi modal ketika anda mencapai sasaran.",
+                "cta": "Pilih Pelan"
+            }
+        },
+        "comparison": {
+            "title": "Perbandingan Program 2 Step",
+            "highlight": "Perbandingan",
+            "description": "Semak ciri, peraturan dan pembayaran untuk semua program 2 Step dan cari penyelesaian pembiayaan forex terbaik."
+        },
+        "benefits": {
+            "title": "Kelebihan 2-Step",
+            "highlight": "Kelebihan",
+            "description": "Temui kelebihan program 2-Step kami dan mengapa ia sesuai untuk pedagang yang mahukan pendekatan berstruktur.",
+            "items": {
+                "capital": {
+                    "title": "Berdagang sehingga $300,000",
+                    "description": "Urus sehingga $300K dengan akaun FTM 2 Step anda dan maksimumkan potensi dagangan."
+                },
+                "scaling": {
+                    "title": "Tawaran skala eksklusif",
+                    "description": "Skalakan sehingga $3 juta, peroleh sehingga $5K/bulan dan nikmati faedah VIP seperti pembahagian keuntungan 100% dan percubaan semula cabaran percuma."
+                },
+                "risk": {
+                    "title": "Pengurusan risiko pintar",
+                    "description": "Berdagang dengan yakin dengan had kerugian harian 4% dan drawdown statik 10%."
+                }
+            }
+        }
+    },
+    "instantPage": {
+        "header": {
+            "title": "Pembiayaan Segera",
+            "highlight": "Pembiayaan",
+            "description": "Dapatkan pembiayaan segera tanpa penilaian. Akses modal simulasi, berdagang dalam keadaan pasaran terbaik dan peroleh bahagian keuntungan sehingga 80%!"
+        },
+        "cards": {
+            "standard": {
+                "title": "Instant Standard",
+                "description": "Pelan Instant Standard memberi anda akses segera ke akaun dagangan dibiayai simulasi tanpa proses penilaian. Berdagang dalam keadaan pasaran masa nyata, urus drawdown maksimum 5% dan peroleh sehingga 80% keuntungan dengan bayaran sekali.",
+                "cta": "Pilih Pelan"
+            },
+            "pro": {
+                "title": "Instant Pro",
+                "description": "Direka untuk pedagang profesional, pelan Instant Pro menawarkan tiada had drawdown harian dan had drawdown keseluruhan 3%. Berdagang di akaun dibiayai simulasi dengan fleksibiliti penuh dan peroleh sehingga 80% bahagian keuntungan dengan bayaran sekali.",
+                "cta": "Pilih Pelan"
+            },
+            "plus": {
+                "title": "Instant Plus",
+                "description": "Keseimbangan terbaik antara potensi keuntungan tinggi dan Risk Management Layer: mula serta‑merta dengan pembahagian keuntungan 80% dan pembayaran atas permintaan. Had risiko jelas seperti 3% kerugian harian dan 6% drawdown keseluruhan memberi keyakinan dari hari pertama.",
+                "cta": "Pilih Pelan"
+            }
+        },
+        "comparison": {
+            "title": "Perbandingan Program Instant",
+            "highlight": "Perbandingan",
+            "description": "Semak ciri, peraturan dan pembayaran untuk semua program Instant dan temui penyelesaian pembiayaan forex ideal."
+        },
+        "benefits": {
+            "title": "Kelebihan Segera",
+            "highlight": "Kelebihan",
+            "description": "Ketahui mengapa pedagang memilih pelan pembiayaan segera FTM.",
+            "items": {
+                "profitSplit": {
+                    "title": "Pembahagian keuntungan sehingga 80%",
+                    "description": "Simpan sehingga 80% keuntungan anda dengan model pembiayaan segera FTM."
+                },
+                "withdraw": {
+                    "title": "Pengeluaran atas permintaan",
+                    "description": "Mohon pembayaran pada bila-bila masa selepas minimum lima hari dagangan—tiada tarikh tetap, tanpa sekatan."
+                },
+                "noFreeze": {
+                    "title": "Tiada pembekuan buffer",
+                    "description": "Terima bahagian anda daripada semua keuntungan yang dijana tanpa sebarang pembekuan."
+                },
+                "drawdownReset": {
+                    "title": "Set semula drawdown",
+                    "description": "Selepas setiap pembayaran, dapatkan semula ruang drawdown penuh untuk terus berdagang."
+                },
+                "drawdownType": {
+                    "title": "Drawdown trailing berasaskan baki",
+                    "description": "Had hanya bergerak selepas posisi ditutup—tiada perangkap ekuiti terapung."
+                }
+            }
+        }
+    },
+    "advantages": {
+        "dividerTitle": "Kelebihan FTM",
+        "title": "Mengapa pedagang memilih FTM?",
+        "titleHighlight": "FTM?",
+        "description": "Temui mengapa FTM adalah firma prop terkemuka untuk pembiayaan segera, pembayaran pantas dan akaun dagangan dibiayai.",
+        "cards": {
+            "support": {
+                "title": "Sokongan 24/7",
+                "description": "Kami sedia menjawab semua soalan anda sepanjang masa."
+            },
+            "profit": {
+                "title": "Pembahagian keuntungan sehingga 100%",
+                "description": "Cara mudah untuk menerima pembayaran dalam masa 24 jam dengan jaminan."
+            },
+            "payouts": {
+                "title": "Pembayaran atas permintaan",
+                "description": "Perlu pembayaran segera? Tiada masalah! Ambil bila-bila masa."
+            },
+            "conditions": {
+                "title": "Syarat terbaik",
+                "description": "Spread ketat, tiada swap dan pelaksanaan pantas"
+            }
+        }
+    },
+    "checkout": {
+        "categories": {
+            "oneStep": "Penilaian 1 Step",
+            "twoStep": "Penilaian 2 Step",
+            "instant": "Pembiayaan Segera"
+        },
+        "orderSummary": "Ringkasan Pesanan",
+        "selectionIncomplete": "Pemilihan belum lengkap.",
+        "goBackToChoose": "Kembali untuk memilih konfigurasi"
+    },
+    "cookieConsent": {
+        "message": "Kami menggunakan kuki dan teknologi serupa untuk mengoptimumkan pengalaman anda dengan memproses data seperti tingkah laku pelayaran, dan menarik balik atau menahan persetujuan mungkin menjejaskan fungsi laman web.",
+        "acceptButton": "Terima",
+        "denyButton": "Tolak",
+        "cookiePolicyLink": "Polisi Kuki",
+        "privacyPolicyLink": "Pernyataan Privasi"
+    }
+}

@@ -1,0 +1,542 @@
+{
+    "metadata": {
+        "titleDefault": "Funded Trader Markets",
+        "titleTemplate": "%s | Funded Trader Markets",
+        "description": "Funded Trader Markets: Pagos más rápidos, mejores condiciones, reglas transparentes.",
+        "ogSiteName": "Funded Trader Markets",
+        "ogType": "website"
+    },
+    "header": {
+        "register": "Registrarse",
+        "login": "Iniciar sesión"
+    },
+    "navigation": {
+        "programs": {
+            "label": "Programas",
+            "links": {
+                "oneStep": {
+                    "title": "Desafío de 1 Paso",
+                    "description": "Tu estrategia, tu recompensa."
+                },
+                "twoStep": {
+                    "title": "Desafío de 2 Pasos",
+                    "description": "Sin límites de tiempo, drawdown estático y costos bajos."
+                },
+                "instant": {
+                    "title": "Financiación Instantánea",
+                    "description": "Accede a capital simulado sin evaluación"
+                }
+            },
+            "cta": {
+                "label": "Comparar Todos los Programas",
+                "description": "Encuentra el programa perfecto para tu estilo de trading"
+            }
+        },
+        "howItWorks": "Cómo Funciona",
+        "affiliates": "Afiliados",
+        "faq": "Preguntas Frecuentes",
+        "resources": "Recursos",
+        "blog": {
+            "title": "Blog",
+            "description": "Últimas perspectivas de trading"
+        },
+        "tools": {
+            "title": "Herramientas",
+            "description": "Herramientas y calculadoras de trading"
+        },
+        "instrumentsSpec": {
+            "title": "Instrumentos y Especificaciones",
+            "description": "Símbolos, actualizaciones del mercado y más"
+        }
+    },
+    "mobileNavigation": {
+        "menu": "Menú",
+        "close": "Cerrar",
+        "brand": "Funded Trader Markets",
+        "programs": {
+            "oneStep": "Obtén financiación en un solo paso",
+            "twoStep": "Evaluación tradicional de dos pasos",
+            "instant": "Financiación instantánea disponible"
+        }
+    },
+    "footer": {
+        "tagline": "Empoderando traders en todo el mundo con pagos rápidos y reglas transparentes.",
+        "copyright": "© {year} Funded Trader Markets. Todos los derechos reservados.",
+        "links": {
+            "programs": "Programas",
+            "howItWorks": "Cómo Funciona",
+            "faq": "Preguntas Frecuentes",
+            "blog": "Blog",
+            "tools": "Herramientas",
+            "affiliates": "Política de Afiliados",
+            "support": "Soporte",
+            "helpCenter": "Centro de Ayuda",
+            "legal": "Legal",
+            "privacy": "Política de Privacidad",
+            "terms": "Términos de Servicio",
+            "cookies": "Política de Cookies",
+            "refund": "Política de Reembolso",
+            "aml": "Política AML",
+            "discord": "Únete a Discord",
+            "x": "Únete a X",
+            "contact": "Contáctanos"
+        },
+        "newsletter": {
+            "title": "Mantente informado",
+            "description": "Suscríbete para recibir las últimas actualizaciones, perspectivas de trading y anuncios de pagos.",
+            "emailPlaceholder": "Ingresa tu correo electrónico",
+            "submit": "Suscribirse"
+        },
+        "groups": {
+            "resources": "Recursos",
+            "important": "Enlaces Importantes",
+            "policies": "Políticas",
+            "community": "Comunidad"
+        },
+        "callouts": {
+            "newsletter": {
+                "title": "Mantente Adelante en el Mundo del Trading",
+                "subtitle": "Suscríbete a nuestro Boletín",
+                "description": "Recibe las últimas actualizaciones, perspectivas de trading y anuncios de pagos directamente en tu bandeja de entrada.",
+                "imageAlt": "Boletín"
+            },
+            "community": {
+                "title": "Únete a la Comunidad",
+                "description": "Desbloquea perspectivas del mercado en tiempo real, interactúa con otros traders y obtén acceso exclusivo al análisis de expertos.",
+                "button": "Únete a Discord",
+                "imageAlt": "Discord"
+            }
+        },
+        "social": {
+            "title": "Síguenos",
+            "facebook": "Facebook",
+            "instagram": "Instagram",
+            "tiktok": "TikTok",
+            "youtube": "YouTube",
+            "linkedin": "LinkedIn"
+        },
+        "legal": {
+            "heading": "Información Importante",
+            "body": "Todo el contenido proporcionado por FTM Funded Trader Markets LTD (\"FTM\") y sus afiliados es solo para fines informativos generales y no debe interpretarse como asesoramiento de inversión, financiero o de trading. El rendimiento pasado no es indicativo de resultados futuros. FTM no es un corredor, asesor de inversiones o institución financiera."
+        }
+    },
+    "newsletterForm": {
+        "emailPlaceholder": "Ingresa tu correo electrónico",
+        "submit": "Suscribirse",
+        "sending": "Enviando...",
+        "success": "¡Suscrito exitosamente al boletín!",
+        "error": "Error al suscribirse. Por favor, inténtalo de nuevo.",
+        "invalidEmail": "Por favor, ingresa tu dirección de correo electrónico"
+    },
+    "languageSwitcher": {
+        "label": "Idioma",
+        "loading": "Cambiando..."
+    },
+    "faqPage": {
+        "dividerTitle": "Preguntas Frecuentes",
+        "title": "Respuestas a Todas tus Preguntas",
+        "titleHighlight": "Preguntas",
+        "description": "Todo lo que necesitas saber sobre nuestras cuentas de financiación forex, reglas de prop trading y programas de afiliados.",
+        "searchPlaceholder": "Buscar preguntas frecuentes...",
+        "categoriesHeading": "Categorías",
+        "featuredHeading": "Preguntas Destacadas",
+        "featuredDescription": "Preguntas más comunes",
+        "noFaqs": "Aún no hay preguntas para esta categoría.",
+        "viewAll": "Ver Todas las Preguntas",
+        "readMore": "Leer más",
+        "answerUnavailable": "Contenido no disponible",
+        "emptyState": "Aún no hay preguntas frecuentes. ¡Vuelve pronto!"
+    },
+    "howItWorksPage": {
+        "header": {
+            "title": "Cómo Funciona",
+            "highlight": "Funciona",
+            "description": "De Cero a Financiado: El Camino de FTM en Prop Trading Forex"
+        },
+        "propTrading": {
+            "title": "¿Qué es el Prop Trading?",
+            "description": "Funded Trader Markets (FTM), una de las mejores prop firms, proporciona a los traders cuentas financiadas simuladas y pagos reales. Los traders son evaluados por su rendimiento y deben seguir estrictas reglas de riesgo. Si tienen éxito, pueden ganar beneficios reales mientras siguen parámetros de riesgo estrictos. Supera los límites y la cuenta se desactiva. Opera inteligentemente y tu capital crece."
+        },
+        "steps": {
+            "cta": "Comenzar"
+        },
+        "cta": {
+            "title": "¿Listo para Comenzar?",
+            "description": "Elige el programa que se ajuste a tu estilo y comienza tu viaje de trading financiado hoy.",
+            "primary": "Comparar Programas",
+            "secondary": "Ver Preguntas Frecuentes",
+            "highlight": "Comenzar?",
+            "button": "Ver Planes de Financiación"
+        },
+        "meta": {
+            "title": "Cómo Funciona",
+            "description": "Aprende cómo funciona el proceso de evaluación de prop trading de FTM.",
+            "keywords": "prop trading, evaluación forex, cuenta de trading financiada, desafío de trading, FTM"
+        },
+        "roadmap": {
+            "title": "Hoja de Ruta Paso a Paso",
+            "highlight": "Hoja de Ruta"
+        },
+        "evaluation": {
+            "title": "Tipos de Evaluación",
+            "description": "Elige el camino que mejor se adapte a tu estilo en nuestra página de Programas:"
+        }
+    },
+    "programsPage": {
+        "header": {
+            "title": "Tu Plan de Financiación Comienza Aquí",
+            "highlight": "Plan de Financiación",
+            "description": "Obtén una cuenta de trading financiada en un entorno simulado a través de programas de un paso, dos pasos o instantáneos, todos con reglas flexibles y sin límites de tiempo."
+        },
+        "categories": {
+            "count": "{count, plural, one {# programa disponible} other {# programas disponibles}}",
+            "oneStep": {
+                "title": "Programas de 1 Paso",
+                "description": "Obtén financiación en un solo paso sin límites de tiempo. Perfecto para traders que quieren resultados rápidos y máximo porcentaje de beneficios.",
+                "badge": "Más Popular"
+            },
+            "twoStep": {
+                "title": "Programas de 2 Pasos",
+                "description": "Evaluación clásica de dos fases para aquellos que desean tarifas más bajas, más tiempo y un camino constante hacia la financiación.",
+                "badge": "Clásico"
+            },
+            "instant": {
+                "title": "Programas Instantáneos",
+                "description": "Salta la evaluación y comienza a operar con capital real al instante. Sin espera, sin desafíos, solo trading puro.",
+                "badge": "Financiación Más Rápida"
+            }
+        },
+        "learnMore": "Aprender Más",
+        "comparison": {
+            "title": "Compara y Encuentra\nTu Mejor Programa de Financiación",
+            "highlight": "Programa de Financiación",
+            "description": "Revisa características, reglas y pagos para todos los programas de Funded Trader Markets y encuentra la solución de financiación forex ideal para ti."
+        }
+    },
+    "pricingSection": {
+        "categories": {
+            "instant": {
+                "title": "Cuenta de Financiación Instantánea",
+                "description": "Obtén financiación instantánea y comienza a operar con dinero real inmediatamente. Perfecto para traders experimentados que quieren omitir el proceso de evaluación.",
+                "benefits": {
+                    "0": "Sin periodo de espera - opera inmediatamente",
+                    "1": "Límites de drawdown más bajos para un trading más seguro",
+                    "2": "Divisiones de beneficios competitivas de hasta 80%"
+                }
+            },
+            "1-step": {
+                "title": "Programa de Evaluación de 1 Paso",
+                "description": "Completa solo una fase de evaluación para demostrar tus habilidades de trading. Un camino simplificado hacia el trading financiado con objetivos de beneficios competitivos.",
+                "benefits": {
+                    "0": "Fase de evaluación única",
+                    "1": "Objetivos de beneficios y divisiones más altos de hasta 100%",
+                    "2": "Seguimiento de puntuación de consistencia"
+                }
+            },
+            "2-step": {
+                "title": "Desafío de Trading de 2 Pasos",
+                "description": "Proceso de evaluación tradicional de dos fases que prueba exhaustivamente tu consistencia y gestión de riesgos antes de la financiación.",
+                "benefits": {
+                    "0": "Proceso de evaluación integral",
+                    "1": "Límites de drawdown más altos para flexibilidad",
+                    "2": "Divisiones de beneficios de hasta 100%"
+                }
+            }
+        }
+    },
+    "comparisonTable": {
+        "filters": {
+            "type": {
+                "label": "Tipo",
+                "options": {
+                    "all": "Todos los Tipos",
+                    "oneStep": "1 Paso",
+                    "twoStep": "2 Pasos",
+                    "instant": "Instantáneo"
+                }
+            },
+            "program": {
+                "label": "Programa",
+                "options": {
+                    "all": "Todos los Programas"
+                }
+            },
+            "size": {
+                "label": "Tamaño",
+                "option": "{size}"
+            },
+            "drawdown": {
+                "label": "Drawdown",
+                "options": {
+                    "all": "Todos los Tipos de Drawdown",
+                    "balanceBased": "Basado en Balance",
+                    "trailing": "Trailing",
+                    "trailingLock": "Trailing Lock"
+                }
+            },
+            "info": {
+                "label": "Info",
+                "options": {
+                    "all": "Todos"
+                }
+            }
+        },
+        "rows": {
+            "shared": {
+                "none": "Ninguno",
+                "eval": "Eval",
+                "sim": "Sim"
+            },
+            "dailyDd": {
+                "label": "DD Diario"
+            },
+            "overallDd": {
+                "label": "DD General"
+            },
+            "profitTarget": {
+                "label": "Objetivo de Beneficio"
+            },
+            "secondProfitTarget": {
+                "label": "2º Objetivo de Beneficio"
+            },
+            "minTradingDays": {
+                "label": "Días Mínimos de Trading"
+            },
+            "consistency": {
+                "label": "Consistencia"
+            },
+            "profitSplit": {
+                "label": "División de Beneficios"
+            },
+            "fee": {
+                "label": "Tarifa"
+            },
+            "activationFee": {
+                "label": "Tarifa de Activación"
+            }
+        },
+        "table": {
+            "infoProgram": "Info / Programa",
+            "activationSuffix": "activación",
+            "cta": "Comenzar",
+            "empty": "No hay programas que coincidan con los filtros seleccionados."
+        }
+    },
+    "oneStepPage": {
+        "header": {
+            "title": "1 Paso Nitro: Un Objetivo,\n Cero Demoras.",
+            "highlight": "Cero Demoras.",
+            "description": "Supera un objetivo sin límites de tiempo para desbloquear tu cuenta financiada. Te quedas con el 100% de tus primeros $10,000 en beneficios. Esto es trading en tus términos. Tu estrategia, tu recompensa."
+        },
+        "cards": {
+            "nitro": {
+                "title": "1 Paso Nitro",
+                "description": "Nuestro Programa Nitro de Una Fase ofrece a los traders un camino rápido hacia una cuenta financiada simulada con una sola fase de evaluación. Diseñado para traders experimentados.",
+                "cta": "Seleccionar Plan"
+            },
+            "nitroPro": {
+                "title": "1 Paso Nitro Pro",
+                "description": "El 1 Paso Nitro Pro es el tipo de cuenta con tarifa única de menor precio y tiene solo una fase de evaluación. Adecuado para traders que pueden gestionar con éxito drawdowns más ajustados.",
+                "cta": "Seleccionar Plan"
+            },
+            "nitroX": {
+                "title": "1 Paso Nitro X",
+                "description": "El tipo de cuenta Nitro X tiene el objetivo de beneficio mínimo en la fase de desafío. Hecho para traders con buena destreza en gestión de riesgos que desean un objetivo de evaluación mínimo.",
+                "cta": "Seleccionar Plan"
+            }
+        },
+        "comparison": {
+            "title": "Comparación de Programas de 1 Paso",
+            "highlight": "Comparación",
+            "description": "Revisa características, reglas y pagos para todos los programas 1 Paso Nitro y encuentra la solución de financiación forex ideal para ti."
+        },
+        "benefits": {
+            "title": "Beneficios de 1 Paso",
+            "highlight": "Beneficios",
+            "description": "Descubre las ventajas de nuestros programas 1 Paso Nitro y por qué son la elección perfecta para traders experimentados.",
+            "items": {
+                "capital": {
+                    "title": "Opera con Hasta $800,000",
+                    "description": "Accede a capital escalable en todos los programas de 1 Paso y opera con hasta $800K combinados."
+                },
+                "profit": {
+                    "title": "Hasta 100% de Beneficio",
+                    "description": "Gana hasta el 100% de tus beneficios con una de las estructuras de pago más generosas de la industria."
+                },
+                "oneStep": {
+                    "title": "Obtén Financiación en Solo 1 Paso",
+                    "description": "Asume un desafío de una sola fase y pasa directamente a operar con capital simulado."
+                }
+            }
+        }
+    },
+    "twoStepPage": {
+        "header": {
+            "title": "Desafío de 2 Pasos: Construido para Traders Probados",
+            "highlight": "Modelo de Prop Firm",
+            "description": "Únete a una evaluación de dos fases sin límites de tiempo, drawdown estático y costos bajos. Obtén una cuenta de trading financiada y gana hasta 100% de beneficios."
+        },
+        "cards": {
+            "standard": {
+                "title": "2 Pasos Estándar",
+                "description": "Alcanza objetivos de beneficios del 10% y 5% en dos fases con un drawdown general del 10% y un límite de drawdown diario del 3%. Quédate con el 80% de todos los beneficios que generes.",
+                "cta": "Seleccionar Plan"
+            },
+            "speed": {
+                "title": "2 Pasos Speed",
+                "description": "Alcanza objetivos de beneficios del 8% y 5% con un desafío rápido de dos fases, con un drawdown general del 8% y un límite de drawdown diario del 3%. Benefíciate de evaluaciones rápidas y quédate con el 80% de todos los beneficios que ganes.",
+                "cta": "Seleccionar Plan"
+            },
+            "plus": {
+                "title": "2 Pasos Plus",
+                "description": "Acelera tu viaje hacia la financiación con el plan 2 Pasos Plus, la opción de 2 Pasos más asequible, y conserva el 80% de todos los beneficios con pagos a demanda. Opera con confianza dentro de límites de drawdown diario del 3% y general del 8%, mientras la Capa de Gestión de Riesgos asegura que tu capital esté protegido mientras alcanzas tus objetivos de beneficios.",
+                "cta": "Seleccionar Plan"
+            }
+        },
+        "comparison": {
+            "title": "Comparación de Programas de 2 Pasos",
+            "highlight": "Comparación",
+            "description": "Revisa características, reglas y pagos para todos los programas de 2 Pasos y encuentra la solución de financiación forex ideal para ti."
+        },
+        "benefits": {
+            "title": "Beneficios de 2 Pasos",
+            "highlight": "Beneficios",
+            "description": "Descubre las ventajas de nuestros programas de 2 Pasos y por qué son la elección perfecta para traders que prefieren un enfoque estructurado.",
+            "items": {
+                "capital": {
+                    "title": "Opera con hasta $300,000",
+                    "description": "Gestiona hasta $300K con tu cuenta FTM de 2 Pasos y maximiza tu potencial de trading."
+                },
+                "scaling": {
+                    "title": "Ofertas Exclusivas de Escalado",
+                    "description": "Escala hasta $3M, gana hasta $5K/mes y disfruta de ventajas VIP como división de beneficios del 100% y reintentos de desafío gratuitos."
+                },
+                "risk": {
+                    "title": "Gestión Inteligente de Riesgos",
+                    "description": "Opera con confianza con un límite de pérdida diaria del 4% y un drawdown estático del 10%."
+                }
+            }
+        }
+    },
+    "instantPage": {
+        "header": {
+            "title": "Financiación Instantánea",
+            "highlight": "Financiación",
+            "description": "¡Obtén financiación instantánea sin evaluación. Accede a capital simulado, opera en las mejores condiciones del mercado y gana hasta 80% de división de beneficios!"
+        },
+        "cards": {
+            "standard": {
+                "title": "Instantáneo Estándar",
+                "description": "El plan Instantáneo Estándar te da acceso inmediato a una cuenta de trading financiada simulada sin proceso de evaluación. Opera con condiciones de mercado en tiempo real, gestiona un drawdown máximo del 5% y gana hasta 80% de beneficios a través de una simple tarifa única sin cargos recurrentes.",
+                "cta": "Seleccionar Plan"
+            },
+            "pro": {
+                "title": "Instantáneo Pro",
+                "description": "Diseñado para traders profesionales, el plan Instantáneo Pro no ofrece límites de drawdown diario y un límite de drawdown general del 3%. Opera en una cuenta financiada simulada con total flexibilidad y gana hasta 80% de división de beneficios con un pago único.",
+                "cta": "Seleccionar Plan"
+            },
+            "plus": {
+                "title": "Instantáneo Plus",
+                "description": "Experimenta el equilibrio perfecto entre alto potencial de beneficios y Capa de Gestión de Riesgos con el plan Instantáneo Plus. Comienza a operar de inmediato con una división de beneficios del 80% y pagos a demanda. Parámetros de riesgo claros como un límite diario del 3% y general del 6% están diseñados para proteger tu viaje y ayudarte a operar con confianza desde el primer día.",
+                "cta": "Seleccionar Plan"
+            }
+        },
+        "comparison": {
+            "title": "Comparación de Programas Instantáneos",
+            "highlight": "Comparación",
+            "description": "Revisa características, reglas y pagos para todos los programas Instantáneos y encuentra la solución de financiación forex ideal para ti."
+        },
+        "benefits": {
+            "title": "Beneficios Instantáneos",
+            "highlight": "Beneficios",
+            "description": "Descubre por qué los traders eligen los planes de financiación instantánea de FTM.",
+            "items": {
+                "profitSplit": {
+                    "title": "Hasta 80% de División de Beneficios",
+                    "description": "Quédate con hasta el 80% de tus beneficios con el modelo de financiación instantánea de FTM."
+                },
+                "withdraw": {
+                    "title": "Retira a Demanda",
+                    "description": "Solicita tu pago en cualquier momento después de los 5 días mínimos de trading—sin fechas de pago fijas, sin restricciones."
+                },
+                "noFreeze": {
+                    "title": "Sin Congelación de Buffer",
+                    "description": "Obtén tu parte de todos los beneficios generados sin ninguna congelación."
+                },
+                "drawdownReset": {
+                    "title": "Reinicio de Drawdown",
+                    "description": "Después de cada pago, obtén espacio completo de drawdown para continuar operando."
+                },
+                "drawdownType": {
+                    "title": "Drawdown Trailing Basado en Balance",
+                    "description": "Los límites solo se arrastran después de posiciones cerradas—sin trampas de equity flotante."
+                }
+            }
+        }
+    },
+    "advantages": {
+        "dividerTitle": "La Ventaja de FTM",
+        "title": "¿Por Qué los Traders Eligen FTM?",
+        "titleHighlight": "FTM?",
+        "description": "Descubre por qué FTM es una prop firm líder en financiación instantánea, pagos rápidos y cuentas de trading financiadas.",
+        "cards": {
+            "support": {
+                "title": "Soporte 24/7",
+                "description": "Estamos aquí para responder todas tus preguntas. TODO el día y la noche"
+            },
+            "profit": {
+                "title": "Hasta 100% de División de Beneficios",
+                "description": "Un método fácil para recibir tu pago en 24 horas garantizado"
+            },
+            "payouts": {
+                "title": "Pagos a Demanda",
+                "description": "¿Necesitas recibir tu pago instantáneamente? ¡No hay problema! Obténlo cuando quieras."
+            },
+            "conditions": {
+                "title": "Mejores Condiciones",
+                "description": "Spreads ajustados, Sin Swaps y Ejecución Rápida"
+            }
+        }
+    },
+    "checkout": {
+        "categories": {
+            "oneStep": "Evaluación de 1 Paso",
+            "twoStep": "Evaluación de 2 Pasos",
+            "instant": "Financiación Instantánea"
+        },
+        "orderSummary": "Resumen del Pedido",
+        "selectionIncomplete": "Selección incompleta.",
+        "goBackToChoose": "Vuelve atrás para elegir tu configuración"
+    },
+    "cookieConsent": {
+        "message": "Utilizamos cookies y tecnologías similares para optimizar tu experiencia procesando datos como el comportamiento de navegación, y retirar o retener el consentimiento puede afectar la funcionalidad del sitio.",
+        "acceptButton": "Aceptar",
+        "denyButton": "Rechazar",
+        "cookiePolicyLink": "Política de Cookies",
+        "privacyPolicyLink": "Declaración de Privacidad"
+    },
+    "contactPage": {
+        "badge": "Estamos Aquí Para Ti",
+        "title": "Estamos Listos Para Escuchar y Responder",
+        "description": "Tu voz es importante para nosotros, y esperamos conectar contigo.",
+        "form": {
+            "namePlaceholder": "María García",
+            "phonePlaceholder": "Teléfono",
+            "emailPlaceholder": "Correo electrónico",
+            "messagePlaceholder": "Mensaje",
+            "submit": "Enviar",
+            "sending": "Enviando...",
+            "success": "¡Mensaje enviado con éxito! Te responderemos dentro de 24 horas laborables.",
+            "error": "Error al enviar el mensaje. Por favor, inténtalo de nuevo.",
+            "responseTime": "Te contactaremos dentro de 24 horas laborables."
+        },
+        "info": {
+            "title": "Información de Contacto",
+            "description": "Contáctanos. Tu opinión importa.",
+            "office": "Oficina",
+            "address": "56 Alekou Konstantinou, Strovolos, 2024, Nicosia, Chipre.",
+            "email": "Correo electrónico",
+            "emailAddress": "support@fundedtradermarkets.com"
+        }
+    }
+}

@@ -1,0 +1,105 @@
+Instant Funded Pro - C-Trader
+5k - 1050000
+10k - 1050001
+25k - 1050002
+50k - 1050003
+100k - 1050004
+
+Instant Funded Pro - Match
+5k - 1050100
+10k - 1050101
+25k - 1050102
+50k - 1050103
+100k - 1050104
+
+Instant Funded Pro - TL
+5k - 1050200
+10k - 1050201
+25k - 1050202
+50k - 1050203
+100k - 1050204
+
+Instant Funded Pro - MetaTrader 5
+5k - 1050300
+10k - 1050301
+25k - 1050302
+50k - 1050303
+100k - 1050304
+
+---
+
+Instant Funded - C-Trader
+5k - 1060000
+10k - 1060001
+25k - 1060002
+50k - 1060003
+100k - 1060004
+
+Instant Funded - Match
+5k - 1060100
+10k - 1060101
+25k - 1060102
+50k - 1060103
+100k - 1060104
+
+Instant Funded - TL
+5k - 1060200
+10k - 1060201
+25k - 1060202
+50k - 1060203
+100k - 1060204
+
+Instant Funded - MetaTrader 5
+5k - 1060300
+10k - 1060301
+25k - 1060302
+50k - 1060303
+100k - 1060304
+
+
+---
+## 1 Step Nitro X - Reset Fee
+
+1 Step Nitro X - $25K - TradeLocker -> 1070200
+1 Step Nitro X - $25K - MatchTrade -> 1070100
+1 Step Nitro X - $25K - cTrader -> 1070000
+1 Step Nitro X - $25K - MetaTrader5 -> 1070300
+
+1 Step Nitro X - $50K - TradeLocker -> 1070201
+1 Step Nitro X - $50K - MatchTrade -> 1070101
+1 Step Nitro X - $50K - cTrader -> 1070001
+1 Step Nitro X - $50K - MetaTrader5 -> 1070301
+
+1 Step Nitro X - $100K - TradeLocker -> 1070202
+1 Step Nitro X - $100K - MatchTrade -> 1070102
+1 Step Nitro X - $100K - cTrader -> 1070002
+1 Step Nitro X - $100K - MetaTrader5 -> 1070302
+
+1 Step Nitro X - $150K - TradeLocker -> 1070203
+1 Step Nitro X - $150K - MatchTrade -> 1070103
+1 Step Nitro X - $150K - cTrader -> 1070003
+1 Step Nitro X - $150K - MetaTrader5 -> 1070303
+
+
+---
+## 1 Step Nitro X - Funded Reset Fee
+
+1 Step Nitro X - $25K - TradeLocker -> 1071200
+1 Step Nitro X - $25K - MatchTrade -> 1071100
+1 Step Nitro X - $25K - cTrader -> 1071000
+1 Step Nitro X - $25K - MetaTrader5 -> 1071300
+
+1 Step Nitro X - $50K - TradeLocker -> 1071201
+1 Step Nitro X - $50K - MatchTrade -> 1071101
+1 Step Nitro X - $50K - cTrader -> 1071001
+1 Step Nitro X - $50K - MetaTrader5 -> 1071301
+
+1 Step Nitro X - $100K - TradeLocker -> 1071202
+1 Step Nitro X - $100K - MatchTrade -> 1071102
+1 Step Nitro X - $100K - cTrader -> 1071002
+1 Step Nitro X - $100K - MetaTrader5 -> 1071302
+
+1 Step Nitro X - $150K - TradeLocker -> 1071203
+1 Step Nitro X - $150K - MatchTrade -> 1071103
+1 Step Nitro X - $150K - cTrader -> 1071003
+1 Step Nitro X - $150K - MetaTrader5 -> 1071303

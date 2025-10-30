@@ -1,0 +1,515 @@
+{
+    "metadata": {
+        "titleDefault": "Funded Trader Markets",
+        "titleTemplate": "%s | Funded Trader Markets",
+        "description": "Funded Trader Markets: Daha hızlı ödemeler, daha iyi işlem koşulları, şeffaf kurallar.",
+        "ogSiteName": "Funded Trader Markets",
+        "ogType": "website"
+    },
+    "header": {
+        "register": "Kayıt Ol",
+        "login": "Giriş Yap"
+    },
+    "navigation": {
+        "programs": {
+            "label": "Programlar",
+            "links": {
+                "oneStep": {
+                    "title": "1 Step Challenge",
+                    "description": "Stratejiniz, ödülünüz."
+                },
+                "twoStep": {
+                    "title": "2-Step Challenge",
+                    "description": "Zaman sınırı yok, statik drawdown, düşük maliyet."
+                },
+                "instant": {
+                    "title": "Anında Finansman",
+                    "description": "Değerlendirme olmadan sanal sermayeye erişin"
+                }
+            },
+            "cta": {
+                "label": "Tüm Programları Karşılaştır",
+                "description": "Trading stilinize en uygun programı bulun"
+            }
+        },
+        "howItWorks": "Nasıl Çalışır",
+        "affiliates": "Satış Ortakları",
+        "faq": "SSS",
+        "resources": "Kaynaklar",
+        "blog": {
+            "title": "Blog",
+            "description": "En güncel trading analizleri"
+        },
+        "tools": {
+            "title": "Araçlar",
+            "description": "Trading araçları ve hesaplayıcılar"
+        },
+        "instrumentsSpec": {
+            "title": "Enstrümanlar ve Spesifikasyon",
+            "description": "Semboller, kontrat büyüklükleri, komisyonlar ve daha fazlası"
+        }
+    },
+    "mobileNavigation": {
+        "menu": "Menü",
+        "close": "Kapat",
+        "brand": "Funded Trader Markets",
+        "programs": {
+            "oneStep": "Tek aşamada fonlama",
+            "twoStep": "Geleneksel iki aşamalı değerlendirme",
+            "instant": "Anında finansman seçenekleri"
+        }
+    },
+    "footer": {
+        "tagline": "Dünya genelinde trader'ları hızlı ödemeler ve şeffaf kurallarla güçlendiriyoruz.",
+        "copyright": "© {year} Funded Trader Markets. Tüm hakları saklıdır.",
+        "links": {
+            "programs": "Programlar",
+            "howItWorks": "Nasıl Çalışır",
+            "faq": "SSS",
+            "blog": "Blog",
+            "tools": "Araçlar",
+            "affiliates": "Satış Ortakları",
+            "support": "Destek",
+            "helpCenter": "Yardım Merkezi",
+            "legal": "Yasal",
+            "privacy": "Gizlilik Politikası",
+            "terms": "Hizmet Şartları",
+            "cookies": "Çerez Politikası",
+            "refund": "İade Politikası",
+            "aml": "AML Politikası",
+            "discord": "Discord'a Katıl",
+            "x": "X'e Katıl",
+            "contact": "Bize Ulaşın"
+        },
+        "newsletter": {
+            "title": "Güncel kalın",
+            "description": "En yeni güncellemeleri, trading içgörülerini ve ödeme duyurularını almak için abone olun.",
+            "emailPlaceholder": "E-postanızı girin",
+            "submit": "Abone Ol"
+        },
+        "groups": {
+            "resources": "Kaynaklar",
+            "important": "Önemli Bağlantılar",
+            "policies": "Politikalar",
+            "community": "Topluluk"
+        },
+        "callouts": {
+            "newsletter": {
+                "title": "Trading dünyasında önde olun",
+                "subtitle": "Bültenimize abone olun",
+                "description": "En güncel duyuruları ve piyasa içgörülerini doğrudan gelen kutunuza alın.",
+                "imageAlt": "Bülten"
+            },
+            "community": {
+                "title": "Topluluğa katılın",
+                "description": "Gerçek zamanlı piyasa içgörülerine erişin, diğer trader'larla iletişime geçin ve uzman analizlerini kaçırmayın.",
+                "button": "Discord'a Katıl",
+                "imageAlt": "Discord"
+            }
+        },
+        "social": {
+            "title": "Bizi takip edin",
+            "facebook": "Facebook",
+            "instagram": "Instagram",
+            "tiktok": "TikTok",
+            "youtube": "YouTube",
+            "linkedin": "LinkedIn"
+        },
+        "legal": {
+            "heading": "Önemli Bilgi",
+            "body": "FTM Funded Trader Markets LTD (\"FTM\") ve iştirakleri tarafından sağlanan tüm içerik yalnızca genel bilgi amaçlıdır ve yatırım, finans veya trading tavsiyesi olarak değerlendirilmemelidir. Geçmiş performans gelecekteki sonuçların göstergesi değildir. FTM bir broker, yatırım danışmanı veya finans kuruluşu değildir."
+        }
+    },
+    "newsletterForm": {
+        "emailPlaceholder": "E-postanızı girin",
+        "submit": "Abone Ol",
+        "sending": "Gönderiliyor...",
+        "success": "Bültene başarıyla abone olundu!",
+        "error": "Abonelik başarısız oldu. Lütfen tekrar deneyin.",
+        "invalidEmail": "Lütfen e-posta adresinizi girin"
+    },
+    "languageSwitcher": {
+        "label": "Dil",
+        "loading": "Değiştiriliyor..."
+    },
+    "faqPage": {
+        "dividerTitle": "SSS",
+        "title": "Tüm sorularınıza yanıtlar",
+        "titleHighlight": "Sorular",
+        "description": "Forex fonlama hesaplarımız, prop trading kurallarımız ve ortaklık programlarımız hakkında bilmeniz gereken her şey.",
+        "searchPlaceholder": "SSS ara...",
+        "categoriesHeading": "Kategoriler",
+        "featuredHeading": "Öne Çıkan Sorular",
+        "featuredDescription": "En sık sorulan sorular",
+        "noFaqs": "Bu kategori için henüz soru yok.",
+        "viewAll": "Tüm SSS'leri görüntüle",
+        "readMore": "Daha fazla oku",
+        "answerUnavailable": "İçerik mevcut değil",
+        "emptyState": "Henüz SSS yok. Yakında tekrar kontrol edin!"
+    },
+    "howItWorksPage": {
+        "header": {
+            "title": "Nasıl Çalışır",
+            "highlight": "Çalışır",
+            "description": "Sıfırdan fonlamaya: FTM prop trading süreci"
+        },
+        "propTrading": {
+            "title": "Prop trading nedir?",
+            "description": "Funded Trader Markets (FTM), lider prop firmalarından biri olarak trader'lara sanal fonlu hesaplar ve gerçek ödemeler sunar. Trader'lar performanslarına göre değerlendirilir ve sıkı risk parametrelerine uymalıdır. Başarılı olduklarında, belirlenen risk sınırlarına bağlı kalarak gerçek kâr elde ederler. Limitler aşıldığında hesap kapanır; disiplinli trading sermayenizi büyütür."
+        },
+        "steps": {
+            "cta": "Hemen başla"
+        },
+        "cta": {
+            "title": "Başlamaya hazır mısınız?",
+            "description": "Stilinize uygun programı seçin ve bugün fonlu hesap yolculuğunuza başlayın.",
+            "primary": "Programları Karşılaştır",
+            "secondary": "SSS'leri Gör",
+            "highlight": "Başla?",
+            "button": "Fonlama Planlarını Gör"
+        },
+        "meta": {
+            "title": "Nasıl Çalışır",
+            "description": "FTM'nin prop trading değerlendirme sürecinin nasıl işlediğini öğrenin.",
+            "keywords": "prop trading, forex değerlendirme, fonlu hesap, trading challenge, FTM"
+        },
+        "roadmap": {
+            "title": "Adım adım yol haritası",
+            "highlight": "Yol Haritası"
+        },
+        "evaluation": {
+            "title": "Değerlendirme türleri",
+            "description": "Programlar sayfamızda stilinize en uygun yolu seçin:"
+        }
+    },
+    "programsPage": {
+        "header": {
+            "title": "Fonlama planınız burada başlıyor",
+            "highlight": "Fonlama Planı",
+            "description": "Tek aşamalı, iki aşamalı veya anında programlarla sanal ortamda fonlu bir trading hesabı açın; esnek kurallar ve zaman sınırı olmadan."
+        },
+        "categories": {
+            "count": "{count, plural, one {# program mevcut} other {# program mevcut}}",
+            "oneStep": {
+                "title": "1 Step Programları",
+                "description": "Zaman sınırı olmadan tek adımda fonlama alın. Hızlı sonuç ve maksimum kâr paylaşımı isteyen trader'lar için ideal.",
+                "badge": "En Popüler"
+            },
+            "twoStep": {
+                "title": "2 Step Programları",
+                "description": "Daha düşük ücret, daha fazla süre ve istikrarlı fonlama yolu arayanlar için klasik iki aşamalı değerlendirme.",
+                "badge": "Klasik"
+            },
+            "instant": {
+                "title": "Anında Programlar",
+                "description": "Değerlendirmeyi atlayın ve gerçek sermayeyle hemen işlem yapın. Bekleme yok, challenge yok, yalnızca trading.",
+                "badge": "En Hızlı Fonlama"
+            }
+        },
+        "learnMore": "Daha fazlasını öğrenin",
+        "comparison": {
+            "title": "Karşılaştırın ve en iyi\nfonlama programınızı bulun",
+            "highlight": "Fonlama Programı",
+            "description": "Tüm Funded Trader Markets programlarının özelliklerini, kurallarını ve ödemelerini inceleyin; size en uygun forex fonlama çözümünü seçin."
+        }
+    },
+    "pricingSection": {
+        "categories": {
+            "instant": {
+                "title": "Anında Fonlama Hesabı",
+                "description": "Anında fonlama alın ve gerçek piyasa koşullarında hemen işlem yapın. Değerlendirme sürecini atlamak isteyen deneyimli trader'lar için ideal.",
+                "benefits": {
+                    "0": "Bekleme yok – hemen trading",
+                    "1": "Daha sıkı risk için düşük drawdown limitleri",
+                    "2": "%80'e kadar rekabetçi kâr paylaşımı"
+                }
+            },
+            "1-step": {
+                "title": "1-Step Değerlendirme Programı",
+                "description": "Trading becerilerinizi kanıtlamak için tek bir değerlendirme aşamasını tamamlayın. Rekabetçi kâr hedefleriyle fonlu hesaba hızlı geçiş.",
+                "benefits": {
+                    "0": "Tek değerlendirme aşaması",
+                    "1": "%100'e kadar daha yüksek kâr hedefleri ve paylaşımı",
+                    "2": "Tutarlılık puanı takibi"
+                }
+            },
+            "2-step": {
+                "title": "2-Step Trading Challenge",
+                "description": "Fonlamadan önce tutarlılığınızı ve risk yönetiminizi ölçen geleneksel iki aşamalı değerlendirme süreci.",
+                "benefits": {
+                    "0": "Kapsamlı değerlendirme yapısı",
+                    "1": "Esneklik için yüksek drawdown limitleri",
+                    "2": "%100'e kadar kâr paylaşımı"
+                }
+            }
+        }
+    },
+    "comparisonTable": {
+        "filters": {
+            "type": {
+                "label": "Tür",
+                "options": {
+                    "all": "Tüm Türler",
+                    "oneStep": "1-Step",
+                    "twoStep": "2-Step",
+                    "instant": "Anında"
+                }
+            },
+            "program": {
+                "label": "Program",
+                "options": {
+                    "all": "Tüm Programlar"
+                }
+            },
+            "size": {
+                "label": "Büyüklük",
+                "option": "{size}"
+            },
+            "drawdown": {
+                "label": "Drawdown",
+                "options": {
+                    "all": "Tüm Drawdown Türleri",
+                    "balanceBased": "Bakiye Bazlı",
+                    "trailing": "Trailing",
+                    "trailingLock": "Trailing Kilit"
+                }
+            },
+            "info": {
+                "label": "Bilgi",
+                "options": {
+                    "all": "Hepsi"
+                }
+            }
+        },
+        "rows": {
+            "shared": {
+                "none": "Yok",
+                "eval": "Değerl.",
+                "sim": "Sim"
+            },
+            "dailyDd": {
+                "label": "Günlük DD"
+            },
+            "overallDd": {
+                "label": "Toplam DD"
+            },
+            "profitTarget": {
+                "label": "Kâr Hedefi"
+            },
+            "secondProfitTarget": {
+                "label": "2. Kâr Hedefi"
+            },
+            "minTradingDays": {
+                "label": "Minimum İşlem Günü"
+            },
+            "consistency": {
+                "label": "Tutarlılık"
+            },
+            "fee": {
+                "label": "Ücret"
+            },
+            "activationFee": {
+                "label": "Aktivasyon Ücreti"
+            }
+        },
+        "table": {
+            "infoProgram": "Bilgi / Program",
+            "activationSuffix": "aktivasyon",
+            "cta": "Hemen Başla",
+            "empty": "Seçilen filtrelere uyan program bulunamadı."
+        }
+    },
+    "oneStepPage": {
+        "header": {
+            "title": "1-Step Nitro: Tek hedef,\n sıfır gecikme.",
+            "highlight": "sıfır gecikme.",
+            "description": "Zaman sınırı olmadan tek hedefi tamamlayın ve fonlu hesabınızı açın. İlk 10.000 $ kazancınızın %100'ü sizde. Bu, kendi kurallarınızla trading demek; stratejiniz, ödülünüz."
+        },
+        "cards": {
+            "nitro": {
+                "title": "1 Step Nitro",
+                "description": "One Phase Nitro Programımız, tek bir değerlendirme aşamasıyla sanal fonlama hesabına hızlı geçiş sunar; gelişmiş trader'lar için tasarlandı.",
+                "cta": "Plan Seç"
+            },
+            "nitroPro": {
+                "title": "1 Step Nitro Pro",
+                "description": "1 Step Nitro Pro, tek seferlik en düşük ücretli hesap türüdür ve yalnızca bir değerlendirme aşaması içerir. Daha sıkı drawdown'ları yönetebilen trader'lar için uygundur.",
+                "cta": "Plan Seç"
+            },
+            "nitroX": {
+                "title": "1 Step Nitro X",
+                "description": "Nitro X, challenge aşamasında en düşük kâr hedefine sahiptir. Risk yönetimini başarıyla uygulayan ve minimum değerlendirme hedefi isteyen trader'lar için idealdir.",
+                "cta": "Plan Seç"
+            }
+        },
+        "comparison": {
+            "title": "1 Step Program Karşılaştırması",
+            "highlight": "Karşılaştırma",
+            "description": "Tüm 1 Step Nitro programlarının özelliklerini, kurallarını ve ödemelerini inceleyin; size en uygun forex fonlama çözümünü seçin."
+        },
+        "benefits": {
+            "title": "1-Step Avantajları",
+            "highlight": "Avantajlar",
+            "description": "1-Step Nitro programlarımızın avantajlarını keşfedin ve neden deneyimli trader'ların ilk tercihi olduğunu görün.",
+            "items": {
+                "capital": {
+                    "title": "$800.000'a kadar işlem hacmi",
+                    "description": "Tüm 1 Step programlarında ölçeklenebilir sermayeye erişin ve toplamda 800.000 $'a kadar işlem yapın."
+                },
+                "profit": {
+                    "title": "%100'e kadar kâr paylaşımı",
+                    "description": "Sektörün en cömert ödeme planlarından biriyle kârınızı %100'e kadar elinizde tutun."
+                },
+                "oneStep": {
+                    "title": "Tek adımda fonlama",
+                    "description": "Tek aşamalı challenge'ı tamamlayın ve sanal sermayeyle hemen trading'e geçin."
+                }
+            }
+        }
+    },
+    "twoStepPage": {
+        "header": {
+            "title": "2-Step Challenge: Kanıtlanmış trader'lar için",
+            "highlight": "Prop firm modeli",
+            "description": "Zaman sınırı olmayan, statik drawdown ve düşük maliyetli iki aşamalı değerlendirmeye katılın. Fonlu trading hesabı alın ve %100'e kadar kâr paylaşımı kazanın."
+        },
+        "cards": {
+            "standard": {
+                "title": "Orijinal değerlendirme yolu",
+                "description": "İki aşamada %10 ve %5 kâr hedeflerine ulaşın; %10 toplam drawdown ve %3 günlük drawdown limitiyle işlem yapın. Elde ettiğiniz kârların %80'ini elinizde tutun.",
+                "cta": "Plan Seç"
+            },
+            "speed": {
+                "title": "Daha hızlı fonlama, aynı kurallar",
+                "description": "%8 ve %5 kâr hedeflerine hızlandırılmış iki aşamalı challenge ile ulaşın; %8 toplam drawdown ve %3 günlük limit. Hızlı değerlendirmelerden faydalanın ve kârınızın %80'ini alın.",
+                "cta": "Plan Seç"
+            },
+            "plus": {
+                "title": "2‑Step Plus",
+                "description": "2‑Step Plus planı, en uygun fiyatlı 2 Step seçeneğiyle fonlamaya giden yolunuzu hızlandırır ve talebe bağlı ödemelerle kârların %80'ini korumanızı sağlar. %3 günlük ve %8 toplam drawdown gibi net risk limitleri, hedeflerinize ilerlerken sermayenizi korur.",
+                "cta": "Plan Seç"
+            }
+        },
+        "comparison": {
+            "title": "2 Step Program Karşılaştırması",
+            "highlight": "Karşılaştırma",
+            "description": "Tüm 2 Step programlarının özelliklerini, kurallarını ve ödemelerini inceleyin; size en uygun forex fonlama çözümünü seçin."
+        },
+        "benefits": {
+            "title": "2-Step Avantajları",
+            "highlight": "Avantajlar",
+            "description": "2-Step programlarımızın sağladığı avantajları öğrenin ve neden yapılandırılmış yaklaşımı tercih eden trader'lar için ideal olduğunu görün.",
+            "items": {
+                "capital": {
+                    "title": "$300.000'a kadar sermaye",
+                    "description": "FTM 2 Step hesabınızla 300.000 $'a kadar sermaye yönetin ve işlem kapasitenizi artırın."
+                },
+                "scaling": {
+                    "title": "Özel ölçeklendirme teklifler",
+                    "description": "$3 milyon'a kadar ölçeklenin, ayda 5.000 $'a kadar kazanın ve %100 kâr paylaşımı ile ücretsiz challenge yeniden denemeleri gibi VIP ayrıcalıklardan yararlanın."
+                },
+                "risk": {
+                    "title": "Akıllı risk yönetimi",
+                    "description": "%4 günlük kayıp limiti ve %10 statik drawdown ile güvenle işlem yapın."
+                }
+            }
+        }
+    },
+    "instantPage": {
+        "header": {
+            "title": "Anında Finansman",
+            "highlight": "Finansman",
+            "description": "Değerlendirme olmadan anında fonlama alın. Sanal sermayeye erişin, en iyi piyasa koşullarında işlem yapın ve %80'e kadar kâr paylaşımı kazanın!"
+        },
+        "cards": {
+            "standard": {
+                "title": "Instant Standard",
+                "description": "Instant Standard planı, değerlendirme süreci olmadan sanal fonlu trading hesabına anında erişim sağlar. Gerçek zamanlı piyasa koşullarında işlem yapın, maksimum %5 drawdown yönetin ve tekrar eden ücret olmaksızın tek ödeme ile %80'e kadar kâr paylaşımı alın.",
+                "cta": "Plan Seç"
+            },
+            "pro": {
+                "title": "Instant Pro",
+                "description": "Profesyonel trader'lar için tasarlanan Instant Pro planı, günlük drawdown limiti olmadan %3 toplam drawdown sunar. Tam esneklikle işlem yapın ve tek seferlik ödeme ile %80'e kadar kâr paylaşımı kazanın.",
+                "cta": "Plan Seç"
+            },
+            "plus": {
+                "title": "Instant Plus",
+                "description": "Instant Plus planı, yüksek kâr potansiyeli ile Risk Management Layer arasında dengeli bir çözüm sunar. %80 kâr paylaşımı ve talebe bağlı ödemelerle hemen başlayın. %3 günlük ve %6 toplam limit gibi net risk parametreleri, ilk günden güvenle işlem yapmanızı sağlar.",
+                "cta": "Plan Seç"
+            }
+        },
+        "comparison": {
+            "title": "Instant Program Karşılaştırması",
+            "highlight": "Karşılaştırma",
+            "description": "Tüm Instant programlarının özelliklerini, kurallarını ve ödemelerini inceleyin; size en uygun forex fonlama seçeneğini bulun."
+        },
+        "benefits": {
+            "title": "Anında Avantajlar",
+            "highlight": "Avantajlar",
+            "description": "Trader'ların neden FTM'nin anında fonlama planlarını tercih ettiğini görün.",
+            "items": {
+                "profitSplit": {
+                    "title": "%80'e kadar kâr paylaşımı",
+                    "description": "FTM'nin anında fonlama modeliyle kazançlarınızın %80'ine kadarını elinizde tutun."
+                },
+                "withdraw": {
+                    "title": "İstediğiniz zaman ödeme",
+                    "description": "Minimum beş işlem gününün ardından istediğiniz zaman ödeme talep edin—sabit ödeme tarihi yok, kısıtlama yok."
+                },
+                "noFreeze": {
+                    "title": "Buffer dondurma yok",
+                    "description": "Üretilen tüm kârlardan payınızı herhangi bir dondurma olmadan alın."
+                },
+                "drawdownReset": {
+                    "title": "Drawdown sıfırlama",
+                    "description": "Her ödeme sonrası, tradinge devam etmek için tam drawdown alanına yeniden sahip olun."
+                },
+                "drawdownType": {
+                    "title": "Bakiye bazlı trailing drawdown",
+                    "description": "Limitler yalnızca kapanan pozisyonlardan sonra hareket eder—floating equity tuzakları yok."
+                }
+            }
+        }
+    },
+    "advantages": {
+        "dividerTitle": "FTM Avantajı",
+        "title": "Trader'lar neden FTM'yi seçiyor?",
+        "titleHighlight": "FTM?",
+        "description": "FTM'nin anında fonlama, hızlı ödemeler ve fonlu trading hesaplarında neden lider olduğunu keşfedin.",
+        "cards": {
+            "support": {
+                "title": "7/24 destek",
+                "description": "Sorularınız için günün her saati hazırız."
+            },
+            "profit": {
+                "title": "%100'e kadar kâr paylaşımı",
+                "description": "24 saat içinde ödeme almanın en hızlı yolu."
+            },
+            "payouts": {
+                "title": "Talebe bağlı ödemeler",
+                "description": "Ödemenize hemen mi ihtiyacınız var? Sorun değil—istediğiniz zaman talep edin."
+            },
+            "conditions": {
+                "title": "En iyi işlem koşulları",
+                "description": "Dar spreadler, swap yok ve hızlı execution"
+            }
+        }
+    },
+    "checkout": {
+        "categories": {
+            "oneStep": "1-Step Değerlendirme",
+            "twoStep": "2-Step Değerlendirme",
+            "instant": "Anında Finansman"
+        },
+        "orderSummary": "Sipariş Özeti",
+        "selectionIncomplete": "Seçim tamamlanmadı.",
+        "goBackToChoose": "Konfigürasyonu seçmek için geri dönün"
+    },
+    "cookieConsent": {
+        "message": "Deneyiminizi optimize etmek için tarama davranışı gibi verileri işleyerek çerezler ve benzer teknolojiler kullanıyoruz. Onayı geri çekmek veya vermemek site işlevselliğini etkileyebilir.",
+        "acceptButton": "Kabul Et",
+        "denyButton": "Reddet",
+        "cookiePolicyLink": "Çerez Politikası",
+        "privacyPolicyLink": "Gizlilik Bildirimi"
+    }
+}

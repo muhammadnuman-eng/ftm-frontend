@@ -1,0 +1,203 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@plugin "@tailwindcss/typography";
+
+@theme {
+    --font-sans:
+        "Geist", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+        "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+html,
+body {
+    background-color: #0c0a09;
+    background-image: url("/images/grit.png");
+    background-repeat: repeat;
+    background-size: 118px 118px;
+    color: #ffffff;
+
+    /* Mobile Safari scroll performance fixes */
+    -webkit-overflow-scrolling: touch;
+}
+
+:root {
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    --radius: 0.625rem;
+    --background: oklch(14.7% 0.004 49.25);
+    --foreground: oklch(1 0 0);
+    --card: oklch(0.2291 0.0151 281.55);
+    --card-foreground: oklch(1 0 0);
+    --popover: oklch(14.7% 0.004 49.25);
+    --popover-foreground: oklch(1 0 0);
+    --primary: oklch(0.6905 0.1099 216.24);
+    --primary-foreground: oklch(1 0 0);
+    --secondary: oklch(0.97 0 0);
+    --secondary-foreground: oklch(0.205 0 0);
+    --muted: oklch(0.97 0 0);
+    --muted-foreground: oklch(0.556 0 0);
+    --accent: oklch(21.6% 0.006 56.043);
+    --accent-foreground: oklch(98.5% 0.001 106.423);
+    --destructive: oklch(0.577 0.245 27.325);
+    --border: oklch(21.6% 0.006 56.043);
+    --input: oklch(21.6% 0.006 56.043);
+    --ring: oklch(0.708 0 0);
+
+    --color-indigo-50: #f0f8ff;
+    --color-indigo-100: #dff0ff;
+    --color-indigo-200: #b9e2fe;
+    --color-indigo-300: #7bccfe;
+    --color-indigo-400: #35b3fb;
+    --color-indigo-500: #0a95e6;
+    --color-indigo-600: #0079ca;
+    --color-indigo-700: #0061a4;
+    --color-indigo-800: #055387;
+    --color-indigo-900: #0a4470;
+    --color-indigo-950: #072b4a;
+
+    --color-blue-50: #ebfffd;
+    --color-blue-100: #ccfffb;
+    --color-blue-200: #9ffffa;
+    --color-blue-300: #5cfffa;
+    --color-blue-400: #0dfbfd;
+    --color-blue-500: #00dde3;
+    --color-blue-600: #00b1bf;
+    --color-blue-700: #048c9a;
+    --color-blue-800: #0e707c;
+    --color-blue-900: #105c69;
+    --color-blue-950: #043d48;
+}
+
+@theme inline {
+    --radius-sm: calc(var(--radius) - 4px);
+    --radius-md: calc(var(--radius) - 2px);
+    --radius-lg: var(--radius);
+    --radius-xl: calc(var(--radius) + 4px);
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --color-card: var(--card);
+    --color-card-foreground: var(--card-foreground);
+    --color-popover: var(--popover);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-primary: var(--primary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-secondary: var(--secondary);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-muted: var(--muted);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-accent: var(--accent);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-destructive: var(--destructive);
+    --color-border: var(--border);
+    --color-input: var(--input);
+    --color-ring: var(--ring);
+    --color-chart-1: var(--chart-1);
+    --color-chart-2: var(--chart-2);
+    --color-chart-3: var(--chart-3);
+    --color-chart-4: var(--chart-4);
+    --color-chart-5: var(--chart-5);
+    --color-sidebar: var(--sidebar);
+    --color-sidebar-foreground: var(--sidebar-foreground);
+    --color-sidebar-primary: var(--sidebar-primary);
+    --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+    --color-sidebar-accent: var(--sidebar-accent);
+    --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+    --color-sidebar-border: var(--sidebar-border);
+    --color-sidebar-ring: var(--sidebar-ring);
+
+    --animate-marquee: marquee var(--duration) infinite linear;
+    --animate-marquee-vertical: marquee-vertical var(--duration) linear infinite;
+
+    @keyframes marquee {
+        from {
+            transform: translate3d(0, 0, 0);
+        }
+        to {
+            transform: translate3d(calc(-100% - var(--gap)), 0, 0);
+        }
+    }
+    @keyframes marquee-vertical {
+        from {
+            transform: translate3d(0, 0, 0);
+        }
+        to {
+            transform: translate3d(0, calc(-100% - var(--gap)), 0);
+        }
+    }
+
+    --animate-aurora: aurora 60s linear infinite;
+    @keyframes aurora {
+        from {
+            background-position:
+                50% 50%,
+                50% 50%;
+        }
+        to {
+            background-position:
+                350% 50%,
+                350% 50%;
+        }
+    }
+}
+
+@layer base {
+    * {
+        @apply border-border outline-ring/50;
+    }
+}
+
+@layer base {
+    * {
+        @apply border-border outline-ring/50;
+    }
+    body {
+        @apply bg-background text-foreground;
+    }
+}
+
+@layer utilities {
+    .line-clamp-3 {
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+}
+
+/* Lexical Table Styling for FAQs */
+.prose .lexical-table-container {
+    overflow: hidden;
+    background-color: rgb(168 162 158 / 0.05) !important;
+    border-radius: 0.5rem !important;
+    border: 1px solid rgb(168 162 158 / 0.3) !important; /* stone-400 */
+}
+
+.prose .lexical-table {
+    border-collapse: collapse !important;
+    width: calc(100% + 2px) !important;
+    margin: -1px !important;
+    border: none !important;
+}
+
+.prose .lexical-table-cell,
+.prose .lexical-table td,
+.prose .lexical-table th {
+    border: 1px solid rgb(168 162 158 / 0.3) !important;
+    padding: 0.75rem !important;
+}
+
+.prose .lexical-table th {
+    @apply bg-gradient-to-b from-blue-500/10 to-indigo-500/15 !text-stone-400 !text-sm whitespace-nowrap;
+}
+
+.prose .lexical-table th p,
+.prose .lexical-table td p {
+    margin: 0 !important;
+}
+
+/* Safari-specific variant using @supports */
+@variant safari (@supports (background: -webkit-named-image(i)));
+@variant non-safari (@supports not (background: -webkit-named-image(i)));
